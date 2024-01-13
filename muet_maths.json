@@ -1,0 +1,2684 @@
+[
+{
+  "Question": "Three coins are tossed, the probability of getting 3 heads is",
+  "OptionA": "1/2",
+  "OptionB": "1/8",
+  "OptionC": "1/4",
+  "OptionD": "1/6",
+  "CorrectOption": "1/8"
+},
+
+{
+  "Question": "For the binomial theorem (a+b)^n, if n is even, then how many middle terms will there be?",
+  "OptionA": "Two",
+  "OptionB": "One",
+  "OptionC": "Three",
+  "OptionD": "Four",
+  "CorrectOption": "Two"
+},
+
+{
+  "Question": "In how many ways can 3 prizes be distributed among 8 players of cricket, 5 players of cycling, and 7 players of hockey?",
+  "OptionA": "252",
+  "OptionB": "210",
+  "OptionC": "280",
+  "OptionD": "120",
+  "CorrectOption": "280"
+},
+
+{
+  "Question": "The line through the focus and perpendicular to the directrix of a parabola is?",
+  "OptionA": "Axis of the parabola",
+  "OptionB": "Vertex of the parabola",
+  "OptionC": "Tangent to the parabola",
+  "OptionD": "Normal to the parabola",
+  "CorrectOption": "Axis of the parabola"
+},
+
+{
+  "Question": "Value of sin30?",
+  "OptionA": "1/2",
+  "OptionB": "√3/2",
+  "OptionC": "1",
+  "OptionD": "1/√2",
+  "CorrectOption": "1/2"
+},
+
+{
+  "Question": "How many terms are there in (a+b)^12?",
+  "OptionA": "13",
+  "OptionB": "11",
+  "OptionC": "24",
+  "OptionD": "12",
+  "CorrectOption": "13"
+},
+
+{
+  "Question": "Tan(-x)?",
+  "OptionA": "Tan(x)",
+  "OptionB": "-Tan(x)",
+  "OptionC": "-Cot(x)",
+  "OptionD": "None",
+  "CorrectOption": "-Tan(x)"
+},
+
+{
+  "Question": "Range of Cotx?",
+  "OptionA": "(0,∞)",
+  "OptionB": "(-∞,0)",
+  "OptionC": "(-∞,∞)",
+  "OptionD": "(1,∞)",
+  "CorrectOption": "(-∞,0)"
+},
+
+{
+  "Question": "4^a=8^b. Find a:b",
+  "OptionA": "2:3",
+  "OptionB": "3:2",
+  "OptionC": "1:2",
+  "OptionD": "2:1",
+  "CorrectOption": "1:2"
+},
+
+{
+  "Question": "1 + Tan^2 @ ???",
+  "OptionA": "Cot^2 @",
+  "OptionB": "Sec^2 @",
+  "OptionC": "Cosec^2 @",
+  "OptionD": "None",
+  "CorrectOption": "Sec^2 @"
+},
+
+{
+  "Question": "Find the inverse of the matrix\n5  4\n6  5",
+  "OptionA": "-5/11 -4/11\n-6/11 -5/11",
+  "OptionB": "-5/11 6/11\n-4/11 5/11",
+  "OptionC": "5/11 -4/11\n6/11 -5/11",
+  "OptionD": "5/11 4/11\n-6/11 -5/11",
+  "CorrectOption": "-5/11 -4/11\n-6/11 -5/11"
+},
+
+{
+  "Question": "√(2^x) = 64. Find x",
+  "OptionA": "3",
+  "OptionB": "6",
+  "OptionC": "9",
+  "OptionD": "12",
+  "CorrectOption": "6"
+},
+
+{
+  "Question": "2^√x = 64. Find x",
+  "OptionA": "6",
+  "OptionB": "9",
+  "OptionC": "12",
+  "OptionD": "15",
+  "CorrectOption": "9"
+},
+
+{
+  "Question": "Boundary of the circle is called??",
+  "OptionA": "Diameter",
+  "OptionB": "Circumference",
+  "OptionC": "Radius",
+  "OptionD": "Chord",
+  "CorrectOption": "Circumference"
+},
+
+{
+  "Question": "y=(x-1)/(x+1). Find the derivative y'",
+  "OptionA": "-2/(x+1)^2",
+  "OptionB": "2/(x+1)^2",
+  "OptionC": "2/(x-1)^2",
+  "OptionD": "-2/(x-1)^2",
+  "CorrectOption": "2/(x+1)^2"
+},
+
+{
+  "Question": "P(x) = 3x^2 + (k-1)x + 9. P(3)=0. Find k?",
+  "OptionA": "-8",
+  "OptionB": "-11",
+  "OptionC": "11",
+  "OptionD": "8",
+  "CorrectOption": "-11"
+},
+
+{
+  "Question": "(x/a - a/x)^10, what is its 4th term",
+  "OptionA": "120a^4/x^4",
+  "OptionB": "210a^6/x^6",
+  "OptionC": "252a^5/x^5",
+  "OptionD": "120a^5/x^5",
+  "CorrectOption": "120a^5/x^5"
+},
+
+{
+  "Question": "Sin60??",
+  "OptionA": "1/√2",
+  "OptionB": "√3/2",
+  "OptionC": "√2/2",
+  "OptionD": "1/2",
+  "CorrectOption": "√3/2"
+},
+
+{
+  "Question": "3,7,11,15. What is its 7th term?",
+  "OptionA": "25",
+  "OptionB": "21",
+  "OptionC": "29",
+  "OptionD": "23",
+  "CorrectOption": "29"
+},
+
+{
+  "Question": "(a+b)^22. What number term is the middle term?",
+  "OptionA": "10th",
+  "OptionB": "8th",
+  "OptionC": "12th",
+  "OptionD": "6th",
+  "CorrectOption": "12th"
+},
+
+{
+  "Question": "(ax+b)^7. Number of terms?",
+  "OptionA": "8",
+  "OptionB": "7",
+  "OptionC": "14",
+  "OptionD": "15",
+  "CorrectOption": "8"
+},
+
+{
+  "Question": "lim x-->infinity, (x/x+1)^x??",
+  "OptionA": "1",
+  "OptionB": "0",
+  "OptionC": "∞",
+  "OptionD": "e",
+  "CorrectOption": "e"
+},
+
+{
+  "Question": "Definite integral of sinx from 0 to pi is??",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "2",
+  "OptionD": "-1",
+  "CorrectOption": "2"
+},
+
+{
+  "Question": "If the following matrix is symmetric\n1 7\nx -2. Find x",
+  "OptionA": "9",
+  "OptionB": "7",
+  "OptionC": "8",
+  "OptionD": "6",
+  "CorrectOption": "7"
+},
+
+{
+  "Question": "f(x)=x+3, g(x)=x+1. Find fog(2)??",
+  "OptionA": "6",
+  "OptionB": "5",
+  "OptionC": "4",
+  "OptionD": "7",
+  "CorrectOption": "6"
+},
+
+{
+  "Question": "From the deck of 52 cards, the probability of getting a black queen is??",
+  "OptionA": "1/26",
+  "OptionB": "1/13",
+  "OptionC": "1/52",
+  "OptionD": "1/39",
+  "CorrectOption": "1/26"
+},
+
+{
+  "Question": "Period of 3Tan3x",
+  "OptionA": "π/3",
+  "OptionB": "π",
+  "OptionC": "2π",
+  "OptionD": "3π",
+  "CorrectOption": "π/3"
+},
+
+{
+  "Question": "P(x)=3x^2 + 8x + 9. P(-8)??",
+  "OptionA": "-91",
+  "OptionB": "-55",
+  "OptionC": "-89",
+  "OptionD": "-75",
+  "CorrectOption": "-89"
+},
+
+{
+  "Question": "A={2,3,4,5}. Number of subsets???",
+  "OptionA": "8",
+  "OptionB": "12",
+  "OptionC": "16",
+  "OptionD": "32",
+  "CorrectOption": "16"
+},
+
+{
+  "Question": "Parametric equation of a circle is??",
+  "OptionA": "(x-a)^2 + (y-b)^2 = r^2",
+  "OptionB": "x^2 + y^2 = r^2",
+  "OptionC": "x = rcosθ, y = rsinθ",
+  "OptionD": "y = mx + c",
+  "CorrectOption": "x = rcosθ, y = rsinθ"
+},
+
+{
+  "Question": "Multiplicative inverse of (√2,√3)???",
+  "OptionA": "√2/5, -√3/5",
+  "OptionB": "-√2/5, √3/5",
+  "OptionC": "-√2/3, -√3/2",
+  "OptionD": "√2/3, √3/2",
+  "CorrectOption": "√2/5, -√3/5"
+},
+
+{
+  "Question": "Cube roots of unity is a group under",
+  "OptionA": "Addition",
+  "OptionB": "Subtraction",
+  "OptionC": "Multiplication",
+  "OptionD": "None",
+  "CorrectOption": "Multiplication"
+},
+
+{
+  "Question": "Slope of a horizontal line m=Tan0 is??",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "Undefined",
+  "OptionD": "Infinity",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "Derivative of y=e^sinx^2 is??",
+  "OptionA": "2x e^sinx^2 . sinx^2",
+  "OptionB": "e^sinx^2 . cosx",
+  "OptionC": "e^sinx^2 . 2cosx",
+  "OptionD": "e^sinx^2 . 2x cosx",
+  "CorrectOption": "2x e^sinx^2 . sinx^2"
+},
+
+{
+  "Question": "Integration of cosx/sinx dx",
+  "OptionA": "log|tan(x/2)|",
+  "OptionB": "-log|tan(x/2)|",
+  "OptionC": "log|cot(x/2)|",
+  "OptionD": "-log|cot(x/2)|",
+  "CorrectOption": "log|tan(x/2)|"
+},
+
+{
+  "Question": "Find the inverse of the following matrix\n6 -3\n0 1",
+  "OptionA": "1 3\n0 6",
+  "OptionB": "1 2\n0 1",
+  "OptionC": "1 -3\n0 1",
+  "OptionD": "1 -2\n0 1",
+  "CorrectOption": "1 3\n0 6"
+},
+
+{
+  "Question": "A vector with 0 magnitude and arbitrary direction is called",
+  "OptionA": "Unit vector",
+  "OptionB": "Null vector",
+  "OptionC": "Position vector",
+  "OptionD": "Free vector",
+  "CorrectOption": "Null vector"
+},
+
+{
+  "Question": "Formula of Tan(A-B)??",
+  "OptionA": "(Tan A - Tan B) / (1 + Tan A Tan B)",
+  "OptionB": "(Tan A - Tan B) / (1 - Tan A Tan B)",
+  "OptionC": "(Tan A + Tan B) / (1 - Tan A Tan B)",
+  "OptionD": "(Tan A + Tan B) / (1 + Tan A Tan B)",
+  "CorrectOption": "(Tan A - Tan B) / (1 + Tan A Tan B)"
+},
+
+{
+  "Question": "F(x)=underroot(x), then F(4)??",
+  "OptionA": "2",
+  "OptionB": "4",
+  "OptionC": "8",
+  "OptionD": "16",
+  "CorrectOption": "2"
+},
+
+{
+  "Question": "Roots of 5x^2 -8x+3=0 are",
+  "OptionA": "(1,3/5)",
+  "OptionB": "(1/5,3)",
+  "OptionC": "(3/5,1)",
+  "OptionD": "(3,1/5)",
+  "CorrectOption": "(1,3/5)"
+},
+
+{
+  "Question": "(x + 1/x)^7, coefficient of x??",
+  "OptionA": "0",
+  "OptionB": "7",
+  "OptionC": "14",
+  "OptionD": "21",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "d/dx (x^n - 2)",
+  "OptionA": "nx^(n-1)",
+  "OptionB": "n(x^n - 1)",
+  "OptionC": "x^(n-1) - 2",
+  "OptionD": "n(x^(n-1) - 2)",
+  "CorrectOption": "nx^(n-1)"
+},
+
+{
+  "Question": "If f(x) = 3-√x then f'(1)??",
+  "OptionA": "1/(2√x)",
+  "OptionB": "1/(4√x)",
+  "OptionC": "1/(2√3)",
+  "OptionD": "1/(4√3)",
+  "CorrectOption": "1/(4√3)"
+},
+
+{
+  "Question": "The transpose of an upper triangle matrix is:",
+  "OptionA": "Diagonal matrix",
+  "OptionB": "Nonsingular matrix",
+  "OptionC": "Lower triangle matrix",
+  "OptionD": "None",
+  "CorrectOption": "Lower triangle matrix"
+},
+
+{
+  "Question": "Which matrix is an identity matrix?",
+  "OptionA": "Zero matrix",
+  "OptionB": "Diagonal matrix",
+  "OptionC": "Identity matrix",
+  "OptionD": "Square matrix",
+  "CorrectOption": "Identity matrix"
+},
+
+{
+  "Question": "Which element is multiplicative identity?",
+  "OptionA": "1",
+  "OptionB": "-1",
+  "OptionC": "0",
+  "OptionD": "both 0 and -1",
+  "CorrectOption": "1"
+},
+
+{
+  "Question": "If 2 and 3 are the roots of a quadratic equation then the required equation is:",
+  "OptionA": "x^2-5x+3=0",
+  "OptionB": "x^2 – 5x + 6 = 0",
+  "OptionC": "x^2 -5x+5= 0",
+  "OptionD": "None",
+  "CorrectOption": "x^2-5x+3=0"
+},
+
+{
+  "Question": "A sequence of numbers in which every term after the first is obtained from the preceding term by multiplying it with a constant number is called:??",
+  "OptionA": "Arithmetic sequence",
+  "OptionB": "Geometric sequence",
+  "OptionC": "Fibonacci sequence",
+  "OptionD": "Quadratic sequence",
+  "CorrectOption": "Geometric sequence"
+},
+
+{
+  "Question": "√-1 belongs to the set of",
+  "OptionA": "Real numbers",
+  "OptionB": "Complex numbers",
+  "OptionC": "Irrational numbers",
+  "OptionD": "Natural numbers",
+  "CorrectOption": "Complex numbers"
+},
+
+{
+  "Question": "The conjugate of the complex (-3,-2) is??",
+  "OptionA": "(3,-2)",
+  "OptionB": "(-3,2)",
+  "OptionC": "(3,2)",
+  "OptionD": "(-3,-2)",
+  "CorrectOption": "(-3,2)"
+},
+
+{
+  "Question": "Factors of x^2 - 4 are:",
+  "OptionA": "(x-2)(x+2)",
+  "OptionB": "(x-2)(x+1)",
+  "OptionC": "(x-2)(x-1)",
+  "OptionD": "(x + 2)(x-1)",
+  "CorrectOption": "(x-2)(x+2)"
+},
+
+{
+  "Question": "If A is a matrix of order m x n then A+A =?",
+  "OptionA": "2A",
+  "OptionB": "A^2",
+  "OptionC": "A",
+  "OptionD": "None",
+  "CorrectOption": "2A"
+},
+
+{
+  "Question": "(-ai)^4??? i=iota",
+  "OptionA": "a",
+  "OptionB": "-a",
+  "OptionC": "a^2",
+  "OptionD": "-a^2",
+  "CorrectOption": "a^2"
+},
+
+{
+  "Question": "Let A and B be any two sets then A-(A-B)??",
+  "OptionA": "AnB",
+  "OptionB": "AUB",
+  "OptionC": "Empty set",
+  "OptionD": "{ }",
+  "CorrectOption": "AUB"
+},
+
+{
+  "Question": "8,3,-2,???",
+  "OptionA": "7",
+  "OptionB": "6",
+  "OptionC": "-3",
+  "OptionD": "-6",
+  "CorrectOption": "-3"
+},
+
+{
+  "Question": "Integration of (e^x + cosx)dx",
+  "OptionA": "e^x + sinx + C",
+  "OptionB": "e^x - sinx + C",
+  "OptionC": "e^x + cosx + C",
+  "OptionD": "e^x - cosx + C",
+  "CorrectOption": "e^x + sinx + C"
+},
+
+{
+  "Question": "The complex number (0,1) is denoted by?",
+  "OptionA": "-1",
+  "OptionB": "i^2",
+  "OptionC": "-i",
+  "OptionD": "i",
+  "CorrectOption": "i"
+},
+
+{
+  "Question": "limit x-->-2 (2x^3 +5x)/3x-2??",
+  "OptionA": "2",
+  "OptionB": "-1",
+  "OptionC": "5",
+  "OptionD": "0",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "How many distinct 4 digit numbers can be formed from the integers 1,2,3,4,5,6 if each integer is used only once?",
+  "OptionA": "36",
+  "OptionB": "360",
+  "OptionC": "3600",
+  "OptionD": "36000",
+  "CorrectOption": "360"
+},
+
+{
+  "Question": "The common difference in the sequence 5,9,13,...... is?",
+  "OptionA": "2",
+  "OptionB": "4",
+  "OptionC": "6",
+  "OptionD": "8",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "To convert from radians to degrees we multiply the measure by",
+  "OptionA": "180/pi",
+  "OptionB": "pi/180",
+  "OptionC": "pi",
+  "OptionD": "180",
+  "CorrectOption": "180/pi"
+},
+
+{
+  "Question": "A GP cannot contain",
+  "OptionA": "1 as a term",
+  "OptionB": "-1 as a term",
+  "OptionC": "2 as a term",
+  "OptionD": "0 as a term",
+  "CorrectOption": "0 as a term"
+},
+
+{
+  "Question": "if A={2,4,6} and B={1,4,6} the AUB will be???",
+  "OptionA": "{ }",
+  "OptionB": "AnB",
+  "OptionC": "AUB",
+  "OptionD": "Empty set",
+  "CorrectOption": "AUB"
+},
+
+{
+  "Question": "if nC8 = nC12 then n=?",
+  "OptionA": "10",
+  "OptionB": "12",
+  "OptionC": "14",
+  "OptionD": "16",
+  "CorrectOption": "10"
+},
+
+{
+  "Question": "Integration of (3x^2 +2x)dx??",
+  "OptionA": "x^3 + x^2 + C",
+  "OptionB": "x^3 + x + C",
+  "OptionC": "x^3 + C",
+  "OptionD": "x^2 + x + C",
+  "CorrectOption": "x^3 + x^2 + C"
+},
+
+{
+  "Question": "if f(x)=cosx then f''(pi/2)???",
+  "OptionA": "1",
+  "OptionB": "0",
+  "OptionC": "-1",
+  "OptionD": "undefined",
+  "CorrectOption": "-1"
+},
+
+{
+  "Question": "45 degree corresponds to",
+  "OptionA": "pi/4",
+  "OptionB": "pi",
+  "OptionC": "3pi/4",
+  "OptionD": "2pi",
+  "CorrectOption": "pi/4"
+},
+
+{
+  "Question": "The value solution of the differential equation d/dx=sinx",
+  "OptionA": "cosx + C",
+  "OptionB": "sinx + C",
+  "OptionC": "-cosx + C",
+  "OptionD": "-sinx + C",
+  "CorrectOption": "-cosx + C"
+},
+
+{
+  "Question": "Lim x-->0 sin(3x/2)/x",
+  "OptionA": "2/3",
+  "OptionB": "3/2",
+  "OptionC": "0",
+  "OptionD": "infinity",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "How many necklaces can be made from the 6 beads of different colors",
+  "OptionA": "720",
+  "OptionB": "360",
+  "OptionC": "120",
+  "OptionD": "60",
+  "CorrectOption": "60"
+},
+
+{
+  "Question": "Sin@==??",
+  "OptionA": "cos@",
+  "OptionB": "tan@",
+  "OptionC": "1/cos@",
+  "OptionD": "underroot(1-cos^2@)",
+  "CorrectOption": "underroot(1-cos^2@)"
+},
+
+{
+  "Question": "{8,10,12,14,......500} how many terms in this sequence",
+  "OptionA": "247",
+  "OptionB": "248",
+  "OptionC": "249",
+  "OptionD": "250",
+  "CorrectOption": "247"
+},
+
+{
+  "Question": "Lim n--->infinity (1+1/n )^n",
+  "OptionA": "e",
+  "OptionB": "2e",
+  "OptionC": "e^2",
+  "OptionD": "1",
+  "CorrectOption": "e"
+},
+
+{
+  "Question": "The displacement s of a particle moving in a straight line is given by s=t^3 -9t^2 + 5. Its acceleration is 0 when t=",
+  "OptionA": "1 sec",
+  "OptionB": "3 sec",
+  "OptionC": "5 sec",
+  "OptionD": "7 sec",
+  "CorrectOption": "5 sec"
+},
+
+{
+  "Question": "Which one of the following is Monoid",
+  "OptionA": "(N,-)",
+  "OptionB": "(N,+)",
+  "OptionC": "(O,+)",
+  "OptionD": "(N,*)",
+  "CorrectOption": "(N,*)"
+},
+
+{
+  "Question": "A negative G.M between x/y and y/x is",
+  "OptionA": "-underroot(x/y)",
+  "OptionB": "-underroot(y/x)",
+  "OptionC": "-1",
+  "OptionD": "-underroot(xy)",
+  "CorrectOption": "-1"
+},
+
+{
+  "Question": "If x is so small that its x^2 and higher terms are neglected then (1 − 7x)^1/3 . (1 + 2x)^3/4 =",
+  "OptionA": "1-23x/6",
+  "OptionB": "2+6x/23",
+  "OptionC": "1+23x/6",
+  "OptionD": "none of these",
+  "CorrectOption": "1-23x/6"
+},
+
+{
+  "Question": "If z = √48-i then |z|=",
+  "OptionA": "√48",
+  "OptionB": "7",
+  "OptionC": "-7",
+  "OptionD": "none",
+  "CorrectOption": "√48"
+},
+
+{
+  "Question": "Integration 1/u ??",
+  "OptionA": "ln|u| + C",
+  "OptionB": "ln|u|",
+  "OptionC": "e^u + C",
+  "OptionD": "e^u",
+  "CorrectOption": "ln|u| + C"
+},
+
+{
+  "Question": "The distance of the point P(-2, -3) from the y-axis is",
+  "OptionA": "2",
+  "OptionB": "-2",
+  "OptionC": "3",
+  "OptionD": "-3",
+  "CorrectOption": "2"
+},
+
+{
+  "Question": "The value of (2î × 2ĵ). k is",
+  "OptionA": "1",
+  "OptionB": "2",
+  "OptionC": "3",
+  "OptionD": "4",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "The vertex of the parabola y^2 - 6y + 8x - 23=0 is",
+  "OptionA": "(3, 4)",
+  "OptionB": "(-3, -4)",
+  "OptionC": "(4, 3)",
+  "OptionD": "(-4, -3)",
+  "CorrectOption": "(3, 4)"
+},
+
+{
+  "Question": "If two circles touch externally then the distance between their centers is",
+  "OptionA": "less than the difference of their radii",
+  "OptionB": "greater than the difference of their radii",
+  "OptionC": "difference of their radii",
+  "OptionD": "sum of their radii",
+  "CorrectOption": "difference of their radii"
+},
+
+{
+  "Question": "The quadratic equation with roots 2+ √3 and 2 - √3 is",
+  "OptionA": "x^2-4x+1=0",
+  "OptionB": "x^2-4x-1=0",
+  "OptionC": "x^2-3x-4=0",
+  "OptionD": "x^2+4x+1=0",
+  "CorrectOption": "x^2-4x+1=0"
+},
+
+{
+  "Question": "The range of y = 2 + sin x is",
+  "OptionA": "(-1, 3)",
+  "OptionB": "(0, 3)",
+  "OptionC": "(1, 3)",
+  "OptionD": "(-1, 4)",
+  "CorrectOption": "(1, 3)"
+},
+
+{
+  "Question": "The straight line √(3x) − y + 5 = 0 is inclined at............ with the positive x-axis.",
+  "OptionA": "0°",
+  "OptionB": "30°",
+  "OptionC": "60°",
+  "OptionD": "90°",
+  "CorrectOption": "60°"
+},
+
+{
+  "Question": "A line parallel to the x-axis",
+  "OptionA": "dy/dx=0",
+  "OptionB": "dx/dy=1",
+  "OptionC": "dy/dx=1",
+  "OptionD": "dx/dy=0",
+  "CorrectOption": "dy/dx=0"
+},
+
+{
+  "Question": "dy/dx(1/(3-4x))??",
+  "OptionA": "-4/(3-4x)^2",
+  "OptionB": "4/(3-4x)^2",
+  "OptionC": "-4/(3-4x)",
+  "OptionD": "4/(3-4x)",
+  "CorrectOption": "-4/(3-4x)^2"
+},
+
+{
+  "Question": "Find the sequence of the general term (-1)^n+1",
+  "OptionA": "-1",
+  "OptionB": "1",
+  "OptionC": "-1^n",
+  "OptionD": "(-1)^n+1",
+  "CorrectOption": "(-1)^n+1"
+},
+
+{
+  "Question": "Find integration of √x dx",
+  "OptionA": "(2/3)x^(3/2) + C",
+  "OptionB": "(2/3)x^(3/2)",
+  "OptionC": "(2/5)x^(5/2) + C",
+  "OptionD": "(2/5)x^(5/2)",
+  "CorrectOption": "(2/3)x^(3/2) + C"
+},
+
+{
+  "Question": "Find the 8th term of the sequence 3,7,11,15",
+  "OptionA": "24",
+  "OptionB": "31",
+  "OptionC": "20",
+  "OptionD": "41",
+  "CorrectOption": "41"
+},
+
+{
+  "Question": "if 4y-3 > 3y+2 then",
+  "OptionA": "y > 5",
+  "OptionB": "y < 5",
+  "OptionC": "y = 5",
+  "OptionD": "None",
+  "CorrectOption": "y > 5"
+},
+
+{
+  "Question": "For (2x + 1/2)^8, Find the constant term in the sequence",
+  "OptionA": "1/256",
+  "OptionB": "1/64",
+  "OptionC": "1/32",
+  "OptionD": "1/128",
+  "CorrectOption": "1/256"
+},
+
+{
+  "Question": "Matrix A\n1 0\n2 0\nMatrix B\n0 0\n2 3\n|A + B|?",
+  "OptionA": "5",
+  "OptionB": "3",
+  "OptionC": "6",
+  "OptionD": "0",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "Question 8^a = 32^b, a:b ???",
+  "OptionA": "5:3",
+  "OptionB": "3:5",
+  "OptionC": "1:1",
+  "OptionD": "2:1",
+  "CorrectOption": "5:3"
+},
+
+{
+  "Question": "Sum of two numbers is 5 and the product of two numbers is -6, the two numbers are",
+  "OptionA": "3, 2",
+  "OptionB": "2, -3",
+  "OptionC": "3, -2",
+  "OptionD": "-2, 3",
+  "CorrectOption": "3, -2"
+},
+
+{
+  "Question": "Which one of the following is correct",
+  "OptionA": "x = x^2",
+  "OptionB": "x not equal to x^2",
+  "OptionC": "x = x",
+  "OptionD": "x = x^3",
+  "CorrectOption": "x = x"
+},
+
+{
+  "Question": "If x^2 + y^2 = 100 then (6,9) lies",
+  "OptionA": "outside",
+  "OptionB": "inside",
+  "OptionC": "on the line",
+  "OptionD": "none",
+  "CorrectOption": "outside"
+},
+
+{
+  "Question": "if f(x)=2/3x^2, f(-x) = ?",
+  "OptionA": "-f(x)",
+  "OptionB": "f(x)",
+  "OptionC": "-f(x) not equal -f(x)",
+  "OptionD": "f(-x) = f(x)",
+  "CorrectOption": "f(-x) = f(x)"
+},
+
+{
+  "Question": "Integration of 0 dx = ?",
+  "OptionA": "any constant",
+  "OptionB": "0",
+  "OptionC": "1",
+  "OptionD": "undefined",
+  "CorrectOption": "any constant"
+},
+
+{
+  "Question": "y = ln(1-cosx), find the derivative",
+  "OptionA": "sinx/1-cosx",
+  "OptionB": "-sinx/1-cosx",
+  "OptionC": "cosx/1-sinx",
+  "OptionD": "-cosx/1-sinx",
+  "CorrectOption": "sinx/1-cosx"
+},
+
+{
+  "Question": "Tan0 = ?",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "Undefined",
+  "OptionD": "Infinity",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "Cos3x = ?",
+  "OptionA": "4cos^3x - 3cosx",
+  "OptionB": "cos^3(3x)",
+  "OptionC": "cos(3cosx)",
+  "OptionD": "3cosx - 4cos^3x",
+  "CorrectOption": "4cos^3x - 3cosx"
+},
+
+{
+  "Question": "lim x-->infinity (x + 1/x)^x = ?",
+  "OptionA": "e",
+  "OptionB": "2e",
+  "OptionC": "e^2",
+  "OptionD": "1",
+  "CorrectOption": "e"
+},
+
+{
+  "Question": "Tan(a-b) = ?",
+  "OptionA": "Tan(a) - Tan(b)",
+  "OptionB": "Tan(a) + Tan(b)",
+  "OptionC": "Cot(a) + Cot(b)",
+  "OptionD": "Cot(a) - Cot(b)",
+  "CorrectOption": "Tan(a) - Tan(b)"
+},
+
+{
+  "Question": "Find the determinant of the following matrix\n3 2 5\n0 0 0\n-1 2 3",
+  "OptionA": "0",
+  "OptionB": "3",
+  "OptionC": "6",
+  "OptionD": "Undefined",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "If there are 18 members, Two persons, Director and Deputy Director, one to be chosen, In how many ways they can be chosen?",
+  "OptionA": "3628800",
+  "OptionB": "387420489",
+  "OptionC": "32760",
+  "OptionD": "406",
+  "CorrectOption": "406"
+},
+
+{
+  "Question": "Two coins tossed, probability of picking no head no tail",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "1/4",
+  "OptionD": "1/2",
+  "CorrectOption": "1/4"
+},
+
+{
+  "Question": "A line passes through the origin and its slope is -3, The equation of the line is???",
+  "OptionA": "3x + y = 0",
+  "OptionB": "y = 3x",
+  "OptionC": "y = -3x",
+  "OptionD": "x + 3y = 0",
+  "CorrectOption": "3x + y = 0"
+},
+
+{
+  "Question": "The three angles of a triangle are x + 30, 2x - 15, 2x + 15, x = ??",
+  "OptionA": "75",
+  "OptionB": "60",
+  "OptionC": "45",
+  "OptionD": "90",
+  "CorrectOption": "75"
+},
+
+{
+  "Question": "In the first quadrant Sinx is?",
+  "OptionA": "Positive",
+  "OptionB": "Negative",
+  "OptionC": "Both",
+  "OptionD": "None",
+  "CorrectOption": "Positive"
+},
+
+{
+  "Question": "In the first quadrant Tan@ is?",
+  "OptionA": "Positive",
+  "OptionB": "Negative",
+  "OptionC": "Both",
+  "OptionD": "None",
+  "CorrectOption": "Positive"
+},
+
+{
+  "Question": "There is a point P, whose coordinates are (x, y) and OP = r, thus point P makes an terminal angle which is perpendicular, What is Cot𝜽 ?",
+  "OptionA": "y/x",
+  "OptionB": "x/y",
+  "OptionC": "Not",
+  "OptionD": "both",
+  "CorrectOption": "y/x"
+},
+
+{
+  "Question": "Derivative of (4x^2 - 3x)^2 with respect to x",
+  "OptionA": "",
+  "OptionB": "",
+  "OptionC": "",
+  "OptionD": "",
+  "CorrectOption": ""
+},
+
+{
+  "Question": "Find the focus of x^2/4 - y^2/16 = 1",
+  "OptionA": "",
+  "OptionB": "",
+  "OptionC": "",
+  "OptionD": "",
+  "CorrectOption": ""
+},
+
+{
+  "Question": "If 𝒇(𝒙) = 𝒙 + 𝟑, 𝒇^-1(𝒙) =",
+  "OptionA": "x/3",
+  "OptionB": "x-3",
+  "OptionC": "x+3",
+  "OptionD": "3-x",
+  "CorrectOption": "x+3"
+},
+
+
+{
+  "Question": "The fourth roots of unity are a group under",
+  "OptionA": "Multiplication",
+  "OptionB": "Division",
+  "OptionC": "Addition",
+  "OptionD": "Subtraction",
+  "CorrectOption": "Multiplication"
+},
+
+{
+  "Question": "The distance between the equation 𝒙 + 𝒚 + 𝟐 = 𝟎 and (1,2) is",
+  "OptionA": "4 units",
+  "OptionB": "9 units",
+  "OptionC": "5 units",
+  "OptionD": "5/√2 units",
+  "CorrectOption": "5 units"
+},
+
+{
+  "Question": "The equation 𝒙^2 − 𝟑𝒙 + 𝟐 is divisible by roots",
+  "OptionA": "{-1,1}",
+  "OptionB": "{1,2}",
+  "OptionC": "{1, -2}",
+  "OptionD": "{ -2,2}",
+  "CorrectOption": "{1, -2}"
+},
+
+{
+  "Question": "𝒊^63 =",
+  "OptionA": "1",
+  "OptionB": "-1",
+  "OptionC": "i",
+  "OptionD": "-i",
+  "CorrectOption": "-i"
+},
+
+{
+  "Question": "A’ U B’ =",
+  "OptionA": "A’ ∩ B’",
+  "OptionB": "(A ∩ B)’",
+  "OptionC": "A’ U B",
+  "OptionD": "None of these",
+  "CorrectOption": "A’ U B’"
+},
+
+{
+  "Question": "The equation 𝒙^2 - y^2 = 0 represents",
+  "OptionA": "Parabola",
+  "OptionB": "Hyperbola",
+  "OptionC": "Ellipse",
+  "OptionD": "Two lines passing through the origin",
+  "CorrectOption": "Two lines passing through the origin"
+},
+
+{
+  "Question": "The value of 𝒄𝒐𝒔 𝟑𝟎° is",
+  "OptionA": "0.866",
+  "OptionB": "0.55",
+  "OptionC": "0.76",
+  "OptionD": "1",
+  "CorrectOption": "0.866"
+},
+
+{
+  "Question": "How many three-element subsets are there of the five-element set {1,2,3,4,5}?",
+  "OptionA": "9",
+  "OptionB": "10",
+  "OptionC": "16",
+  "OptionD": "18",
+  "CorrectOption": "10"
+},
+
+{
+  "Question": "Limit x→∞ (1-1/x)^x =",
+  "OptionA": "e",
+  "OptionB": "1/e",
+  "OptionC": "e^x",
+  "OptionD": "N.O.T",
+  "CorrectOption": "e"
+},
+
+{
+  "Question": "Expand (2x-y)^5",
+  "OptionA": "32x^{5}-80x^{4}y+80x^{3}y^{2}-40x^{2}y^{3}+10xy^{4}-y^{5}",
+  "OptionB": "2x^{5}+5x^{4}y-10x^{3}y^{2}+10x^{2}y^{3}-5xy^{4}+y^{5}",
+  "OptionC": "(2x-y)^{4}+y^{5}",
+  "OptionD": "8x^{5}-40x^{4}y+80x^{3}y^{2}-80x^{2}y^{3}+40xy^{4}-20y^{5}",
+  "CorrectOption": "OptionA"
+},
+
+{
+  "Question": "Two coins are tossed simultaneously then the probability of getting at least one tail is",
+  "OptionA": "2/4",
+  "OptionB": "1/4",
+  "OptionC": "3/4",
+  "OptionD": "4/4",
+  "CorrectOption": "3/4"
+},
+
+{
+  "Question": "Limit of the sequence 1/2, 1/3, 1/4, 1/5, ... is",
+  "OptionA": "0",
+  "OptionB": "1/2",
+  "OptionC": "2",
+  "OptionD": "Infinity",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "{2(−3)^n−1} represents the sequence",
+  "OptionA": "-2,6,-18,54,...",
+  "OptionB": "-2,6,-18,-54,...",
+  "OptionC": "2,-6,18,-54,...",
+  "OptionD": "2,6,-18,54,...",
+  "CorrectOption": "-2,6,-18,54,..."
+},
+
+{
+  "Question": "To each element of a group, how many inverse elements correspond?",
+  "OptionA": "None",
+  "OptionB": "Only one",
+  "OptionC": "Two",
+  "OptionD": "More than two",
+  "CorrectOption": "None"
+},
+
+{
+  "Question": "|2 3 1\n0 0 0\n-1 2 0| =",
+  "OptionA": "2",
+  "OptionB": "-1",
+  "OptionC": "0",
+  "OptionD": "N.O.T",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "Two matrices are equal if",
+  "OptionA": "Number of columns = number of rows",
+  "OptionB": "Number of columns > number of rows",
+  "OptionC": "Number of columns < number of rows",
+  "OptionD": "If they are of the same order and then corresponding elements are equal",
+  "CorrectOption": "If they are of the same order and then corresponding elements are equal"
+},
+
+{
+  "Question": "The nature of the line 4x^2 = a(4x − a) is",
+  "OptionA": "Real, equal",
+  "OptionB": "Real, unequal",
+  "OptionC": "Complex",
+  "OptionD": "Imaginary",
+  "CorrectOption": "Real, equal"
+},
+
+{
+  "Question": "The sum of any two numbers of the form a + ib is always",
+  "OptionA": "A complex number",
+  "OptionB": "A real number",
+  "OptionC": "A prime number",
+  "OptionD": "None of the above",
+  "CorrectOption": "A complex number"
+},
+
+{
+  "Question": "A Universal Set is ________________",
+  "OptionA": "The superset of every set under consideration",
+  "OptionB": "The subset of every set under consideration",
+  "OptionC": "The set of all real numbers",
+  "OptionD": "The set of all complex numbers",
+  "CorrectOption": "The superset of every set under consideration"
+},
+
+{
+  "Question": "1.w.w^2 =",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "-1",
+  "OptionD": "-W",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "If A={1,2,3}, B={3,2,1}, A=B, A⊂B, B⊂A, NOT",
+  "OptionA": "A=B",
+  "OptionB": "A⊂B",
+  "OptionC": "B⊂A",
+  "OptionD": "NOT",
+  "CorrectOption": "A=B"
+},
+
+{
+  "Question": "Find the roots of 3x^2=7x-2",
+  "OptionA": "(2/3, -1)",
+  "OptionB": "(1, 2)",
+  "OptionC": "(-2/3, 1)",
+  "OptionD": "(3, -2)",
+  "CorrectOption": "(2/3, -1)"
+},
+
+{
+  "Question": "Find the determinant of the following matrix",
+  "OptionA": "2",
+  "OptionB": "5",
+  "OptionC": "0",
+  "OptionD": "N.O.T",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "For the parabola y^2=4ax, if x,y={-2,3}, find a",
+  "OptionA": "9/8",
+  "OptionB": "-9/8",
+  "OptionC": "8/9",
+  "OptionD": "-8/9",
+  "CorrectOption": "8/9"
+},
+
+{
+  "Question": "What is the principal domain of Sin^-1x in intervals?",
+  "OptionA": "[-1,1]",
+  "OptionB": "[0,1]",
+  "OptionC": "[1,2]",
+  "OptionD": "[1,infinity]",
+  "CorrectOption": "[-1,1]"
+},
+
+{
+  "Question": "Two circles having radii r1=3 and r2=4 are touched side by side. The distance between their centers is?",
+  "OptionA": "1",
+  "OptionB": "2",
+  "OptionC": "7",
+  "OptionD": "5",
+  "CorrectOption": "7"
+},
+
+{
+  "Question": "Limit x→infinity 1/x^2",
+  "OptionA": "1",
+  "OptionB": "0",
+  "OptionC": "infinity",
+  "OptionD": "None",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "Sin(@+B)?",
+  "OptionA": "sin@cosB + cos@sinB",
+  "OptionB": "sin@cosB - cos@sinB",
+  "OptionC": "cos@sinB + sin@cosB",
+  "OptionD": "cos@cosB - sin@sinB",
+  "CorrectOption": "sin@cosB + cos@sinB"
+},
+
+{
+  "Question": "Cos(@+B)?",
+  "OptionA": "cos@cosB - sin@sinB",
+  "OptionB": "cos@sinB + sin@cosB",
+  "OptionC": "sin@cosB + cos@sinB",
+  "OptionD": "sin@cosB - cos@sinB",
+  "CorrectOption": "cos@cosB - sin@sinB"
+},
+
+{
+  "Question": "In a railway apartment, there are six seats. 4 persons entered. In how many ways can they sit?",
+  "OptionA": "120",
+  "OptionB": "24",
+  "OptionC": "200",
+  "OptionD": "360",
+  "CorrectOption": "360"
+},
+
+{
+  "Question": "d/dx ln(1+cosx)?",
+  "OptionA": "-sinx/(1+cosx)",
+  "OptionB": "cosx(1+sinx)",
+  "OptionC": "sinx/(1+cosx)",
+  "OptionD": "-cosx(1+sinx)",
+  "CorrectOption": "-sinx/(1+cosx)"
+},
+
+{
+  "Question": "The point -2,3 divides the line with end points A=(2,1), B=(3,4) in what ratio?",
+  "OptionA": "(11,12)",
+  "OptionB": "(12,11)",
+  "OptionC": "(-12,-11)",
+  "OptionD": "(-11,-12)",
+  "CorrectOption": "(-12,-11)"
+},
+
+{
+  "Question": "The set of integers (Z) is closed under which operation?",
+  "OptionA": "+",
+  "OptionB": "-",
+  "OptionC": "×",
+  "OptionD": "All of them",
+  "CorrectOption": "All of them"
+},
+
+{
+  "Question": "If the 3 angles of a triangle are 3x+30, 5x-30, 2x, then find the value of x?",
+  "OptionA": "20",
+  "OptionB": "15",
+  "OptionC": "10",
+  "OptionD": "5",
+  "CorrectOption": "10"
+},
+
+{
+  "Question": "What sequence has the general term n(n-1)/2?",
+  "OptionA": "n(n+1)/2",
+  "OptionB": "n(n-1)/2",
+  "OptionC": "(n+1)(n-2)/2",
+  "OptionD": "(n-1)(n-2)/2",
+  "CorrectOption": "n(n-1)/2"
+},
+
+{
+  "Question": "If f(x) = 2x, then f(2)?",
+  "OptionA": "4",
+  "OptionB": "2",
+  "OptionC": "8",
+  "OptionD": "6",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "If AUB=B, then",
+  "OptionA": "A=B",
+  "OptionB": "A∈B",
+  "OptionC": "B∈A",
+  "OptionD": "None",
+  "CorrectOption": "A=B"
+},
+
+{
+  "Question": "The set of all rational numbers except 0 is a group under",
+  "OptionA": "Addition",
+  "OptionB": "Subtraction",
+  "OptionC": "Division",
+  "OptionD": "Multiplication",
+  "CorrectOption": "Division"
+},
+
+{
+  "Question": "Find the determinant of the matrix",
+  "OptionA": "2",
+  "OptionB": "9",
+  "OptionC": "0",
+  "OptionD": "1",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "If two coins are tossed simultaneously, the probability of getting exactly 1 head is",
+  "OptionA": "1/4",
+  "OptionB": "3/4",
+  "OptionC": "1/2",
+  "OptionD": "1",
+  "CorrectOption": "3/4"
+},
+
+{
+  "Question": "Find the inverse of the matrix",
+  "OptionA": "[[1, -6], [0, 5]]",
+  "OptionB": "[[5, 0], [-6, 1]]",
+  "OptionC": "[[1, 6], [0, 5]]",
+  "OptionD": "[[1, 0], [-6, 5]]",
+  "CorrectOption": "[[1, -6], [0, 5]]"
+},
+
+{
+  "Question": "Find the roots of x^2 - 3x + 2 = 0",
+  "OptionA": "(1,2)",
+  "OptionB": "(-1,-2)",
+  "OptionC": "(3,4)",
+  "OptionD": "(1,2)",
+  "CorrectOption": "(-1,-2)"
+},
+
+{
+  "Question": "If α+β=2 and α⋅β=1, find α^2 + β^2?",
+  "OptionA": "1",
+  "OptionB": "2",
+  "OptionC": "-1",
+  "OptionD": "0",
+  "CorrectOption": "2"
+},
+
+{
+  "Question": "(2i ×4j).k?",
+  "OptionA": "6",
+  "OptionB": "8",
+  "OptionC": "2",
+  "OptionD": "4",
+  "CorrectOption": "8"
+},
+
+{
+  "Question": "Convert 210 degrees into radians?",
+  "OptionA": "7π/6",
+  "OptionB": "7π/6",
+  "OptionC": "11π/12",
+  "OptionD": "11π/12",
+  "CorrectOption": "7π/6"
+},
+
+{
+  "Question": "Find the value of 2sin^2θ + 3cos^2θ when θ = π/4",
+  "OptionA": "3/2",
+  "OptionB": "2",
+  "OptionC": "5/2",
+  "OptionD": "4",
+  "CorrectOption": "3/2"
+},
+
+{
+  "Question": "If log_a x = p and log_b x = q, then what is log_b a?",
+  "OptionA": "pq",
+  "OptionB": "p/q",
+  "OptionC": "q/p",
+  "OptionD": "1/pq",
+  "CorrectOption": "1/pq"
+},
+
+{
+  "Question": "The sum of the interior angles of a polygon is 1800 degrees. How many sides does the polygon have?",
+  "OptionA": "10",
+  "OptionB": "8",
+  "OptionC": "12",
+  "OptionD": "6",
+  "CorrectOption": "10"
+},
+
+{
+  "Question": "If f(x) = x^3 + 2x^2 - 5x + 4, then what is f'(x)?",
+  "OptionA": "3x^2 + 4x - 5",
+  "OptionB": "2x^3 + 4x^2 - 5",
+  "OptionC": "3x^2 + 4x + 5",
+  "OptionD": "3x^2 - 4x - 5",
+  "CorrectOption": "3x^2 + 4x - 5"
+},
+
+{
+  "Question": "Solve for x: 2^x = 16",
+  "OptionA": "2",
+  "OptionB": "3",
+  "OptionC": "4",
+  "OptionD": "5",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "If A and B are independent events, what is P(A and B)?",
+  "OptionA": "P(A) * P(B)",
+  "OptionB": "P(A) + P(B)",
+  "OptionC": "P(A | B)",
+  "OptionD": "P(A) - P(B)",
+  "CorrectOption": "P(A) * P(B)"
+},
+
+{
+  "Question": "The volume of a cube is 125 cubic units. What is the length of one side?",
+  "OptionA": "5",
+  "OptionB": "25",
+  "OptionC": "3",
+  "OptionD": "4",
+  "CorrectOption": "5"
+},
+
+{
+  "Question": "If a triangle has angles in the ratio 1:2:3, what is the measure of the smallest angle?",
+  "OptionA": "10 degrees",
+  "OptionB": "20 degrees",
+  "OptionC": "30 degrees",
+  "OptionD": "15 degrees",
+  "CorrectOption": "10 degrees"
+},
+
+{
+  "Question": "Evaluate the limit lim(x->0) (sinx/x)",
+  "OptionA": "1",
+  "OptionB": "0",
+  "OptionC": "∞",
+  "OptionD": "Undefined",
+  "CorrectOption": "1"
+},
+
+{
+  "Question": "If a quadratic equation has roots α and β, what is the sum of the roots (α + β)?",
+  "OptionA": "αβ",
+  "OptionB": "1",
+  "OptionC": "α/β",
+  "OptionD": "-αβ",
+  "CorrectOption": "-α/β"
+},
+
+{
+  "Question": "If log_10 a = 2 and log_10 b = 3, what is log_a b?",
+  "OptionA": "1/2",
+  "OptionB": "2/3",
+  "OptionC": "3/2",
+  "OptionD": "2",
+  "CorrectOption": "3/2"
+},
+
+{
+  "Question": "Solve for x: log_2 (x + 1) = 3",
+  "OptionA": "7",
+  "OptionB": "8",
+  "OptionC": "6",
+  "OptionD": "5",
+  "CorrectOption": "7"
+},
+
+{
+  "Question": "If a right-angled triangle has legs of length 3 and 4, what is the length of the hypotenuse?",
+  "OptionA": "5",
+  "OptionB": "7",
+  "OptionC": "6",
+  "OptionD": "8",
+  "CorrectOption": "5"
+},
+
+{
+  "Question": "The sum of the first n terms of an arithmetic series is given by Sn = (n/2)(2a + (n-1)d). If a is the first term, d is the common difference, and n is the number of terms, what is the nth term?",
+  "OptionA": "a + (n-1)d",
+  "OptionB": "2a + (n-1)d",
+  "OptionC": "a + nd",
+  "OptionD": "a + (n/2)d",
+  "CorrectOption": "a + (n-1)d"
+},
+
+{
+  "Question": "The sum of an infinite geometric series with first term a and common ratio r is given by S = a/(1-r). If |r| < 1, what is the value of S?",
+  "OptionA": "Undefined",
+  "OptionB": "a",
+  "OptionC": "1",
+  "OptionD": "a/(1+r)",
+  "CorrectOption": "a/(1-r)"
+},
+
+{
+  "Question": "The velocity of an object is given by v(t) = 3t^2 - 6t + 5. What is the acceleration of the object at time t?",
+  "OptionA": "3t - 6",
+  "OptionB": "6t - 6",
+  "OptionC": "6t + 3",
+  "OptionD": "6",
+  "CorrectOption": "6"
+},
+
+{
+  "Question": "If f(x) = x^2 - 4x + 4, what is the vertex of the parabola?",
+  "OptionA": "(2,0)",
+  "OptionB": "(1,2)",
+  "OptionC": "(2,2)",
+  "OptionD": "(4,0)",
+  "CorrectOption": "(2,2)"
+},
+
+{
+  "Question": "The determinant of a 3x3 matrix\n[2 1 0\n3 4 5\n1 2 3] is",
+  "OptionA": "1",
+  "OptionB": "-1",
+  "OptionC": "0",
+  "OptionD": "5",
+  "CorrectOption": "-1"
+},
+
+{
+  "Question": "If the radius of a sphere is doubled, how does the volume change?",
+  "OptionA": "Doubled",
+  "OptionB": "Quadrupled",
+  "OptionC": "Halved",
+  "OptionD": "Octupled",
+  "CorrectOption": "Octupled"
+},
+
+{
+  "Question": "What is the area of a triangle with base 8 and height 6?",
+  "OptionA": "24",
+  "OptionB": "36",
+  "OptionC": "48",
+  "OptionD": "64",
+  "CorrectOption": "24"
+},
+
+{
+  "Question": "Evaluate the integral ∫(3x^2 + 2x)dx",
+  "OptionA": "x^3 + x^2 + C",
+  "OptionB": "x^3 + x + C",
+  "OptionC": "x^2 + x + C",
+  "OptionD": "x^3 + C",
+  "CorrectOption": "x^3 + x^2 + C"
+},
+
+{
+  "Question": "If cosθ = 3/5, what is sinθ?",
+  "OptionA": "4/5",
+  "OptionB": "2/5",
+  "OptionC": "√21/5",
+  "OptionD": "√11/5",
+  "CorrectOption": "√21/5"
+},
+
+{
+  "Question": "The solution to the system of equations 2x + y = 5 and 3x - 2y = 7 is",
+  "OptionA": "(1,3)",
+  "OptionB": "(2,1)",
+  "OptionC": "(3,2)",
+  "OptionD": "(4,0)",
+  "CorrectOption": "(2,1)"
+},
+
+{
+  "Question": "If a circle has a radius of 4 units, what is its circumference?",
+  "OptionA": "8π",
+  "OptionB": "16π",
+  "OptionC": "4π",
+  "OptionD": "32π",
+  "CorrectOption": "8π"
+},
+
+{
+  "Question": "The sum of the angles of a quadrilateral is",
+  "OptionA": "180 degrees",
+  "OptionB": "360 degrees",
+  "OptionC": "90 degrees",
+  "OptionD": "270 degrees",
+  "CorrectOption": "360 degrees"
+},
+
+{
+  "Question": "If a coin is flipped three times, what is the probability of getting exactly two tails?",
+  "OptionA": "1/8",
+  "OptionB": "3/8",
+  "OptionC": "1/4",
+  "OptionD": "1/2",
+  "CorrectOption": "3/8"
+},
+
+{
+  "Question": "What is the value of log_2 8?",
+  "OptionA": "2",
+  "OptionB": "4",
+  "OptionC": "3",
+  "OptionD": "8",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "The surface area of a cube is 96 square units. What is the length of one edge?",
+  "OptionA": "4",
+  "OptionB": "6",
+  "OptionC": "8",
+  "OptionD": "10",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "If a function is odd, what can be said about its graph?",
+  "OptionA": "Symmetric with respect to the x-axis",
+  "OptionB": "Symmetric with respect to the y-axis",
+  "OptionC": "Symmetric with respect to the origin",
+  "OptionD": "No symmetry",
+  "CorrectOption": "Symmetric with respect to the origin"
+},
+
+{
+  "Question": "What is the probability of rolling a sum of 7 on two six-sided dice?",
+  "OptionA": "1/12",
+  "OptionB": "1/6",
+  "OptionC": "1/8",
+  "OptionD": "1/36",
+  "CorrectOption": "1/6"
+},
+
+{
+  "Question": "If f(x) = x^2 + 3x - 2, what is f(-2)?",
+  "OptionA": "2",
+  "OptionB": "0",
+  "OptionC": "4",
+  "OptionD": "6",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "The perimeter of a rectangle is 18 units, and its length is 5 units. What is its width?",
+  "OptionA": "2",
+  "OptionB": "3",
+  "OptionC": "4",
+  "OptionD": "5",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "If a + b = 10 and ab = 21, what are the values of a and b?",
+  "OptionA": "(3,7)",
+  "OptionB": "(5,5)",
+  "OptionC": "(7,3)",
+  "OptionD": "(4,6)",
+  "CorrectOption": "(3,7)"
+},
+
+{
+  "Question": "The sum of the first 10 terms of an arithmetic series is 90. What is the common difference if the first term is 2?",
+  "OptionA": "6",
+  "OptionB": "8",
+  "OptionC": "4",
+  "OptionD": "10",
+  "CorrectOption": "4"
+},
+
+{
+  "Question": "If a box contains 5 red balls, 3 blue balls, and 2 green balls, what is the probability of drawing a blue ball?",
+  "OptionA": "1/4",
+  "OptionB": "1/2",
+  "OptionC": "1/3",
+  "OptionD": "2/5",
+  "CorrectOption": "3/10"
+},
+
+{
+  "Question": "If tanθ = 4/3, what is sinθ?",
+  "OptionA": "3/5",
+  "OptionB": "4/5",
+  "OptionC": "1/3",
+  "OptionD": "3/4",
+  "CorrectOption": "3/5"
+},
+
+{
+  "Question": "If a hexagon has interior angles in the ratio 2:3:4:5:6:7, what is the measure of the smallest angle?",
+  "OptionA": "70 degrees",
+  "OptionB": "60 degrees",
+  "OptionC": "50 degrees",
+  "OptionD": "40 degrees",
+  "CorrectOption": "40 degrees"
+},
+
+{
+  "Question": "The product of two consecutive even integers is 168. What are the integers?",
+  "OptionA": "(12,14)",
+  "OptionB": "(14,16)",
+  "OptionC": "(10,12)",
+  "OptionD": "(16,18)",
+  "CorrectOption": "(12,14)"
+},
+
+{
+  "Question": "If log_a (2x) = 3, what is x?",
+  "OptionA": "2",
+  "OptionB": "4",
+  "OptionC": "8",
+  "OptionD": "16",
+  "CorrectOption": "8"
+},
+
+{
+  "Question": "The sum of the first 15 terms of a geometric series is 32766. If the common ratio is 2, what is the first term?",
+  "OptionA": "1",
+  "OptionB": "2",
+  "OptionC": "3",
+  "OptionD": "4",
+  "CorrectOption": "1"
+},
+
+{
+  "Question": "What is the value of 3^4 * 3^(-2)?",
+  "OptionA": "9",
+  "OptionB": "27",
+  "OptionC": "81",
+  "OptionD": "1",
+  "CorrectOption": "9"
+},
+
+{
+  "Question": "Simplify the expression: (2 + i)(3 - 2i).",
+  "OptionA": "1 + 7i",
+  "OptionB": "6 + i",
+  "OptionC": "8 - 5i",
+  "OptionD": "7 - 6i",
+  "CorrectOption": "8 - 5i"
+},
+
+{
+  "Question": "Evaluate the limit: lim (x → 3) (x^2 - 9)/(x - 3).",
+  "OptionA": "6",
+  "OptionB": "3",
+  "OptionC": "9",
+  "OptionD": "0",
+  "CorrectOption": "6"
+},
+
+{
+  "Question": "How many ways can you arrange the letters in the word 'COMPUTER'?",
+  "OptionA": "40320",
+  "OptionB": "5040",
+  "OptionC": "362880",
+  "OptionD": "720",
+  "CorrectOption": "40320"
+},
+
+{
+  "Question": "What is the common difference in the arithmetic sequence: 2, 5, 8, 11, ...?",
+  "OptionA": "2",
+  "OptionB": "3",
+  "OptionC": "4",
+  "OptionD": "5",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "Convert the angle 60 degrees to radians.",
+  "OptionA": "π/3",
+  "OptionB": "π/2",
+  "OptionC": "2π/3",
+  "OptionD": "π",
+  "CorrectOption": "π/3"
+},
+
+{
+  "Question": "In a geometric progression (GP), if a = 2 and r = 3, what is the 4th term?",
+  "OptionA": "54",
+  "OptionB": "18",
+  "OptionC": "6",
+  "OptionD": "162",
+  "CorrectOption": "54"
+},
+
+{
+  "Question": "If A = {2, 4, 6} and B = {4, 6, 8}, what is A ∪ B?",
+  "OptionA": "{ }",
+  "OptionB": "{2, 4, 6, 8}",
+  "OptionC": "{4, 6}",
+  "OptionD": "{2, 8}",
+  "CorrectOption": "{2, 4, 6, 8}"
+},
+
+{
+  "Question": "If nP2 = 20, what is the value of n?",
+  "OptionA": "6",
+  "OptionB": "7",
+  "OptionC": "8",
+  "OptionD": "9",
+  "CorrectOption": "5"
+},
+
+{
+  "Question": "Find the integral of ∫ (2x^2 + 3x) dx.",
+  "OptionA": "x^3 + (3/2)x^2 + C",
+  "OptionB": "2x^3 + (3/2)x^2 + C",
+  "OptionC": "2x^3 + (3/2)x + C",
+  "OptionD": "(2/3)x^3 + (3/2)x^2 + C",
+  "CorrectOption": "(2/3)x^3 + (3/2)x^2 + C"
+},
+
+{
+  "Question": "If f(x) = sin x, what is f''(x)?",
+  "OptionA": "cos x",
+  "OptionB": "-sin x",
+  "OptionC": "-cos x",
+  "OptionD": "sin x",
+  "CorrectOption": "-sin x"
+},
+
+{
+  "Question": "Express 120 degrees in radians.",
+  "OptionA": "2π",
+  "OptionB": "3π/2",
+  "OptionC": "π/3",
+  "OptionD": "2π/3",
+  "CorrectOption": "2π/3"
+},
+
+{
+  "Question": "Solve the differential equation dy/dx = 2x + 1.",
+  "OptionA": "x^2 + x + C",
+  "OptionB": "x^2 + 2x + C",
+  "OptionC": "x^2 + C",
+  "OptionD": "(x^2 + x)/2 + C",
+  "CorrectOption": "x^2 + x + C"
+},
+
+{
+  "Question": "Evaluate lim (x → ∞) e^(-2x).",
+  "OptionA": "0",
+  "OptionB": "1",
+  "OptionC": "∞",
+  "OptionD": "-∞",
+  "CorrectOption": "0"
+},
+
+{
+  "Question": "In how many ways can you arrange the letters in the word 'SEQUENCE'?",
+  "OptionA": "40320",
+  "OptionB": "362880",
+  "OptionC": "720",
+  "OptionD": "5040",
+  "CorrectOption": "362880"
+},
+
+{
+  "Question": "If cot θ = 4, what is the value of tan θ?",
+  "OptionA": "1/4",
+  "OptionB": "4",
+  "OptionC": "-4",
+  "OptionD": "-1/4",
+  "CorrectOption": "1/4"
+},
+
+{
+  "Question": "In the sequence {4, 9, 16, ..., 100}, how many terms are there?",
+  "OptionA": "10",
+  "OptionB": "9",
+  "OptionC": "8",
+  "OptionD": "7",
+  "CorrectOption": "7"
+},
+
+{
+  "Question": "Evaluate lim (n → ∞) (1 + 1/n)^n.",
+  "OptionA": "e",
+  "OptionB": "2e",
+  "OptionC": "e^2",
+  "OptionD": "1",
+  "CorrectOption": "e"
+},
+
+{
+  "Question": "If y = x^3 - 6x^2 + 9x, when is the acceleration 0?",
+  "OptionA": "0",
+  "OptionB": "2",
+  "OptionC": "3",
+  "OptionD": "6",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "Which one of the following is an Abelian Group?",
+  "OptionA": "(Z, -)",
+  "OptionB": "(Z, +)",
+  "OptionC": "(R, +)",
+  "OptionD": "(Q, *)",
+  "CorrectOption": "(Z, +)"
+},
+
+{
+  "Question": "Evaluate the limit: lim (x → 0) (1 + 4x)^5 / (1 - 3x)^2.",
+  "OptionA": "1",
+  "OptionB": "e",
+  "OptionC": "0",
+  "OptionD": "∞",
+  "CorrectOption": "1"
+},
+
+{
+  "Question": "If w = -3 + 4i, what is the conjugate of w?",
+  "OptionA": "-3 - 4i",
+  "OptionB": "3 - 4i",
+  "OptionC": "-3 + 4i",
+  "OptionD": "3 + 4i",
+  "CorrectOption": "-3 - 4i"
+},
+
+{
+  "Question": "Evaluate the integral: ∫ (2x + 5) dx.",
+  "OptionA": "x^2 + 5x + C",
+  "OptionB": "x^2 + C",
+  "OptionC": "x^2 + 5/2x + C",
+  "OptionD": "x^2 + 5x + 5/2 + C",
+  "CorrectOption": "x^2 + 5/2x + C"
+},
+
+{
+  "Question": "If the point Q(4, -1) is on the line y = mx + b, what is the value of m + b?",
+  "OptionA": "2",
+  "OptionB": "3",
+  "OptionC": "4",
+  "OptionD": "5",
+  "CorrectOption": "3"
+},
+
+{
+  "Question": "What is the cross product of vectors v = 2î - 3ĵ + k and w = i + 4ĵ - 2k?",
+  "OptionA": "11î - 10ĵ + 11k",
+  "OptionB": "-10î - 11ĵ - 11k",
+  "OptionC": "10î + 11ĵ + 11k",
+  "OptionD": "-11î + 10ĵ - 11k",
+  "CorrectOption": "10î + 11ĵ + 11k"
+},
+
+{
+  "Question": "The equation of a parabola is y = x^2 - 4x + 3. What are the coordinates of the vertex?",
+  "OptionA": "(2, -1)",
+  "OptionB": "(2, 1)",
+  "OptionC": "(1, -2)",
+  "OptionD": "(3, -1)",
+  "CorrectOption": "(2, 1)"
+},
+
+{
+  "Question": "If a circle with radius r has area A, what is the circumference of the circle?",
+  "OptionA": "2πr",
+  "OptionB": "πr^2",
+  "OptionC": "πr",
+  "OptionD": "2πr^2",
+  "CorrectOption": "2πr"
+},
+
+{
+  "Question": "The solution to the quadratic equation x^2 - 6x + 9 = 0 is",
+  "OptionA": "No real roots",
+  "OptionB": "One real root",
+  "OptionC": "Two real roots",
+  "OptionD": "Three real roots",
+  "CorrectOption": "One real root"
+},
+
+{
+  "Question": "What is the period of the function y = 2sin(3x)?",
+  "OptionA": "π/3",
+  "OptionB": "2π/3",
+  "OptionC": "3π",
+  "OptionD": "2π/9",
+  "CorrectOption": "2π/3"
+},
+{
+  "Question": "For a line passing through the origin with a slope of -2, what is the equation of the line?",
+  "OptionA": "2x + y = 0",
+  "OptionB": "y = -2x",
+  "OptionC": "y = 2x",
+  "OptionD": "x - 2y = 0",
+  "CorrectOption": "y = -2x"
+},
+
+{
+  "Question": "If the three angles of a triangle are given by x + 45, 2x - 15, and 2x + 15, what is the value of x?",
+  "OptionA": "75",
+  "OptionB": "60",
+  "OptionC": "45",
+  "OptionD": "90",
+  "CorrectOption": "75"
+},
+
+{
+  "Question": "In the first quadrant, what is the sign of Cos(x)?",
+  "OptionA": "Positive",
+  "OptionB": "Negative",
+  "OptionC": "Both",
+  "OptionD": "None",
+  "CorrectOption": "Positive"
+},
+
+{
+  "Question": "In the first quadrant, what is the sign of Cotangent(θ)?",
+  "OptionA": "Positive",
+  "OptionB": "Negative",
+  "OptionC": "Both",
+  "OptionD": "None",
+  "CorrectOption": "Positive"
+},
+
+{
+  "Question": "For a point P with coordinates (x, y) and OP = r, where the terminal angle is perpendicular, what is Cot(𝜽)?",
+  "OptionA": "y/x",
+  "OptionB": "x/y",
+  "OptionC": "Not defined",
+  "OptionD": "Both",
+  "CorrectOption": "y/x"
+},
+
+
+{
+  "Question": "Find the inverse function of 𝒇(𝒙) = 2x + 3.",
+  "OptionA": "(x - 3)/2",
+  "OptionB": "(x + 3)/2",
+  "OptionC": "3 - x",
+  "OptionD": "2 - x/3",
+  "CorrectOption": "(x - 3)/2"
+},
+
+{
+  "Question": "If 𝒈(x) = x^2 - 4x + 4, what is 𝒈^-1(x)?",
+  "OptionA": "(x - 2)^2",
+  "OptionB": "x^2 + 4x + 4",
+  "OptionC": "2 - x",
+  "OptionD": "4 - x^2",
+  "CorrectOption": "(x - 2)^2"
+},
+
+{
+  "Question": "What is the midpoint of the line segment joining the points (3, -2) and (-1, 4)?",
+  "OptionA": "(1, 1)",
+  "OptionB": "(-1, 3)",
+  "OptionC": "(2, 1)",
+  "OptionD": "(3, -1)",
+  "CorrectOption": "(1, 1)"
+},
+
+
+{
+  "Question": "If the function 𝑓(𝑥) = 2𝑥 + 5, what is 𝑓(3)?",
+  "OptionA": "6",
+  "OptionB": "11",
+  "OptionC": "9",
+  "OptionD": "15",
+  "CorrectOption": "11"
+},
+
+{
+  "Question": "What is the solution to the equation 4𝑎 − 7 = 25?",
+  "OptionA": "6",
+  "OptionB": "8",
+  "OptionC": "9",
+  "OptionD": "7",
+  "CorrectOption": "9"
+},
+
+{
+  "Question": "If 𝜃 is an angle in standard position and the terminal side passes through the point (−4, -3), what is sin(𝜃)?",
+  "OptionA": "-3/4",
+  "OptionB": "4/5",
+  "OptionC": "3/5",
+  "OptionD": "-4/5",
+  "CorrectOption": "-3/4"
+},
+
+{
+  "Question": "Solve for 𝑥: 2𝑥 + 9 = 21",
+  "OptionA": "4",
+  "OptionB": "6",
+  "OptionC": "7",
+  "OptionD": "8",
+  "CorrectOption": "6"
+},
+
+{
+  "Question": "What is the value of √(16 + 25)?",
+  "OptionA": "6",
+  "OptionB": "8",
+  "OptionC": "9",
+  "OptionD": "11",
+  "CorrectOption": "√41"
+},
+
+{
+  "Question": "If 𝑎 + 𝑏 = 12 and 𝑎 - 𝑏 = 4, what is the value of 𝑎?",
+  "OptionA": "8",
+  "OptionB": "6",
+  "OptionC": "10",
+  "OptionD": "7",
+  "CorrectOption": "8"
+},
+
+{
+  "Question": "What is the area of a rectangle with length 5 units and width 7 units?",
+  "OptionA": "30",
+  "OptionB": "35",
+  "OptionC": "40",
+  "OptionD": "45",
+  "CorrectOption": "35"
+},
+
+{
+  "Question": "Evaluate the expression: 3(2𝑥 - 4) - 2(𝑥 + 1) when 𝑥 = 3",
+  "OptionA": "5",
+  "OptionB": "8",
+  "OptionC": "11",
+  "OptionD": "14",
+  "CorrectOption": "5"
+},
+
+{
+  "Question": "If 𝑝 = 2𝑞 and 𝑞 = 3𝑟, what is the value of 𝑝 when 𝑟 = 4?",
+  "OptionA": "12",
+  "OptionB": "16",
+  "OptionC": "18",
+  "OptionD": "24",
+  "CorrectOption": "24"
+},
+
+{
+  "Question": "The sum of the angles in a triangle is?",
+  "OptionA": "90 degrees",
+  "OptionB": "120 degrees",
+  "OptionC": "180 degrees",
+  "OptionD": "360 degrees",
+  "CorrectOption": "180 degrees"
+},
+
+{
+  "Question": "If 𝑎/b = 3 and 𝑐/d = 5, what is the value of 𝑎𝑐/(b+d)?",
+  "OptionA": "5",
+  "OptionB": "15",
+  "OptionC": "20",
+  "OptionD": "25",
+  "CorrectOption": "15"
+},
+
+
+
+{
+  "Question": "How many ways can a committee of 5 members be chosen from a group of 10 people?",
+  "OptionA": "10",
+  "OptionB": "50",
+  "OptionC": "100",
+  "OptionD": "252",
+  "CorrectOption": "252"
+  },
+  
+  {
+  "Question": "In how many ways can you arrange the letters of the word 'COMBINATION'?",
+  "OptionA": "3628800",
+  "OptionB": "40320",
+  "OptionC": "5040",
+  "OptionD": "720",
+  "CorrectOption": "3628800"
+  },
+  
+  {
+  "Question": "If a lock has 4 different digits, how many possible combinations are there?",
+  "OptionA": "24",
+  "OptionB": "120",
+  "OptionC": "256",
+  "OptionD": "5040",
+  "CorrectOption": "5040"
+  },
+  
+  {
+  "Question": "In a deck of 52 playing cards, how many different 5-card hands can be dealt?",
+  "OptionA": "52",
+  "OptionB": "259",
+  "OptionC": "2592",
+  "OptionD": "259,860",
+  "CorrectOption": "259,860"
+  },
+  
+  {
+  "Question": "A pizza place offers 5 different toppings. How many different 3-topping pizzas can you create?",
+  "OptionA": "15",
+  "OptionB": "30",
+  "OptionC": "60",
+  "OptionD": "125",
+  "CorrectOption": "60"
+  },
+  
+  {
+  "Question": "How many ways can you arrange the letters of the word 'SUCCESS'?",
+  "OptionA": "2520",
+  "OptionB": "720",
+  "OptionC": "5040",
+  "OptionD": "360",
+  "CorrectOption": "2520"
+  },
+  
+  {
+  "Question": "A committee of 7 people needs to form a president, vice-president, and treasurer. In how many ways can this be done?",
+  "OptionA": "21",
+  "OptionB": "210",
+  "OptionC": "5040",
+  "OptionD": "720",
+  "CorrectOption": "210"
+  },
+  
+  {
+  "Question": "How many ways can you arrange the digits 1, 2, 3, and 4 to form a 4-digit number?",
+  "OptionA": "24",
+  "OptionB": "120",
+  "OptionC": "256",
+  "OptionD": "5040",
+  "CorrectOption": "24"
+  },
+  
+  {
+  "Question": "In a race, there are 8 runners. How many ways can they finish first, second, and third?",
+  "OptionA": "336",
+  "OptionB": "56",
+  "OptionC": "84",
+  "OptionD": "504",
+  "CorrectOption": "336"
+  },
+  
+  {
+  "Question": "A box contains 6 red balls and 4 blue balls. In how many ways can you draw 3 balls, without replacement, such that exactly 2 are red?",
+  "OptionA": "40",
+  "OptionB": "120",
+  "OptionC": "72",
+  "OptionD": "30",
+  "CorrectOption": "60"
+  },
+  
+  {
+  "Question": "How many different ways can you arrange the letters of the word 'MATHEMATICS'?",
+  "OptionA": "1300",
+  "OptionB": "720",
+  "OptionC": "3628800",
+  "OptionD": "130",
+  "CorrectOption": "3628800"
+  },
+  
+  {
+  "Question": "In a group of 15 people, how many different ways can you choose a committee of 3?",
+  "OptionA": "2730",
+  "OptionB": "455",
+  "OptionC": "56",
+  "OptionD": "1365",
+  "CorrectOption": "455"
+  },
+  {
+  "Question": "How many different arrangements can be made using all the letters of the word 'EXAMINATION'?",
+  "OptionA": "120960",
+  "OptionB": "3628800",
+  "OptionC": "10080",
+  "OptionD": "1680",
+  "CorrectOption": "120960"
+  },
+  
+  {
+  "Question": "In how many ways can you arrange the letters of the word 'COMPUTER'?",
+  "OptionA": "40320",
+  "OptionB": "3628800",
+  "OptionC": "1440",
+  "OptionD": "720",
+  "CorrectOption": "40320"
+  },
+  
+  {
+  "Question": "A password consists of 4 digits. How many different passwords are possible if each digit can be any number from 0 to 9?",
+  "OptionA": "1000",
+  "OptionB": "10,000",
+  "OptionC": "100,000",
+  "OptionD": "1,000,000",
+  "CorrectOption": "10,000"
+  },
+  
+
+  {
+  "Question": "If you roll a fair six-sided die, what is the probability of getting a 3?",
+  "OptionA": "1/6",
+  "OptionB": "1/3",
+  "OptionC": "1/2",
+  "OptionD": "2/3",
+  "CorrectOption": "1/6"
+  },
+  
+  {
+  "Question": "In a standard deck of 52 cards, what is the probability of drawing a red card?",
+  "OptionA": "1/2",
+  "OptionB": "1/4",
+  "OptionC": "1/3",
+  "OptionD": "1/5",
+  "CorrectOption": "1/2"
+  },
+  
+  {
+  "Question": "A bag contains 5 red balls and 3 green balls. If one ball is drawn at random, what is the probability of drawing a green ball?",
+  "OptionA": "3/8",
+  "OptionB": "1/4",
+  "OptionC": "1/3",
+  "OptionD": "5/8",
+  "CorrectOption": "3/8"
+  },
+  
+  {
+  "Question": "If you flip a fair coin, what is the probability of getting heads?",
+  "OptionA": "1/2",
+  "OptionB": "1/3",
+  "OptionC": "2/3",
+  "OptionD": "3/4",
+  "CorrectOption": "1/2"
+  },
+  
+  {
+  "Question": "In a class of 30 students, 18 are girls. If a student is chosen at random, what is the probability of choosing a boy?",
+  "OptionA": "1/3",
+  "OptionB": "2/3",
+  "OptionC": "3/5",
+  "OptionD": "1/5",
+  "CorrectOption": "1/3"
+  },
+  
+  {
+  "Question": "A card is drawn from a standard deck. What is the probability of drawing a face card (jack, queen, or king)?",
+  "OptionA": "3/13",
+  "OptionB": "3/26",
+  "OptionC": "1/3",
+  "OptionD": "1/4",
+  "CorrectOption": "3/13"
+  },
+  
+  {
+  "Question": "If you roll two fair six-sided dice, what is the probability of getting a sum of 7?",
+  "OptionA": "1/6",
+  "OptionB": "1/8",
+  "OptionC": "1/12",
+  "OptionD": "1/4",
+  "CorrectOption": "1/6"
+  },
+
+  
+  {
+    "Question": "What is the shape of the set of points such that the sum of the distances from two fixed points (called foci) is constant?",
+    "OptionA": "Circle",
+    "OptionB": "Ellipse",
+    "OptionC": "Parabola",
+    "OptionD": "Hyperbola",
+    "CorrectOption": "B"
+  },
+  {
+    "Question": "In an ellipse, which of the following is constant and equal to the sum of the distances from any point on the ellipse to its two foci?",
+    "OptionA": "Semi-major axis",
+    "OptionB": "Eccentricity",
+    "OptionC": "Perimeter",
+    "OptionD": "Semi-minor axis",
+    "CorrectOption": "A"
+  },
+  {
+    "Question": "What is the point in an ellipse where the major axis and minor axis intersect?",
+    "OptionA": "Center",
+    "OptionB": "Vertex",
+    "OptionC": "Focus",
+    "OptionD": "Directrix",
+    "CorrectOption": "A"
+  },
+  {
+    "Question": "In an ellipse, if the distance between the foci is 2a, what is 'a' known as?",
+    "OptionA": "Eccentricity",
+    "OptionB": "Semi-minor axis",
+    "OptionC": "Semi-major axis",
+    "OptionD": "Focal length",
+    "CorrectOption": "C"
+  },
+  {
+    "Question": "For an ellipse, what is the term for the maximum and minimum distances from a point on the ellipse to its foci?",
+    "OptionA": "Major axis",
+    "OptionB": "Minor axis",
+    "OptionC": "Focal points",
+    "OptionD": "Conjugate axis",
+    "CorrectOption": "A"
+  },
+  {
+    "Question": "What is the shape of the set of points such that the difference of the distances from two fixed points (called foci) is constant?",
+    "OptionA": "Circle",
+    "OptionB": "Ellipse",
+    "OptionC": "Parabola",
+    "OptionD": "Hyperbola",
+    "CorrectOption": "D"
+  },
+  {
+    "Question": "In a hyperbola, which of the following is constant and equal to the distance between the center and either vertex along the transverse axis?",
+    "OptionA": "Semi-major axis",
+    "OptionB": "Eccentricity",
+    "OptionC": "Perimeter",
+    "OptionD": "Semi-minor axis",
+    "CorrectOption": "A"
+  },
+  {
+    "Question": "What is the point in a hyperbola where the two branches intersect?",
+    "OptionA": "Center",
+    "OptionB": "Vertex",
+    "OptionC": "Focus",
+    "OptionD": "Directrix",
+    "CorrectOption": "A"
+  },
+  {
+    "Question": "In a hyperbola, if the distance between the foci is 2a, what is 'a' known as?",
+    "OptionA": "Eccentricity",
+    "OptionB": "Semi-minor axis",
+    "OptionC": "Semi-major axis",
+    "OptionD": "Focal length",
+    "CorrectOption": "C"
+  },
+  {
+    "Question": "For a hyperbola, what is the term for the line passing through the foci and intersecting the hyperbola?",
+    "OptionA": "Major axis",
+    "OptionB": "Minor axis",
+    "OptionC": "Focal points",
+    "OptionD": "Conjugate axis",
+    "CorrectOption": "A"
+  },
+    {
+      "Question": "What is the standard form of the equation of a straight line?",
+      "OptionA": "y = mx",
+      "OptionB": "y = mx + c",
+      "OptionC": "y = x^2",
+      "OptionD": "x = my + c",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "In the equation y = mx + c, what does 'c' represent?",
+      "OptionA": "Slope",
+      "OptionB": "Intercept",
+      "OptionC": "Variable",
+      "OptionD": "Exponent",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "What is the slope of a horizontal line?",
+      "OptionA": "1",
+      "OptionB": "0",
+      "OptionC": "Undefined",
+      "OptionD": "-1",
+      "CorrectOption": "C"
+    },
+    {
+      "Question": "In the equation of a line, what does 'm' represent?",
+      "OptionA": "Intercept",
+      "OptionB": "Slope",
+      "OptionC": "Variable",
+      "OptionD": "Exponent",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "Which of the following is a point-slope form of the equation of a line?",
+      "OptionA": "y = mx + c",
+      "OptionB": "y - y1 = m(x - x1)",
+      "OptionC": "y = x^2",
+      "OptionD": "x = my + c",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "What is the equation of a vertical line?",
+      "OptionA": "y = mx + c",
+      "OptionB": "x = a",
+      "OptionC": "y = x^2",
+      "OptionD": "x = my + c",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "Which of the following is the slope-intercept form of the equation of a line?",
+      "OptionA": "y = mx + c",
+      "OptionB": "y - y1 = m(x - x1)",
+      "OptionC": "y = ax + b",
+      "OptionD": "y = mx + b",
+      "CorrectOption": "D"
+    },
+    {
+      "Question": "What is the condition for three points to be collinear?",
+      "OptionA": "Equal slopes",
+      "OptionB": "Non-collinear slopes",
+      "OptionC": "Equal intercepts",
+      "OptionD": "Equal distances",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "In matrix multiplication, what is the number of columns in the first matrix and the number of rows in the second matrix called?",
+      "OptionA": "Scalar",
+      "OptionB": "Product",
+      "OptionC": "Determinant",
+      "OptionD": "Order",
+      "CorrectOption": "D"
+    },
+    {
+      "Question": "What is the result of adding two matrices with the same dimensions?",
+      "OptionA": "Matrix subtraction",
+      "OptionB": "Scalar multiplication",
+      "OptionC": "Matrix addition",
+      "OptionD": "Matrix division",
+      "CorrectOption": "C"
+    },
+    {
+      "Question": "What is the identity matrix in a 3x3 matrix?",
+      "OptionA": "[1 0 0; 0 1 0; 0 0 1]",
+      "OptionB": "[1 1 1; 1 1 1; 1 1 1]",
+      "OptionC": "[0 0 0; 0 0 0; 0 0 0]",
+      "OptionD": "[1 0 1; 0 1 0; 1 0 1]",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "What is the result of multiplying a matrix by its inverse?",
+      "OptionA": "Zero matrix",
+      "OptionB": "Identity matrix",
+      "OptionC": "Random matrix",
+      "OptionD": "Symmetric matrix",
+      "CorrectOption": "B"
+    },
+    {
+      "Question": "In matrix multiplication, the number of columns in the first matrix must be equal to the number of ______ in the second matrix.",
+      "OptionA": "Rows",
+      "OptionB": "Columns",
+      "OptionC": "Diagonals",
+      "OptionD": "Determinants",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "What is the determinant of a 2x2 matrix with elements a, b, c, and d?",
+      "OptionA": "ad - bc",
+      "OptionB": "a + b + c + d",
+      "OptionC": "(a + d)(b + c)",
+      "OptionD": "a^2 + b^2 + c^2 + d^2",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "Which of the following is a symmetric matrix?",
+      "OptionA": "[1 2 3; 2 4 5; 3 5 6]",
+      "OptionB": "[1 0 0; 0 1 0; 0 1 1]",
+      "OptionC": "[1 2; 3 4]",
+      "OptionD": "[0 1 0; 1 0 1; 0 1 0]",
+      "CorrectOption": "D"
+    },
+    {
+      "Question": "If A is a square matrix and A^2 = A, what is matrix A called?",
+      "OptionA": "Orthogonal matrix",
+      "OptionB": "Symmetric matrix",
+      "OptionC": "Idempotent matrix",
+      "OptionD": "Inverse matrix",
+      "CorrectOption": "C"
+    },
+    {
+      "Question": "What is the transpose of a matrix?",
+      "OptionA": "Interchange of rows and columns",
+      "OptionB": "Inversion of elements",
+      "OptionC": "Multiplication of rows and columns",
+      "OptionD": "Square of elements",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "If matrix A is multiplied by the zero matrix, what is the result?",
+      "OptionA": "Zero matrix",
+      "OptionB": "Identity matrix",
+      "OptionC": "Matrix A",
+      "OptionD": "Random matrix",
+      "CorrectOption": "A"
+    },
+    {
+      "Question": "In matrix addition, matrices must have the same ________.",
+      "OptionA": "Rows",
+      "OptionB": "Columns",
+      "OptionC": "Determinant",
+      "OptionD": "Order",
+      "CorrectOption": "D"
+    }
+  ]
+  
+
+
+
+
+

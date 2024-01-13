@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Usama",
-    "slug": "Usama",
+    "name": "AnotherComponent",
+    "slug": "AnotherComponent",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,16 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.usama_muet.Usama"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "367e9947-92dc-444a-9056-f023ce0db0cc"
-      }
     }
   }
 }

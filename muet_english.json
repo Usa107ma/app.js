@@ -1,0 +1,1698 @@
+[
+{
+  "Question": "Change passive: Who did this?",
+  "OptionA": "He did this",
+  "OptionB": "Someone did this",
+  "OptionC": "It was done by someone",
+  "OptionD": "N.O.T",
+  "CorrectOption": "It was done by someone"
+},
+{
+  "Question": "Narration: He said, 'I shall go as soon as it is possible.'",
+  "OptionA": "He said he would go as soon as possible",
+  "OptionB": "He told he would go as soon as possible",
+  "OptionC": "He said he will go as soon as possible",
+  "OptionD": "N.O.T",
+  "CorrectOption": "He said he would go as soon as possible"
+},
+{
+  "Question": "Change Narration: He said to me, 'I don't believe you.'",
+  "OptionA": "He said he don't believe me",
+  "OptionB": "He told he don't believe me",
+  "OptionC": "He said he didn't believe me",
+  "OptionD": "N.O.T",
+  "CorrectOption": "He said he didn't believe me"
+},
+{
+  "Question": "Change Narration: He shouted, 'Let me go.'",
+  "OptionA": "He was shouted to them to let him go",
+  "OptionB": "He has been shouted to them to let him go",
+  "OptionC": "He shouted to them to let him gone",
+  "OptionD": "He shouted to them to let him go",
+  "CorrectOption": "He shouted to them to let him go"
+},
+{
+  "Question": "Change Narration: Aslam said, 'I am very busy now.'",
+  "OptionA": "Aslam said that he was very busy then",
+  "OptionB": "Aslam told that he was very busy then",
+  "OptionC": "Aslam informed that he was very busy then",
+  "OptionD": "Aslam said that he is very busy then",
+  "CorrectOption": "Aslam said that he was very busy then"
+},
+{
+  "Question": "Change Narration: He said, 'Let us wait for the award.'",
+  "OptionA": "He proposed that they should wait for the award",
+  "OptionB": "He suggested that they should wait for the award",
+  "OptionC": "He proposed that they shall wait for the award",
+  "OptionD": "He suggested that they shall wait for the award",
+  "CorrectOption": "He suggested that they should wait for the award"
+},
+{
+  "Question": "Change to Passive: Someone has invited me to the party.",
+  "OptionA": "I have invited to the party",
+  "OptionB": "I was invited to the party",
+  "OptionC": "I had been invited to the party",
+  "OptionD": "I have been invited to the party",
+  "CorrectOption": "I have been invited to the party"
+},
+{
+  "Question": "Change to Passive: One should keep one's promises.",
+  "OptionA": "Promises must be kept",
+  "OptionB": "Promises would be kept",
+  "OptionC": "Promises should be kept",
+  "OptionD": "Promises shall be kept",
+  "CorrectOption": "Promises must be kept"
+},
+{
+  "Question": "Change to Passive: All his friends laughed at him.",
+  "OptionA": "He is laughed at by all his friends",
+  "OptionB": "He was laughed at by all his friends",
+  "OptionC": "He were laughed at by all his friends",
+  "OptionD": "He was laughed by all his friends",
+  "CorrectOption": "He was laughed at by all his friends"
+},
+{
+  "Question": "Narration: He said to me, 'You may listen to my song.'",
+  "OptionA": "He said to me that I may listen to his song",
+  "OptionB": "He told me that I may listen to his song",
+  "OptionC": "He told me that I can listen to his song",
+  "OptionD": "He said to me that I can listen to his song",
+  "CorrectOption": "He told me that I may listen to his song"
+},
+{
+  "Question": "He loves .... nature.",
+  "OptionA": "A",
+  "OptionB": "An",
+  "OptionC": "The",
+  "OptionD": "None",
+  "CorrectOption": "None"
+},
+{
+  "Question": "A person who is more familiar is called",
+  "OptionA": "Obscure",
+  "OptionB": "Affair",
+  "OptionC": "Deliberate",
+  "OptionD": "Known",
+  "CorrectOption": "Known"
+},
+{
+  "Question": "A man who works in the scientific field is called",
+  "OptionA": "Researcher",
+  "OptionB": "Chemist",
+  "OptionC": "Physiologist",
+  "OptionD": "Scientist",
+  "CorrectOption": "Scientist"
+},
+{
+  "Question": "Child .... sleeping for 3 hours.",
+  "OptionA": "Have been",
+  "OptionB": "Has been",
+  "OptionC": "Have",
+  "OptionD": "Has",
+  "CorrectOption": "Has been"
+},
+{
+  "Question": "Sheep are .... On Eid.",
+  "OptionA": "Slaughter",
+  "OptionB": "Slaughtered",
+  "OptionC": "Slaughtering",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Slaughtered"
+},
+{
+  "Question": "Antonym of attract.",
+  "OptionA": "Repel",
+  "OptionB": "Heal",
+  "OptionC": "Both",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Repel"
+},
+{
+  "Question": "Nearest meaning of Scaling.",
+  "OptionA": "Decrease",
+  "OptionB": "Descend",
+  "OptionC": "Fall",
+  "OptionD": "Calculating",
+  "CorrectOption": "Decrease"
+},
+{
+  "Question": "Nearest meaning of precaution is",
+  "OptionA": "Long-Sightedness",
+  "OptionB": "Short-Sightedness",
+  "OptionC": "Limited",
+  "OptionD": "Carelessness",
+  "CorrectOption": "Carelessness"
+},
+{
+  "Question": "Passive Form of 'I wrote a letter.'",
+  "OptionA": "A letter was written by me",
+  "OptionB": "A letter has been written by me",
+  "OptionC": "A letter is written by me",
+  "OptionD": "N.O.T",
+  "CorrectOption": "A letter was written by me"
+},
+{
+  "Question": "Choose the correct sentence.",
+  "OptionA": "There has been very little rain this summer",
+  "OptionB": "You are intelligent, not he.",
+  "OptionC": "You are intelligent, not him.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "There has been very little rain this summer"
+},
+{
+  "Question": "Genocide meaning.",
+  "OptionA": "Murder of a king",
+  "OptionB": "Murder of father",
+  "OptionC": "Murder of queen",
+  "OptionD": "Murder of a group of people",
+  "CorrectOption": "Murder of a group of people"
+},
+{
+  "Question": "The synonym of proclamation is",
+  "OptionA": "Quiet",
+  "OptionB": "Dishonesty",
+  "OptionC": "Decree",
+  "OptionD": "Secret",
+  "CorrectOption": "Decree"
+},
+{
+  "Question": "Antonym of hurt is",
+  "OptionA": "Healthy",
+  "OptionB": "Heal",
+  "OptionC": "Love",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Heal"
+},
+{
+  "Question": "Dr. Marlloy heard the sound of",
+  "OptionA": "Still water",
+  "OptionB": "Rushing water",
+  "OptionC": "Static water",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Rushing water"
+},
+{
+  "Question": "Familiar.",
+  "OptionA": "Unknown",
+  "OptionB": "Known",
+  "OptionC": "Inexperienced",
+  "OptionD": "Experienced",
+  "CorrectOption": "Known"
+},
+{
+  "Question": "Feasible.",
+  "OptionA": "Doable",
+  "OptionB": "Undoable",
+  "OptionC": "Unpractical",
+  "OptionD": "Impersonal",
+  "CorrectOption": "Doable"
+},
+{
+  "Question": "Corpse.",
+  "OptionA": "Courtyard",
+  "OptionB": "Undergo",
+  "OptionC": "Dead body",
+  "OptionD": "Illness",
+  "CorrectOption": "Dead body"
+},
+{
+  "Question": "Precaution.",
+  "OptionA": "Far-Sightedness",
+  "OptionB": "Narrow-Sightedness",
+  "OptionC": "Bounds",
+  "OptionD": "Limits",
+  "CorrectOption": "Bounds"
+},
+{
+  "Question": "Entreaties.",
+  "OptionA": "Requests",
+  "OptionB": "Questions",
+  "OptionC": "Exclamation",
+  "OptionD": "Sayings",
+  "CorrectOption": "Requests"
+},
+
+
+{
+  "Question": "Her ........... have turned grey.",
+  "OptionA": "Her hair have turned grey.",
+  "OptionB": "Her heirs have turned grey.",
+  "OptionC": "Her airs have turned grey.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Her hair have turned grey."
+},
+{
+  "Question": "His elder son bought .............. eggs.",
+  "OptionA": "His elder son bought ten dozens eggs.",
+  "OptionB": "His elder son bought ten dozens of eggs.",
+  "OptionC": "His elder son bought ten dozens of eggs.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "His elder son bought ten dozens of eggs."
+},
+{
+  "Question": "The sceneries of Murree ........ charming.",
+  "OptionA": "The scenery of Murree are charming.",
+  "OptionB": "The scenery of Murree is charming.",
+  "OptionC": "The scenery of Murree are charming.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "The scenery of Murree is charming."
+},
+{
+  "Question": "She is well ......... in mathematic.",
+  "OptionA": "She is well in mathematics.",
+  "OptionB": "She is well up in mathematics.",
+  "OptionC": "She is well down in mathematics.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "She is well up in mathematics."
+},
+{
+  "Question": "She persisted..........",
+  "OptionA": "on",
+  "OptionB": "with",
+  "OptionC": "at",
+  "OptionD": "in",
+  "CorrectOption": "in"
+},
+{
+  "Question": "Neither they nor their friend solved the question.",
+  "OptionA": "has",
+  "OptionB": "have",
+  "OptionC": "was",
+  "OptionD": "were",
+  "CorrectOption": "have"
+},
+{
+  "Question": "The beautiful and the most attractive picture was hanged on the wall. (Spot error part)",
+  "OptionA": "The",
+  "OptionB": "beautiful",
+  "OptionC": "and",
+  "OptionD": "was hanged",
+  "CorrectOption": "was hanged"
+},
+{
+  "Question": "He invited ............... to dinner.",
+  "OptionA": "You",
+  "OptionB": "We",
+  "OptionC": "Us",
+  "OptionD": "Them",
+  "CorrectOption": "You"
+},
+{
+  "Question": "She is not ................. library.",
+  "OptionA": "to",
+  "OptionB": "up",
+  "OptionC": "at",
+  "OptionD": "of",
+  "CorrectOption": "at"
+},
+{
+  "Question": "If you ............. a lot of money, I wouldn't work anymore.",
+  "OptionA": "have",
+  "OptionB": "had",
+  "OptionC": "has",
+  "OptionD": "were",
+  "CorrectOption": "had"
+},
+{
+  "Question": "He and she Watching a movie.",
+  "OptionA": "is",
+  "OptionB": "have",
+  "OptionC": "are",
+  "OptionD": "will",
+  "CorrectOption": "are"
+},
+{
+  "Question": "In old days doves,................. messages.",
+  "OptionA": "took",
+  "OptionB": "taken",
+  "OptionC": "had took",
+  "OptionD": "taking",
+  "CorrectOption": "took"
+},
+{
+  "Question": "Do you ............. your kids.",
+  "OptionA": "love",
+  "OptionB": "loves",
+  "OptionC": "loved",
+  "OptionD": "loving",
+  "CorrectOption": "love"
+},
+{
+  "Question": "You is a?",
+  "OptionA": "noun",
+  "OptionB": "pronoun",
+  "OptionC": "both",
+  "OptionD": "none",
+  "CorrectOption": "pronoun"
+},
+{
+  "Question": "Why.......... you not study yesterday?",
+  "OptionA": "did",
+  "OptionB": "does",
+  "OptionC": "do",
+  "OptionD": "was",
+  "CorrectOption": "did"
+},
+{
+  "Question": "I ........... at 5 AM daily.",
+  "OptionA": "gets up",
+  "OptionB": "get up",
+  "OptionC": "got up",
+  "OptionD": "is get up",
+  "CorrectOption": "get up"
+},
+{
+  "Question": "Our sir teaches mathematics ................. English.",
+  "OptionA": "beside",
+  "OptionB": "besides",
+  "OptionC": "both",
+  "OptionD": "across",
+  "CorrectOption": "besides"
+},
+{
+  "Question": "I wish I ............ millionaire.",
+  "OptionA": "am",
+  "OptionB": "was",
+  "OptionC": "were",
+  "OptionD": "are",
+  "CorrectOption": "were"
+},
+{
+  "Question": "He died.......... fever.",
+  "OptionA": "by",
+  "OptionB": "for",
+  "OptionC": "from",
+  "OptionD": "of",
+  "CorrectOption": "of"
+},
+{
+  "Question": "I am found ......... teaching English.",
+  "OptionA": "at",
+  "OptionB": "from",
+  "OptionC": "of",
+  "OptionD": "by",
+  "CorrectOption": "of"
+},
+{
+  "Question": "He ............ me last month.",
+  "OptionA": "met",
+  "OptionB": "meets",
+  "OptionC": "meet",
+  "OptionD": "meeting",
+  "CorrectOption": "met"
+},
+{
+  "Question": "He is in ............. Hostel now.",
+  "OptionA": "boys",
+  "OptionB": "boy's",
+  "OptionC": "boys'",
+  "OptionD": "boys's",
+  "CorrectOption": "boys'"
+},
+{
+  "Question": "He ........... English now.",
+  "OptionA": "can speak",
+  "OptionB": "can spoke",
+  "OptionC": "can spoken",
+  "OptionD": "can speaking",
+  "CorrectOption": "can speak"
+},
+{
+  "Question": "How many kites .............. in the sky.",
+  "OptionA": "flying",
+  "OptionB": "are fly",
+  "OptionC": "is flying",
+  "OptionD": "are flying",
+  "CorrectOption": "are flying"
+},
+{
+  "Question": "He divided his property ............. two sons.",
+  "OptionA": "under",
+  "OptionB": "among",
+  "OptionC": "within",
+  "OptionD": "between",
+  "CorrectOption": "among"
+},
+{
+  "Question": "Ocean plays a............. role in setting long-term climate............",
+  "OptionA": "Vital/Date",
+  "OptionB": "Unusual/change",
+  "OptionC": "Important/variations",
+  "OptionD": "Major/patterns",
+  "CorrectOption": "Important/variations"
+},
+{
+  "Question": "I promise to ............. you in all situations.",
+  "OptionA": "stand",
+  "OptionB": "with",
+  "OptionC": "ans",
+  "OptionD": "N.O.T",
+  "CorrectOption": "stand"
+},
+{
+  "Question": "It is difficult .......... reconcile such different points of view.",
+  "OptionA": "One",
+  "OptionB": "In",
+  "OptionC": "To",
+  "OptionD": "With",
+  "CorrectOption": "to"
+},
+{
+  "Question": "The speaker did not properly space out his speech but went .............. one point only.",
+  "OptionA": "on",
+  "OptionB": "N.O.T",
+  "OptionC": "at",
+  "OptionD": "with",
+  "CorrectOption": "on"
+},
+
+{
+  "Question": "There is something ............. him.",
+  "OptionA": "on",
+  "OptionB": "about",
+  "OptionC": "inside",
+  "OptionD": "for",
+  "CorrectOption": "about"
+},
+{
+  "Question": "Some people ............. to the officer against him about his misdeeds.",
+  "OptionA": "informed",
+  "OptionB": "complained",
+  "OptionC": "asked",
+  "OptionD": "questioned",
+  "CorrectOption": "complained"
+},
+{
+  "Question": "If we go to the park, you........... come too.",
+  "OptionA": "shall",
+  "OptionB": "would",
+  "OptionC": "am",
+  "OptionD": "are",
+  "CorrectOption": "shall"
+},
+{
+  "Question": "It is already 5 O'clock, can you ............. time to catch the bus??",
+  "OptionA": "Have it in",
+  "OptionB": "Made it",
+  "OptionC": "Have enough",
+  "OptionD": "Make it in",
+  "CorrectOption": "Make it in"
+},
+{
+  "Question": "The man ............ down the road is my brother.",
+  "OptionA": "hurrying",
+  "OptionB": "hurried",
+  "OptionC": "to hurry",
+  "OptionD": "hurry",
+  "CorrectOption": "hurrying"
+},
+{
+  "Question": "All of us are denoted ............ another.",
+  "OptionA": "of",
+  "OptionB": "at",
+  "OptionC": "to",
+  "OptionD": "with",
+  "CorrectOption": "to"
+},
+{
+  "Question": "I am very much ............. to meet you.",
+  "OptionA": "to delighted",
+  "OptionB": "delight",
+  "OptionC": "delighted",
+  "OptionD": "delighting",
+  "CorrectOption": "delighted"
+},
+{
+  "Question": "I am looking .............. the matter.",
+  "OptionA": "about",
+  "OptionB": "after",
+  "OptionC": "in",
+  "OptionD": "it",
+  "CorrectOption": "into"
+},
+{
+  "Question": "He is blind ........... one eye.",
+  "OptionA": "in",
+  "OptionB": "of",
+  "OptionC": "at",
+  "OptionD": "with",
+  "CorrectOption": "in"
+},
+{
+  "Question": "He ............. in Pakistan.",
+  "OptionA": "lives",
+  "OptionB": "lived",
+  "OptionC": "living",
+  "OptionD": "live",
+  "CorrectOption": "lives"
+},
+{
+  "Question": "..............you make me up so early on Sunday?",
+  "OptionA": "Could",
+  "OptionB": "Must",
+  "OptionC": "Will",
+  "OptionD": "Dare",
+  "CorrectOption": "Why"
+},
+{
+  "Question": "Father was angry ............. my failure.",
+  "OptionA": "at",
+  "OptionB": "in",
+  "OptionC": "on",
+  "OptionD": "with",
+  "CorrectOption": "with"
+},
+{
+  "Question": "My father is devoted............... religion.",
+  "OptionA": "To",
+  "OptionB": "with",
+  "OptionC": "in",
+  "OptionD": "at",
+  "CorrectOption": "to"
+},
+{
+  "Question": "The song in play cannot be deleted as it is .................. to the story.",
+  "OptionA": "integral",
+  "OptionB": "innate",
+  "OptionC": "exacting",
+  "OptionD": "intervened",
+  "CorrectOption": "integral"
+},
+{
+  "Question": "The building is not safe and must be ................. down.",
+  "OptionA": "pulling",
+  "OptionB": "pulls",
+  "OptionC": "pull",
+  "OptionD": "pulled",
+  "CorrectOption": "pulled"
+},
+{
+  "Question": "He runs fast, Fast is",
+  "OptionA": "Adjective",
+  "OptionB": "Pronoun",
+  "OptionC": "Adverb",
+  "OptionD": "Noun",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "The cat ............ on the wall yesterday.",
+  "OptionA": "jump",
+  "OptionB": "jumps",
+  "OptionC": "jumped",
+  "OptionD": "jumping",
+  "CorrectOption": "jumped"
+},
+{
+  "Question": "She ........... her keys at home yesterday.",
+  "OptionA": "forget",
+  "OptionB": "forgets",
+  "OptionC": "forgot",
+  "OptionD": "forgetting",
+  "CorrectOption": "forgot"
+},
+{
+  "Question": "He ............. his lunch in the cafeteria today.",
+  "OptionA": "eat",
+  "OptionB": "eats",
+  "OptionC": "ate",
+  "OptionD": "eating",
+  "CorrectOption": "ate"
+},
+{
+  "Question": "The car .............. down on the way to the party.",
+  "OptionA": "break",
+  "OptionB": "breaks",
+  "OptionC": "broke",
+  "OptionD": "breaking",
+  "CorrectOption": "broke"
+},
+{
+  "Question": "She ............ to the store every day.",
+  "OptionA": "go",
+  "OptionB": "goes",
+  "OptionC": "went",
+  "OptionD": "going",
+  "CorrectOption": "goes"
+},
+{
+  "Question": "The teacher ............. a difficult question in the exam.",
+  "OptionA": "asks",
+  "OptionB": "asked",
+  "OptionC": "asking",
+  "OptionD": "ask",
+  "CorrectOption": "asked"
+},
+{
+  "Question": "They ............. happy when they heard the news.",
+  "OptionA": "is",
+  "OptionB": "am",
+  "OptionC": "are",
+  "OptionD": "were",
+  "CorrectOption": "were"
+},
+{
+  "Question": "We ............ to the beach every summer.",
+  "OptionA": "go",
+  "OptionB": "goes",
+  "OptionC": "went",
+  "OptionD": "going",
+  "CorrectOption": "go"
+},
+{
+  "Question": "The children ............. excited about the upcoming trip.",
+  "OptionA": "is",
+  "OptionB": "am",
+  "OptionC": "are",
+  "OptionD": "were",
+  "CorrectOption": "are"
+},
+{
+  "Question": "She ............. a beautiful song at the concert last night.",
+  "OptionA": "sings",
+  "OptionB": "sang",
+  "OptionC": "sing",
+  "OptionD": "singing",
+  "CorrectOption": "sang"
+},
+{
+  "Question": "He ............. the book on the shelf.",
+  "OptionA": "put",
+  "OptionB": "puts",
+  "OptionC": "putting",
+  "OptionD": "putt",
+  "CorrectOption": "put"
+},
+{
+  "Question": "They ............. a delicious cake for her birthday.",
+  "OptionA": "bakes",
+  "OptionB": "baked",
+  "OptionC": "bake",
+  "OptionD": "baking",
+  "CorrectOption": "baked"
+},
+{
+  "Question": "The baby ............. softly in the crib.",
+  "OptionA": "cries",
+  "OptionB": "cried",
+  "OptionC": "cry",
+  "OptionD": "crying",
+  "CorrectOption": "cried"
+},
+{
+  "Question": "The sun ............. in the east every morning.",
+  "OptionA": "rises",
+  "OptionB": "rose",
+  "OptionC": "rise",
+  "OptionD": "rising",
+  "CorrectOption": "rises"
+},
+{
+  "Question": "The students ............. quietly during the exam.",
+  "OptionA": "talk",
+  "OptionB": "talks",
+  "OptionC": "talking",
+  "OptionD": "talked",
+  "CorrectOption": "talked"
+},
+{
+  "Question": "The river ............. through the valley.",
+  "OptionA": "flows",
+  "OptionB": "flowed",
+  "OptionC": "flow",
+  "OptionD": "flowing",
+  "CorrectOption": "flows"
+},
+{
+  "Question": "She ............ her homework last night.",
+  "OptionA": "finishes",
+  "OptionB": "finished",
+  "OptionC": "finish",
+  "OptionD": "finishing",
+  "CorrectOption": "finished"
+},
+{
+  "Question": "The bird ............. away when we approached.",
+  "OptionA": "fly",
+  "OptionB": "flies",
+  "OptionC": "flew",
+  "OptionD": "flying",
+  "CorrectOption": "flew"
+},
+{
+  "Question": "The cat ............ lazily in the sun.",
+  "OptionA": "lay",
+  "OptionB": "lies",
+  "OptionC": "lain",
+  "OptionD": "lying",
+  "CorrectOption": "lies"
+},
+{
+  "Question": "The storm ............. fiercely all night.",
+  "OptionA": "rage",
+  "OptionB": "rages",
+  "OptionC": "raged",
+  "OptionD": "raging",
+  "CorrectOption": "raged"
+},
+{
+  "Question": "Anatomy of lessen is:",
+  "OptionA": "A B C",
+  "OptionB": "Subject Object Verb",
+  "OptionC": "Object Verb Subject",
+  "OptionD": "None of the above",
+  "CorrectOption": "Subject Object Verb"
+},
+{
+  "Question": "The Hostile witness is .............. story",
+  "OptionA": "detective",
+  "OptionB": "love",
+  "OptionC": "melodrama",
+  "OptionD": "none",
+  "CorrectOption": "detective"
+},
+{
+  "Question": "Adultery means",
+  "OptionA": "Cruelty",
+  "OptionB": "Dishonesty",
+  "OptionC": "Infidelity",
+  "OptionD": "Loyalty",
+  "CorrectOption": "Infidelity"
+},
+{
+  "Question": "Choose correct punctuation mark",
+  "OptionA": "Oh, dear(?)",
+  "OptionB": "Oh, dear?",
+  "OptionC": "Oh, dear.",
+  "OptionD": "Oh, dear!",
+  "CorrectOption": "Oh, dear!"
+},
+{
+  "Question": "Correct meaning of the word 'Trampling'",
+  "OptionA": "Walking with care",
+  "OptionB": "Destroying with footsteps",
+  "OptionC": "Jumping joyfully",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Destroying with footsteps"
+},
+{
+  "Question": "Who is the author of 'The Prisoner of Zenda'?",
+  "OptionA": "Anthony Hope",
+  "OptionB": "Charles Dickens",
+  "OptionC": "Jane Austen",
+  "OptionD": "Arthur Conan Doyle",
+  "CorrectOption": "Anthony Hope"
+},
+{
+  "Question": "What is the setting of 'The Prisoner of Zenda'?",
+  "OptionA": "London",
+  "OptionB": "Paris",
+  "OptionC": "Ruritania",
+  "OptionD": "Madrid",
+  "CorrectOption": "Ruritania"
+},
+{
+  "Question": "Who is the protagonist of the novel?",
+  "OptionA": "King Rudolf V",
+  "OptionB": "Rupert of Hentzau",
+  "OptionC": "Rudolf Rassendyll",
+  "OptionD": "Colonel Sapt",
+  "CorrectOption": "Rudolf Rassendyll"
+},
+{
+  "Question": "What is the name of the fictional country in the story?",
+  "OptionA": "Ruritania",
+  "OptionB": "Zenda",
+  "OptionC": "Sylvania",
+  "OptionD": "Elsinore",
+  "CorrectOption": "Ruritania"
+},
+{
+  "Question": "Who is the villain in 'The Prisoner of Zenda'?",
+  "OptionA": "Colonel Sapt",
+  "OptionB": "Black Michael",
+  "OptionC": "Rudolf Rassendyll",
+  "OptionD": "Antoinette de Mauban",
+  "CorrectOption": "Black Michael"
+},
+{
+  "Question": "In 'The Count's Revenge,' who seeks revenge?",
+  "OptionA": "Antoinette de Mauban",
+  "OptionB": "Rupert of Hentzau",
+  "OptionC": "Rudolf Rassendyll",
+  "OptionD": "Colonel Sapt",
+  "CorrectOption": "Rupert of Hentzau"
+},
+{
+  "Question": "What is the sequel to 'The Prisoner of Zenda'?",
+  "OptionA": "The Count's Revenge",
+  "OptionB": "The Ruritanian Affair",
+  "OptionC": "Rupert's Scheme",
+  "OptionD": "Zenda's Legacy",
+  "CorrectOption": "The Count's Revenge"
+},
+{
+  "Question": "Who is the king impersonated in 'The Prisoner of Zenda'?",
+  "OptionA": "King Rudolf V",
+  "OptionB": "King Rudolf Rassendyll",
+  "OptionC": "King Michael",
+  "OptionD": "King Rupert",
+  "CorrectOption": "King Rudolf V"
+},
+{
+  "Question": "What is the main plot device in 'The Prisoner of Zenda'?",
+  "OptionA": "Time Travel",
+  "OptionB": "Invisibility",
+  "OptionC": "Impersonation",
+  "OptionD": "Teleportation",
+  "CorrectOption": "Impersonation"
+},
+{
+  "Question": "Who is the love interest of the protagonist in 'The Prisoner of Zenda'?",
+  "OptionA": "Princess Flavia",
+  "OptionB": "Antoinette de Mauban",
+  "OptionC": "Helga von Tarlenheim",
+  "OptionD": "Dame Amelia",
+  "CorrectOption": "Princess Flavia"
+},
+{
+  "Question": "What is the name of the castle in 'The Prisoner of Zenda'?",
+  "OptionA": "Zenda Castle",
+  "OptionB": "Rassendyll Castle",
+  "OptionC": "Tarlenheim Castle",
+  "OptionD": "Strelsau Castle",
+  "CorrectOption": "Zenda Castle"
+},
+{
+  "Question": "Who is the loyal friend of the protagonist in 'The Prisoner of Zenda'?",
+  "OptionA": "Antoinette de Mauban",
+  "OptionB": "Colonel Sapt",
+  "OptionC": "Rupert of Hentzau",
+  "OptionD": "Duke Michael",
+  "CorrectOption": "Colonel Sapt"
+},
+{
+  "Question": "What is the outcome of the love story in 'The Prisoner of Zenda'?",
+  "OptionA": "Happy Ending",
+  "OptionB": "Tragic Ending",
+  "OptionC": "Open Ending",
+  "OptionD": "Twist Ending",
+  "CorrectOption": "Happy Ending"
+},
+{
+  "Question": "What is the primary genre of 'The Prisoner of Zenda'?",
+  "OptionA": "Romance",
+  "OptionB": "Science Fiction",
+  "OptionC": "Mystery",
+  "OptionD": "Adventure",
+  "CorrectOption": "Adventure"
+},
+{
+  "Question": "Who is the author of 'The Count's Revenge'?",
+  "OptionA": "Anthony Hope",
+  "OptionB": "Charles Dickens",
+  "OptionC": "Jane Austen",
+  "OptionD": "Arthur Conan Doyle",
+  "CorrectOption": "Anthony Hope"
+},
+{
+  "Question": "What is the definition of 'incognito'?",
+  "OptionA": "With full knowledge",
+  "OptionB": "Without disguise",
+  "OptionC": "Undercover",
+  "OptionD": "In plain sight",
+  "CorrectOption": "With full knowledge"
+},
+
+{
+  "Question": "Synonym of pacify",
+  "OptionA": "Agitate",
+  "OptionB": "Appease",
+  "OptionC": "Provoke",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Appease"
+},
+{
+  "Question": "Antonym of protects",
+  "OptionA": "Defends",
+  "OptionB": "Guards",
+  "OptionC": "Preserves",
+  "OptionD": "Endangers",
+  "CorrectOption": "Endangers"
+},
+{
+  "Question": "Antonym of gloomy",
+  "OptionA": "Cheerful",
+  "OptionB": "Dreary",
+  "OptionC": "Melancholy",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Cheerful"
+},
+{
+  "Question": "We have been in Sector 8, Gandhinagar.............. 1997",
+  "OptionA": "for",
+  "OptionB": "from",
+  "OptionC": "about",
+  "OptionD": "since",
+  "CorrectOption": "since"
+},
+{
+  "Question": "All the winners................. prizes tomorrow",
+  "OptionA": "will be given",
+  "OptionB": "will given",
+  "OptionC": "will be giving",
+  "OptionD": "will have been given",
+  "CorrectOption": "will be given"
+},
+{
+  "Question": "Board........... not.................. this question in the previous exam",
+  "OptionA": "did, ask",
+  "OptionB": "was, ask",
+  "OptionC": "does, ask",
+  "OptionD": "will, ask",
+  "CorrectOption": "did, ask"
+},
+{
+  "Question": "More than one person .......................... in the accident",
+  "OptionA": "was killed",
+  "OptionB": "were killed",
+  "OptionC": "have been killed",
+  "OptionD": "None",
+  "CorrectOption": "were killed"
+},
+{
+  "Question": "Antonym of 'Brave'",
+  "OptionA": "Timid",
+  "OptionB": "Fearless",
+  "OptionC": "Bold",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Timid"
+},
+{
+  "Question": "Synonym of 'Capture'",
+  "OptionA": "Release",
+  "OptionB": "Seize",
+  "OptionC": "Free",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Seize"
+},
+{
+  "Question": "Narration: He said, 'I will go to the market.'",
+  "OptionA": "He says that he will go to the market.",
+  "OptionB": "He said that he will go to the market.",
+  "OptionC": "He said that he would go to the market.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "He said that he would go to the market."
+},
+{
+  "Question": "Change to Passive Voice: They built a new bridge.",
+  "OptionA": "A new bridge is built by them.",
+  "OptionB": "A new bridge was built by them.",
+  "OptionC": "A new bridge is being built by them.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "A new bridge was built by them."
+},
+{
+  "Question": "Tense: She _________ (read) a book when the phone rang.",
+  "OptionA": "reading",
+  "OptionB": "read",
+  "OptionC": "reads",
+  "OptionD": "N.O.T",
+  "CorrectOption": "was reading"
+},
+{
+  "Question": "Preposition: The cat is sitting ______ the roof.",
+  "OptionA": "on",
+  "OptionB": "in",
+  "OptionC": "over",
+  "OptionD": "N.O.T",
+  "CorrectOption": "on"
+},
+{
+  "Question": "Preposition: She is afraid ______ snakes.",
+  "OptionA": "of",
+  "OptionB": "for",
+  "OptionC": "by",
+  "OptionD": "N.O.T",
+  "CorrectOption": "of"
+},
+{
+  "Question": "Punctuation: Choose the correct sentence.",
+  "OptionA": "Are you coming",
+  "OptionB": "Are you coming.",
+  "OptionC": "Are you coming?",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Are you coming?"
+},
+{
+  "Question": "Find Correct Sentence:",
+  "OptionA": "He don't like coffee.",
+  "OptionB": "He doesn't like coffee.",
+  "OptionC": "He isn't like coffee.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "He doesn't like coffee."
+},
+{
+  "Question": "Error Detection: She sings very good.",
+  "OptionA": "She",
+  "OptionB": "sings",
+  "OptionC": "very",
+  "OptionD": "good",
+  "CorrectOption": "good"
+},
+{
+  "Question": "Error Detection: I have been knowing him for years.",
+  "OptionA": "I",
+  "OptionB": "have been",
+  "OptionC": "knowing",
+  "OptionD": "for years",
+  "CorrectOption": "knowing"
+},
+{
+  "Question": "Articles: Choose the correct sentence.",
+  "OptionA": "She is a teacher.",
+  "OptionB": "She is the teacher.",
+  "OptionC": "She is an teacher.",
+  "OptionD": "N.O.T",
+  "CorrectOption": "She is a teacher."
+},
+{
+  "Question": "Articles: He is ______ honest man.",
+  "OptionA": "a",
+  "OptionB": "an",
+  "OptionC": "the",
+  "OptionD": "N.O.T",
+  "CorrectOption": "an"
+},
+{
+  "Question": "Correct Spellings: Choose the correctly spelled word.",
+  "OptionA": "Occasionel",
+  "OptionB": "Occasional",
+  "OptionC": "Occasionalle",
+  "OptionD": "N.O.T",
+  "CorrectOption": "Occasional"
+},
+{
+  "Question": "In the bustling city of Metropolis, there stood a magnificent skyscraper known as the Silver Spire. Its sleek, reflective surface shimmered in the sunlight, making it a symbol of modern architecture. The lobby of the Silver Spire was adorned with exquisite artwork, and its elevators whisked people to towering heights. On the top floor, a luxurious penthouse overlooked the entire city. Residents enjoyed breathtaking views and indulged in the opulence of urban living. Amidst the glamour, intrigue unfolded as secrets were whispered behind closed doors.",
+  "OptionA": "Metropolis is known for its historical landmarks.",
+  "OptionB": "The Silver Spire is a rustic building in a small town.",
+  "OptionC": "The top floor of the Silver Spire offers panoramic city views.",
+  "OptionD": "The lobby of the Silver Spire is adorned with ancient artifacts.",
+  "CorrectOption": "The top floor of the Silver Spire offers panoramic city views."
+},
+{
+  "Question": "What is the Silver Spire?",
+  "OptionA": "A luxurious penthouse",
+  "OptionB": "An ancient landmark",
+  "OptionC": "A modern skyscraper",
+  "OptionD": "A historical monument",
+  "CorrectOption": "A modern skyscraper"
+},
+{
+  "Question": "What is the lobby of the Silver Spire adorned with?",
+  "OptionA": "Ancient artifacts",
+  "OptionB": "Exquisite artwork",
+  "OptionC": "Rustic decor",
+  "OptionD": "Minimalist design",
+  "CorrectOption": "Exquisite artwork"
+},
+{
+  "Question": "What is the Silver Spire considered a symbol of?",
+  "OptionA": "Urban decay",
+  "OptionB": "Modern architecture",
+  "OptionC": "Historical preservation",
+  "OptionD": "Natural landscapes",
+  "CorrectOption": "Modern architecture"
+},
+{
+  "Question": "Where is the luxurious penthouse located?",
+  "OptionA": "On the ground floor",
+  "OptionB": "In the lobby",
+  "OptionC": "On the top floor",
+  "OptionD": "In the basement",
+  "CorrectOption": "On the top floor"
+},
+{
+  "Question": "Amidst the rolling hills of Crestwood, a charming cottage stood surrounded by vibrant gardens. The sweet fragrance of blooming flowers filled the air, creating a picturesque scene. The cottage's cozy interior boasted rustic furniture and a crackling fireplace. Residents enjoyed the tranquility of rural life, where time seemed to slow down. As the seasons changed, Crestwood's landscape transformed, painting a different masterpiece with each passing month.",
+  "OptionA": "The cottage in Crestwood has a modern interior.",
+  "OptionB": "The cottage's surroundings are filled with urban noise.",
+  "OptionC": "Residents of Crestwood experience a fast-paced lifestyle.",
+  "OptionD": "Crestwood's landscape changes with the seasons.",
+  "CorrectOption": "Crestwood's landscape changes with the seasons."
+},
+{
+  "Question": "Beneath the azure sky, a pristine beach stretched along the coastline. The gentle waves lapped at the shore, creating a soothing melody. Sunbathers basked in the warmth, and children built sandcastles near the water's edge. Seagulls soared overhead, adding to the idyllic scene. As the day unfolded, the beach became a haven for relaxation and joy.",
+  "OptionA": "The beach is chaotic and noisy.",
+  "OptionB": "Children at the beach are engaged in water sports.",
+  "OptionC": "Seagulls are a source of disturbance on the beach.",
+  "OptionD": "The beach is a haven for relaxation and joy.",
+  "CorrectOption": "The beach is a haven for relaxation and joy."
+},
+{
+  "Question": "In the heart of Oakwood Forest, an ancient tree stood tall, its gnarled branches reaching towards the sky. The forest floor was carpeted with fallen leaves, creating a natural mosaic of autumn colors. Sunlight filtered through the dense foliage, casting a warm glow. Creatures of the forest, both big and small, found refuge in the embrace of Oakwood, creating a harmonious ecosystem.",
+  "OptionA": "The ancient tree in Oakwood Forest has a weak structure.",
+  "OptionB": "The forest floor is barren and devoid of fallen leaves.",
+  "OptionC": "Sunlight does not penetrate the dense foliage of Oakwood.",
+  "OptionD": "Oakwood Forest is home to a harmonious ecosystem.",
+  "CorrectOption": "Oakwood Forest is home to a harmonious ecosystem."
+},
+{
+  "Question": "High in the mountainous region, a crystal-clear lake nestled among snow-capped peaks. The serene waters reflected the majestic landscape, mirroring the towering mountains. Pine trees adorned the shores, adding a touch of greenery to the pristine surroundings. The air was crisp and invigorating, making it a perfect retreat for nature enthusiasts.",
+  "OptionA": "The lake in the mountainous region is murky and polluted.",
+  "OptionB": "The air in the mountainous region is humid and stifling.",
+  "OptionC": "The lake reflects the majestic landscape of snow-capped peaks.",
+  "OptionD": "Pine trees do not grow near the lake in the mountainous region.",
+  "CorrectOption": "The lake reflects the majestic landscape of snow-capped peaks."
+},
+{
+  "Question": "Within the historic city of Everwood, cobblestone streets wound their way through medieval buildings. The scent of freshly baked bread wafted from quaint bakeries, and market stalls displayed vibrant fruits and handmade crafts. A towering castle at the city's center spoke of ancient tales and royal history. Everwood's charm lay in its fusion of the past and present, creating a timeless allure for visitors.",
+  "OptionA": "Everwood is a modern city with skyscrapers.",
+  "OptionB": "The streets of Everwood are lined with fast-food chains.",
+  "OptionC": "Everwood's charm lies in its fusion of the past and present.",
+  "OptionD": "The castle in Everwood is a recent construction.",
+  "CorrectOption": "Everwood's charm lies in its fusion of the past and present."
+},
+{
+  "Question": "She persisted ............ the task despite the challenges.",
+  "OptionA": "on",
+  "OptionB": "with",
+  "OptionC": "at",
+  "OptionD": "in",
+  "CorrectOption": "with"
+},
+{
+  "Question": "I am excited ........... the upcoming event.",
+  "OptionA": "on",
+  "OptionB": "with",
+  "OptionC": "about",
+  "OptionD": "in",
+  "CorrectOption": "about"
+},
+{
+  "Question": "He apologized ........... his behavior.",
+  "OptionA": "on",
+  "OptionB": "with",
+  "OptionC": "for",
+  "OptionD": "in",
+  "CorrectOption": "for"
+},
+{
+  "Question": "The cat jumped ........... the table.",
+  "OptionA": "over",
+  "OptionB": "above",
+  "OptionC": "on",
+  "OptionD": "upon",
+  "CorrectOption": "onto"
+},
+{
+  "Question": "She is allergic ........... pollen.",
+  "OptionA": "on",
+  "OptionB": "to",
+  "OptionC": "with",
+  "OptionD": "about",
+  "CorrectOption": "to"
+},
+{
+  "Question": "Error Detection: I am not interest in politics.",
+  "OptionA": "interest",
+  "OptionB": "am",
+  "OptionC": "in",
+  "OptionD": "politics",
+  "CorrectOption": "interest"
+},
+{
+  "Question": "Error Detection: Neither John or Peter were present.",
+  "OptionA": "Neither",
+  "OptionB": "or",
+  "OptionC": "were",
+  "OptionD": "present",
+  "CorrectOption": "or"
+},
+{
+  "Question": "Error Detection: My father is too ill that he can't attend the meeting.",
+  "OptionA": "My",
+  "OptionB": "that",
+  "OptionC": "he",
+  "OptionD": "ill",
+  "CorrectOption": "that"
+},
+{
+  "Question": "Error Detection: I will send you a gift if you will come to my birthday party.",
+  "OptionA": "will",
+  "OptionB": "send",
+  "OptionC": "if",
+  "OptionD": "come",
+  "CorrectOption": "if"
+},
+{
+  "Question": "Error Detection: The committee is divided on their opinion.",
+  "OptionA": "divided",
+  "OptionB": "on",
+  "OptionC": "their",
+  "OptionD": "opinion",
+  "CorrectOption": "on"
+},
+{
+  "Question": "Change into Passive: They built a new hospital.",
+  "OptionA": "A new hospital is built by them.",
+  "OptionB": "A new hospital was built by them.",
+  "OptionC": "A new hospital will be built by them.",
+  "OptionD": "A new hospital is being built by them.",
+  "CorrectOption": "A new hospital was built by them."
+},
+{
+  "Question": "Change into Passive: The teacher praised the student.",
+  "OptionA": "The student praised the teacher.",
+  "OptionB": "The student was praised by the teacher.",
+  "OptionC": "The student is praised by the teacher.",
+  "OptionD": "The student has praised the teacher.",
+  "CorrectOption": "The student was praised by the teacher."
+},
+{
+  "Question": "Change into Passive: They are renovating the old house.",
+  "OptionA": "The old house renovates them.",
+  "OptionB": "The old house is renovated by them.",
+  "OptionC": "The old house was renovated by them.",
+  "OptionD": "The old house will be renovated by them.",
+  "CorrectOption": "The old house is being renovated by them."
+},
+{
+  "Question": "Change into Passive: She teaches English to the students.",
+  "OptionA": "The students are taught English by her.",
+  "OptionB": "English is taught to the students by her.",
+  "OptionC": "The students are teaching English to her.",
+  "OptionD": "She taught English to the students.",
+  "CorrectOption": "English is taught to the students by her."
+},
+{
+  "Question": "Change into Passive: The chef prepared a delicious meal.",
+  "OptionA": "A delicious meal prepared the chef.",
+  "OptionB": "A delicious meal is prepared by the chef.",
+  "OptionC": "A delicious meal was prepared by the chef.",
+  "OptionD": "A delicious meal will be prepared by the chef.",
+  "CorrectOption": "A delicious meal was prepared by the chef."
+},
+{
+  "Question": "Change into Indirect Speech: She said, 'I will call you later.'",
+  "OptionA": "She said that she will call me later.",
+  "OptionB": "She says that she will call me later.",
+  "OptionC": "She said that she would call me later.",
+  "OptionD": "She said that she calls me later.",
+  "CorrectOption": "She said that she would call me later."
+},
+{
+  "Question": "Change into Indirect Speech: He said, 'I have completed my homework.'",
+  "OptionA": "He said that he had completed his homework.",
+  "OptionB": "He says that he has completed his homework.",
+  "OptionC": "He said that he completes his homework.",
+  "OptionD": "He said that he will complete his homework.",
+  "CorrectOption": "He said that he had completed his homework."
+},
+{
+  "Question": "Change into Indirect Speech: 'I am watching a movie,' she said.",
+  "OptionA": "She said that she is watching a movie.",
+  "OptionB": "She says that she was watching a movie.",
+  "OptionC": "She said that she was watching a movie.",
+  "OptionD": "She said that she watched a movie.",
+  "CorrectOption": "She said that she was watching a movie."
+},
+{
+  "Question": "Change into Indirect Speech: 'I will meet you at the park,' he said.",
+  "OptionA": "He says that he will meet me at the park.",
+  "OptionB": "He says that he would meet me at the park.",
+  "OptionC": "He said that he would meet me at the park.",
+  "OptionD": "He said that he will meet me at the park.",
+  "CorrectOption": "He said that he would meet me at the park."
+},
+{
+  "Question": "Change into Indirect Speech: 'I can swim,' she said.",
+  "OptionA": "She says that she can swim.",
+  "OptionB": "She said that she could swim.",
+  "OptionC": "She says that she could swim.",
+  "OptionD": "She said that she can swim.",
+  "CorrectOption": "She said that she could swim."
+},
+{
+  "Question": "Identify the Part of Speech: The sun is shining brightly.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "Identify the Part of Speech: She has a beautiful garden.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adjective"
+},
+{
+  "Question": "Identify the Part of Speech: The cat is sleeping on the couch.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Verb"
+},
+{
+  "Question": "Identify the Part of Speech: The mountain air is refreshing.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adjective"
+},
+{
+  "Question": "Identify the Part of Speech: The children played happily in the park.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "Correct the Sentence: He don't like coffee.",
+  "OptionA": "He don't like coffee.",
+  "OptionB": "He doesn't like coffee.",
+  "OptionC": "He isn't like coffee.",
+  "OptionD": "He not like coffee.",
+  "CorrectOption": "He doesn't like coffee."
+},
+{
+  "Question": "Correct the Sentence: They was playing in the garden.",
+  "OptionA": "They was playing in the garden.",
+  "OptionB": "They were playing in the garden.",
+  "OptionC": "They play in the garden.",
+  "OptionD": "They is playing in the garden.",
+  "CorrectOption": "They were playing in the garden."
+},
+{
+  "Question": "Correct the Sentence: She don't have a car.",
+  "OptionA": "She don't have a car.",
+  "OptionB": "She didn't have a car.",
+  "OptionC": "She isn't have a car.",
+  "OptionD": "She not have a car.",
+  "CorrectOption": "She doesn't have a car."
+},
+{
+  "Question": "Correct the Sentence: We was waiting for the bus.",
+  "OptionA": "We was waiting for the bus.",
+  "OptionB": "We weren't waiting for the bus.",
+  "OptionC": "We were waiting for the bus.",
+  "OptionD": "We is waiting for the bus.",
+  "CorrectOption": "We were waiting for the bus."
+},
+{
+  "Question": "Correct the Sentence: She don't like chocolate.",
+  "OptionA": "She don't like chocolate.",
+  "OptionB": "She doesn't like chocolate.",
+  "OptionC": "She is not like chocolate.",
+  "OptionD": "She not like chocolate.",
+  "CorrectOption": "She doesn't like chocolate."
+},
+
+{
+  "Question": "She always dreams of going ........... Paris.",
+  "OptionA": "to",
+  "OptionB": "in",
+  "OptionC": "at",
+  "OptionD": "on",
+  "CorrectOption": "to"
+},
+{
+  "Question": "The cat jumped ........... the table and ran ........... the door.",
+  "OptionA": "above, through",
+  "OptionB": "over, towards",
+  "OptionC": "on, into",
+  "OptionD": "onto, in",
+  "CorrectOption": "onto, in"
+},
+{
+  "Question": "Error Detection: He don't want to come to the party.",
+  "OptionA": "He don't want to come to the party.",
+  "OptionB": "He doesn't want to come to the party.",
+  "OptionC": "He didn't want to come to the party.",
+  "OptionD": "He isn't want to come to the party.",
+  "CorrectOption": "He doesn't want to come to the party."
+},
+{
+  "Question": "Error Detection: We haven't knew about the decision.",
+  "OptionA": "We haven't knew about the decision.",
+  "OptionB": "We hasn't know about the decision.",
+  "OptionC": "We didn't know about the decision.",
+  "OptionD": "We hasn't knew about the decision.",
+  "CorrectOption": "We didn't know about the decision."
+},
+{
+  "Question": "Change into Passive: The company will launch a new product.",
+  "OptionA": "A new product will launch by the company.",
+  "OptionB": "A new product is launched by the company.",
+  "OptionC": "A new product will be launched by the company.",
+  "OptionD": "A new product is launching by the company.",
+  "CorrectOption": "A new product will be launched by the company."
+},
+{
+  "Question": "Change into Passive: Someone had cleaned the room before the guests arrived.",
+  "OptionA": "The room is cleaned by someone before the guests arrived.",
+  "OptionB": "The room had been cleaned before the guests arrived.",
+  "OptionC": "The room was cleaned before the guests arrived.",
+  "OptionD": "The room had cleaned before the guests arrived.",
+  "CorrectOption": "The room had been cleaned before the guests arrived."
+},
+{
+  "Question": "Change into Passive: The teacher is teaching the students.",
+  "OptionA": "The students are teaching by the teacher.",
+  "OptionB": "The students are being taught by the teacher.",
+  "OptionC": "The students is taught by the teacher.",
+  "OptionD": "The students is being taught by the teacher.",
+  "CorrectOption": "The students are being taught by the teacher."
+},
+{
+  "Question": "Change into Passive: The chef has cooked a delicious meal.",
+  "OptionA": "A delicious meal has cooked by the chef.",
+  "OptionB": "A delicious meal was cooked by the chef.",
+  "OptionC": "A delicious meal has been cooked by the chef.",
+  "OptionD": "A delicious meal will be cooked by the chef.",
+  "CorrectOption": "A delicious meal has been cooked by the chef."
+},
+{
+  "Question": "Change into Passive: They are painting the house.",
+  "OptionA": "The house is being painted by them.",
+  "OptionB": "The house is painted by them.",
+  "OptionC": "The house was being painted by them.",
+  "OptionD": "The house was painted by them.",
+  "CorrectOption": "The house is being painted by them."
+},
+{
+  "Question": "Change into Indirect Speech: He said, 'I am going to the market.'",
+  "OptionA": "He said that he was going to the market.",
+  "OptionB": "He said that he is going to the market.",
+  "OptionC": "He says that he was going to the market.",
+  "OptionD": "He says that he is going to the market.",
+  "CorrectOption": "He said that he was going to the market."
+},
+{
+  "Question": "Change into Indirect Speech: 'I have finished my homework,' she said.",
+  "OptionA": "She said that she finished her homework.",
+  "OptionB": "She said that she has finished her homework.",
+  "OptionC": "She says that she had finished her homework.",
+  "OptionD": "She says that she has finished her homework.",
+  "CorrectOption": "She said that she had finished her homework."
+},
+{
+  "Question": "Change into Indirect Speech: 'I will call you tomorrow,' he said.",
+  "OptionA": "He says that he will call me tomorrow.",
+  "OptionB": "He says that he would call me tomorrow.",
+  "OptionC": "He said that he will call me tomorrow.",
+  "OptionD": "He said that he would call me tomorrow.",
+  "CorrectOption": "He said that he would call me tomorrow."
+},
+{
+  "Question": "Change into Indirect Speech: 'I can swim,' he said.",
+  "OptionA": "He says that he could swim.",
+  "OptionB": "He says that he can swim.",
+  "OptionC": "He said that he can swim.",
+  "OptionD": "He said that he could swim.",
+  "CorrectOption": "He said that he could swim."
+},
+{
+  "Question": "Change into Indirect Speech: 'I don't like horror movies,' she said.",
+  "OptionA": "She says that she don't like horror movies.",
+  "OptionB": "She says that she didn't like horror movies.",
+  "OptionC": "She said that she didn't like horror movies.",
+  "OptionD": "She said that she don't like horror movies.",
+  "CorrectOption": "She said that she didn't like horror movies."
+},
+{
+  "Question": "Identify the Part of Speech: The children played happily in the park.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "Identify the Part of Speech: The cat chased the mouse around the house.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "Identify the Part of Speech: She has a beautiful garden.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adjective"
+},
+{
+  "Question": "Identify the Part of Speech: The mountain air is refreshing.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adjective"
+},
+{
+  "Question": "Identify the Part of Speech: The sun is shining brightly.",
+  "OptionA": "Noun",
+  "OptionB": "Adjective",
+  "OptionC": "Verb",
+  "OptionD": "Adverb",
+  "CorrectOption": "Adverb"
+},
+{
+  "Question": "Correct the Sentence: He don't like coffee.",
+  "OptionA": "He don't like coffee.",
+  "OptionB": "He doesn't like coffee.",
+  "OptionC": "He isn't like coffee.",
+  "OptionD": "He not like coffee.",
+  "CorrectOption": "He doesn't like coffee."
+},
+{
+  "Question": "Correct the Sentence: They was playing in the garden.",
+  "OptionA": "They was playing in the garden.",
+  "OptionB": "They were playing in the garden.",
+  "OptionC": "They play in the garden.",
+  "OptionD": "They is playing in the garden.",
+  "CorrectOption": "They were playing in the garden."
+},
+{
+  "Question": "Correct the Sentence: She don't have a car.",
+  "OptionA": "She don't have a car.",
+  "OptionB": "She didn't have a car.",
+  "OptionC": "She isn't have a car.",
+  "OptionD": "She not have a car.",
+  "CorrectOption": "She doesn't have a car."
+},
+{
+  "Question": "Correct the Sentence: We was waiting for the bus.",
+  "OptionA": "We was waiting for the bus.",
+  "OptionB": "We weren't waiting for the bus.",
+  "OptionC": "We were waiting for the bus.",
+  "OptionD": "We is waiting for the bus.",
+  "CorrectOption": "We were waiting for the bus."
+},
+{
+  "Question": "Correct the Sentence: She don't like chocolate.",
+  "OptionA": "She don't like chocolate.",
+  "OptionB": "She doesn't like chocolate.",
+  "OptionC": "She is not like chocolate.",
+  "OptionD": "She not like chocolate.",
+  "CorrectOption": "She doesn't like chocolate."
+},
+{
+  "Question": "He is addicted ............ smoking.",
+  "OptionA": "on",
+  "OptionB": "to",
+  "OptionC": "with",
+  "OptionD": "for",
+  "CorrectOption": "to"
+},
+{
+  "Question": "They are angry ........... their son.",
+  "OptionA": "on",
+  "OptionB": "to",
+  "OptionC": "with",
+  "OptionD": "for",
+  "CorrectOption": "with"
+},
+{
+  "Question": "My brother is fond ............ playing guitar.",
+  "OptionA": "of",
+  "OptionB": "on",
+  "OptionC": "with",
+  "OptionD": "at",
+  "CorrectOption": "of"
+},
+{
+  "Question": "She is busy ........... her assignment.",
+  "OptionA": "on",
+  "OptionB": "in",
+  "OptionC": "with",
+  "OptionD": "at",
+  "CorrectOption": "with"
+},
+{
+  "Question": "Error Detection: The team haven't played well in the last match.",
+  "OptionA": "The team haven't played well in the last match.",
+  "OptionB": "The team didn't play well in the last match.",
+  "OptionC": "The team isn't play well in the last match.",
+  "OptionD": "The team hasn't play well in the last match.",
+  "CorrectOption": "The team didn't play well in the last match."
+},
+{
+  "Question": "Error Detection: We goes to the beach every weekend.",
+  "OptionA": "We goes to the beach every weekend.",
+  "OptionB": "We going to the beach every weekend.",
+  "OptionC": "We go to the beach every weekend.",
+  "OptionD": "We is going to the beach every weekend.",
+  "CorrectOption": "We go to the beach every weekend."
+},
+{
+  "Question": "Error Detection: I have never seen such a beautiful scenery.",
+  "OptionA": "I have never seen such a beautiful scenery.",
+  "OptionB": "I have never seen such beautiful scenery.",
+  "OptionC": "I have never seen such beautiful sceneries.",
+  "OptionD": "I have never saw such beautiful scenery.",
+  "CorrectOption": "I have never seen such beautiful scenery."
+},
+{
+  "Question": "Error Detection: They don't has any idea about the plan.",
+  "OptionA": "They don't has any idea about the plan.",
+  "OptionB": "They isn't have any idea about the plan.",
+  "OptionC": "They don't have any idea about the plan.",
+  "OptionD": "They doesn't have any idea about the plan.",
+  "CorrectOption": "They don't have any idea about the plan."
+},
+{
+  "Question": "Change into Passive: People speak Spanish in many countries.",
+  "OptionA": "Spanish is spoken by people in many countries.",
+  "OptionB": "Spanish was spoken by people in many countries.",
+  "OptionC": "Spanish has spoken by people in many countries.",
+  "OptionD": "Spanish is speaking by people in many countries.",
+  "CorrectOption": "Spanish is spoken by people in many countries."
+},
+{
+  "Question": "Change into Passive: The company will send the product next week.",
+  "OptionA": "The product is sent by the company next week.",
+  "OptionB": "The product will sent by the company next week.",
+  "OptionC": "The product will be sent by the company next week.",
+  "OptionD": "The product has sent by the company next week.",
+  "CorrectOption": "The product will be sent by the company next week."
+},
+{
+  "Question": "Change into Passive: They have built a new bridge over the river.",
+  "OptionA": "A new bridge has been built by them over the river.",
+  "OptionB": "A new bridge was built by them over the river.",
+  "OptionC": "A new bridge will be built by them over the river.",
+  "OptionD": "A new bridge is built by them over the river.",
+  "CorrectOption": "A new bridge has been built by them over the river."
+}
+
+
+
+]

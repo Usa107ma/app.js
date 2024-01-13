@@ -1,59 +1,105 @@
-import React, { useState, useEffect } from 'react';
-import { View, Text, ImageBackground, StyleSheet, Dimensions } from 'react-native';
+import React from 'react';
+import { ImageBackground, View, Text, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import Muet_Home from './Muet_Home';
 
-const BackgroundImage = () => {
-  const [showImage, setShowImage] = useState(true);
-  const [showHello, setShowHello] = useState(false);
+const Stack = createStackNavigator();
 
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowImage(false);
-      setShowHello(true); // Display Hello, World! after image disappears
-    }, 1200);
-
-    return () => {
-      clearTimeout(timer);
-    };
-  }, []);
-
+const App = () => {
   return (
-    <>
-      {showImage && (
-        <ImageBackground
-          source={require('./assets/Images/fyp-logo.png')}
-          style={styles.background}
-        />
-      )}
-
-      {showHello && <HelloWorld />}
-    </>
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="Muet_Home" component={Muet_Home}  options={{ headerShown: false }}/>
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 };
 
-const HelloWorld = () => {
+const HomeScreen = ({ navigation }) => {
+  const screenWidth = Dimensions.get('window').width;
+  const screenHeight = Dimensions.get('window').height;
+
   return (
-    <View style={styles.container}>
-      <Text>Hello, World!</Text>
-    </View>
+    <ImageBackground
+      source={require('./Background3.jpg')}
+      style={styles.container}
+    >
+      <View style={styles.blockContainer}>
+        <View style={styles.row}>
+          <TouchableOpacity
+            style={[styles.block, styles.muetBlock, { width: screenWidth * 0.4, height: screenHeight * 0.2 }]}
+            onPress={() => navigation.navigate('Muet_Home')}
+          >
+            <Text style={styles.blockText}>MUET</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.block, styles.nedBlock, { width: screenWidth * 0.4, height: screenHeight * 0.2 }]}
+            onPress={() => navigation.navigate('')}
+          >
+            <Text style={styles.blockText}>NED</Text>
+          </TouchableOpacity>
+        </View>
+        <View style={styles.row}>
+          <TouchableOpacity
+            style={[styles.block, styles.fastBlock, { width: screenWidth * 0.4, height: screenHeight * 0.2 }]}
+            onPress={() => navigation.navigate('')}
+          >
+            <Text style={styles.blockText}>FAST</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={[styles.block, styles.ibaBlock, { width: screenWidth * 0.4, height: screenHeight * 0.2 }]}
+            onPress={() => navigation.navigate('')}
+          >
+            <Text style={styles.blockText}>IBA</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </ImageBackground>
   );
 };
-
-const windowWidth = Dimensions.get('window').width;
-const windowHeight = Dimensions.get('window').height;
-
-const imageWidth = Dimensions.get('screen').width; // Using screen dimensions
-const imageHeight = Dimensions.get('screen').height; // Using screen dimensions
 
 const styles = StyleSheet.create({
-  background: {
-    width: imageWidth,
-    height: imageHeight,
-    resizeMode: 'cover',
-  },
   container: {
     flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  blockContainer: {
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+  },
+  row: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  block: {
+    padding: 30,
+    borderRadius: 20,
+    margin: 15,
     justifyContent: 'center',
     alignItems: 'center',
   },
+  blockText: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#FFFFFF',
+    textAlign: 'center',
+  },
+  muetBlock: {
+    backgroundColor: '#3498db',
+  },
+  nedBlock: {
+    backgroundColor: '#e74c3c',
+  },
+  fastBlock: {
+    backgroundColor: '#2ecc71',
+  },
+  ibaBlock: {
+    backgroundColor: '#f39c12',
+  },
 });
-export default BackgroundImage;
+
+export default App;

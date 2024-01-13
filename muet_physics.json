@@ -1,0 +1,2622 @@
+[
+  {
+    "Question": "One kilo can be written as;",
+    "OptionA": "10^-3",
+    "OptionB": "10^3",
+    "OptionC": "10^6",
+    "OptionD": "10^-6",
+    "CorrectOption": "10^3"
+  },
+  
+  {
+    "Question": "If linear momentum is variable, then its...... momentum is also variable",
+    "OptionA": "Constant",
+    "OptionB": "Angular",
+    "OptionC": "Uniform",
+    "OptionD": "N.O.T",
+    "CorrectOption": "Angular"
+  },
+  
+  {
+    "Question": "The rate of change of angular Displacement is called",
+    "OptionA": "Angular Acceleration",
+    "OptionB": "Angular Speed",
+    "OptionC": "Angular Velocity",
+    "OptionD": "Angular Distance",
+    "CorrectOption": "Angular Acceleration"
+  },
+  
+  {
+    "Question": "The nuclear model of atom was derived partly from experiments involving the scattering of alpha particles performed by",
+    "OptionA": "Newton",
+    "OptionB": "Chadwick",
+    "OptionC": "Rutherford",
+    "OptionD": "Einstein",
+    "CorrectOption": "Rutherford"
+  },
+  
+  {
+    "Question": "The central part of atom nucleus was discovered by ... in 1911",
+    "OptionA": "Rutherford",
+    "OptionB": "Dalton",
+    "OptionC": "Chadwick",
+    "OptionD": "Maxwell",
+    "CorrectOption": "Rutherford"
+  },
+  
+  {
+    "Question": "A moving coil d'arsenal galvanometer is based on .... effect of current",
+    "OptionA": "Heating",
+    "OptionB": "Magnetic",
+    "OptionC": "Chemical",
+    "OptionD": "Pettier",
+    "CorrectOption": "Magnetic"
+  },
+  
+  {
+    "Question": "The sources of magnetic field are",
+    "OptionA": "Isolated magnetic poles",
+    "OptionB": "Charges at rest",
+    "OptionC": "Charges in motion",
+    "OptionD": "N.O.T",
+    "CorrectOption": "Charges in motion"
+  },
+  
+  {
+    "Question": "Value of Eo in Coulomb's law",
+    "OptionA": "4.16 × 10^-11 Nm^2",
+    "OptionB": "8.83 × 10^-12 C2/Nm2",
+    "OptionC": "Both",
+    "OptionD": "N.O.T",
+    "CorrectOption": "Both"
+  },
+  
+  {
+    "Question": "Given the basic unit of Joule as Kgm^2 s^-2, what will be the basic unit of heat capacity?",
+    "OptionA": "m/sk",
+    "OptionB": "m/s^2k",
+    "OptionC": "m^2/kgm",
+    "OptionD": "m^2k/s",
+    "CorrectOption": "m^2k/s"
+  },
+  
+  {
+    "Question": "The process in which the pressure of the system remains constant",
+    "OptionA": "Isobaric",
+    "OptionB": "Isomeric",
+    "OptionC": "Isothermal",
+    "OptionD": "Adiabatic",
+    "CorrectOption": "Isothermal"
+  },
+  
+  {
+    "Question": "The degree of hotness or coldness of an object is expressed in terms of",
+    "OptionA": "Heat",
+    "OptionB": "Heat capacity",
+    "OptionC": "Temperature",
+    "OptionD": "Heat Energy",
+    "CorrectOption": "Temperature"
+  },
+  
+  {
+    "Question": "Mirage is based on the phenomena of",
+    "OptionA": "Reflection",
+    "OptionB": "Refraction",
+    "OptionC": "Diffraction",
+    "OptionD": "Total internal reflection",
+    "CorrectOption": "Total internal reflection"
+  },
+  
+  {
+    "Question": "The K.E of mass attached to a spring is given by",
+    "OptionA": "K.E= 1/2 k √xo^2-x^2",
+    "OptionB": "K.E = 1/2 k xo^2-x^2",
+    "OptionC": "Both",
+    "OptionD": "N.O.T",
+    "CorrectOption": "Both"
+  },
+  
+  {
+    "Question": "When a lift is moving upward with uniform velocity, the apparent weight of the body inside the lift will be",
+    "OptionA": "Equal to its actual weight",
+    "OptionB": "Less than actual weight",
+    "OptionC": "More than its actual weight",
+    "OptionD": "Zero",
+    "CorrectOption": "Equal to its actual weight"
+  },
+  
+  {
+    "Question": "At what depth below the earth surface, the value of g reduces to one-half of its value on the Earth's surface",
+    "OptionA": "Re/4",
+    "OptionB": "Re/2",
+    "OptionC": "2Re",
+    "OptionD": "Re",
+    "CorrectOption": "Re/2"
+  },
+  
+  {
+    "Question": "Spin angular momentum is the property of",
+    "OptionA": "Planets",
+    "OptionB": "Stars",
+    "OptionC": "Wheels",
+    "OptionD": "Atomic and sub-atomic particles",
+    "CorrectOption": "Atomic and sub-atomic particles"
+  },
+  
+  {
+    "Question": "In projectile motion, the value of acceleration along the x-axis is",
+    "OptionA": "0",
+    "OptionB": "4",
+    "OptionC": "10",
+    "OptionD": "40",
+    "CorrectOption": "0"
+  },
+  
+  {
+    "Question": "When a ball of mass m1 moving with velocity v1 collides with another ball with mass m2 and velocity V2=0, the velocity V2' of m2 after collision will be",
+    "OptionA": "No option",
+    "OptionB": "",
+    "OptionC": "",
+    "OptionD": "",
+    "CorrectOption": ""
+  },
+  
+  {
+    "Question": "If Bx and By are the magnitudes of i and j are the unit vectors along x and y-axis respectively, then we can write",
+    "OptionA": "B= Bxi +Byj",
+    "OptionB": "B= Byi+Bxj",
+    "OptionC": "Both",
+    "OptionD": "N.O.T",
+    "CorrectOption": "Both"
+  },
+  
+  {
+    "Question": "The vector obtained by adding two or more vectors is called",
+    "OptionA": "Product vector",
+    "OptionB": "Sum vector",
+    "OptionC": "Resultant vector",
+    "OptionD": "Negative vector",
+    "CorrectOption": "Resultant vector"
+  },
+  {
+    "Question": "4) If x component of resultant is -ve and it's y component is +ve, the result is true for",
+    "OptionA": "A) An angle of ( 180 - Theta ) with x-axis",
+    "OptionB": "B) An angle of ( 180 - Theta ) with y-axis",
+    "OptionC": "C) An angle of 90",
+    "OptionD": "D) An angle of 180",
+    "CorrectOption": "B) An angle of ( 180 - Theta ) with y-axis"
+  },
+  
+  {
+    "Question": "3) Which one of the following is not a fundamental unit in S.I units?",
+    "OptionA": "A) Kilogram",
+    "OptionB": "B) Ampere",
+    "OptionC": "C) m^3",
+    "OptionD": "D) Kelvin",
+    "CorrectOption": "C) m^3"
+  },
+  
+  {
+    "Question": "2) Who added precious knowledge of Astronomy to science?",
+    "OptionA": "A) Euclid",
+    "OptionB": "B) Ptolemy",
+    "OptionC": "C) Thales",
+    "OptionD": "D) Archimedes",
+    "CorrectOption": "B) Ptolemy"
+  },
+  
+  {
+    "Question": "1) Light Year is the unit of",
+    "OptionA": "A) Time",
+    "OptionB": "B) Distance",
+    "OptionC": "C) Velocity",
+    "OptionD": "D) Displacement",
+    "CorrectOption": "B) Distance"
+  },
+  
+  {
+    "Question": "25) The internal energy of a fixed mass of an ideal gas depends on",
+    "OptionA": "a) Pressure",
+    "OptionB": "b) Temperature",
+    "OptionC": "c) Volume",
+    "OptionD": "d) None of these",
+    "CorrectOption": "d) None of these"
+  },
+  
+  {
+    "Question": "24) The charge which is used to produce an electric field is called",
+    "OptionA": "a) Electric field",
+    "OptionB": "b) Field Charge",
+    "OptionC": "c) Electric intensity",
+    "OptionD": "d) Test Charge",
+    "CorrectOption": "d) Test Charge"
+  },
+  
+  {
+    "Question": "23) The average velocity gained by the electron in a conductor placed in an electric field is called",
+    "OptionA": "a) Variable Velocity",
+    "OptionB": "b) Phase Velocity",
+    "OptionC": "c) Drift Velocity",
+    "OptionD": "d) Instantaneous velocity",
+    "CorrectOption": "c) Drift Velocity"
+  },
+  
+  {
+    "Question": "22) A transformer is used to",
+    "OptionA": "a) Transform alternating current voltage alternating",
+    "OptionB": "b) Convert Direct Current into Alternating Current",
+    "OptionC": "c) Convert Alternating Current into Direct Current",
+    "OptionD": "d) Convert Mechanical energy",
+    "CorrectOption": "a) Transform alternating current voltage alternating"
+  },
+  
+  {
+    "Question": "21) A Wheatstone bridge is most sensitive when",
+    "OptionA": "a) The ratio arm is equal to one",
+    "OptionB": "b) The ratio arm is equal to ten",
+    "OptionC": "c) Any value",
+    "OptionD": "d) Both a and b are true",
+    "CorrectOption": "a) The ratio arm is equal to one"
+  },
+  
+  {
+    "Question": "20) The electromagnetic waves travel in free space with a speed of",
+    "OptionA": "a) Light",
+    "OptionB": "b) Sound",
+    "OptionC": "c) Jet",
+    "OptionD": "d) None of these",
+    "CorrectOption": "a) Light"
+  },
+  
+  {
+    "Question": "19) The distance between the two consecutive nodes or anti-nodes is the same or equal to",
+    "OptionA": "a) Half of the wavelength",
+    "OptionB": "b) Double of the wavelength",
+    "OptionC": "c) Full the wavelength",
+    "OptionD": "d) Three times the wavelength",
+    "CorrectOption": "a) Half of the wavelength"
+  },
+  
+  {
+    "Question": "18) The body is said to be in equilibrium if all the forces and torques will become equal to",
+    "OptionA": "a) One",
+    "OptionB": "b) Zero",
+    "OptionC": "c) Four",
+    "OptionD": "d) Six",
+    "CorrectOption": "b) Zero"
+  },
+  
+  {
+    "Question": "17) The field is said to be conservative if the work done along a closed path is",
+    "OptionA": "a) Zero",
+    "OptionB": "b) Negative",
+    "OptionC": "c) Positive",
+    "OptionD": "d) Infinity",
+    "CorrectOption": "a) Zero"
+  },
+  
+  {
+    "Question": "16) A satellite remains in an orbit around the earth due to the centripetal force provided by",
+    "OptionA": "a) Gravitational Pull of the sun on the satellite.",
+    "OptionB": "b) Gravitational Pull of earth on the satellite",
+    "OptionC": "c) The rocket engine attached to the satellite",
+    "OptionD": "d) None of the above",
+    "CorrectOption": "b) Gravitational Pull of earth on the satellite"
+  },
+  
+  {
+    "Question": "15) When a body is thrown upward making an angle of '𝜃' with the horizontal and moves freely under the action of gravity, it is called a ______",
+    "OptionA": "a) Horizontal",
+    "OptionB": "b) Vertical",
+    "OptionC": "c) Projectile",
+    "OptionD": "d) None of these",
+    "CorrectOption": "c) Projectile"
+  },
+  
+  {
+    "Question": "14) In an elastic collision",
+    "OptionA": "A) Momentum is conserved",
+    "OptionB": "B) Energy is conserved",
+    "OptionC": "C) Both",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "C) Both"
+  },
+
+  {
+    "Question": "13) The unit vector of A with magnitude 2",
+    "OptionA": "A) 2A",
+    "OptionB": "B) A^2",
+    "OptionC": "C) A/2",
+    "OptionD": "D) A/4",
+    "CorrectOption": "A) 2A"
+  },
+  
+  {
+    "Question": "12) X-Component of vector A",
+    "OptionA": "A) A Sin theta i",
+    "OptionB": "B) A Sin theta j",
+    "OptionC": "C) A Cos theta i",
+    "OptionD": "D) A Cos theta j",
+    "CorrectOption": "C) A Cos theta i"
+  },
+  
+  {
+    "Question": "11) One kilo can be written as;",
+    "OptionA": "A) 10^-3",
+    "OptionB": "B) 10^3",
+    "OptionC": "C) 10^6",
+    "OptionD": "D) 10^-6",
+    "CorrectOption": "B) 10^3"
+  },
+  
+  {
+    "Question": "10) Resistance of conductor is directly proportional to",
+    "OptionA": "A) Length",
+    "OptionB": "B) Cross Section Area",
+    "OptionC": "C) Force",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "B) Cross Section Area"
+  },
+  
+  {
+    "Question": "9) The working principle of photo cell",
+    "OptionA": "A) Photo electric effect",
+    "OptionB": "B) Pair production",
+    "OptionC": "C) Compton effect",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "A) Photo electric effect"
+  },
+  
+  {
+    "Question": "8) Which force is responsible for causing Free Fall Motion?",
+    "OptionA": "A) Gravitational",
+    "OptionB": "B) Electrostatic",
+    "OptionC": "C) Wear",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "A) Gravitational"
+  },
+  
+  {
+    "Question": "7) The centripetal force through which the moon orbits the earth is equal to",
+    "OptionA": "A) Gravitational force of earth on moon",
+    "OptionB": "B) Gravitational force of moon on earth",
+    "OptionC": "C) Gravitational force of sun on moon",
+    "OptionD": "D) Gravitational force of moon on sun",
+    "CorrectOption": "B) Gravitational force of moon on earth"
+  },
+  
+  {
+    "Question": "6) According To Newton's 2nd Law of motion",
+    "OptionA": "A) a=F/m",
+    "OptionB": "B) F=ma",
+    "OptionC": "C) m=F/a",
+    "OptionD": "D) A.O.T",
+    "CorrectOption": "B) F=ma"
+  },
+  
+  {
+    "Question": "5) Formula for calculating the wavelength of light in Michelson interferometer is;",
+    "OptionA": "A) X=m lambda",
+    "OptionB": "B) X= 1/2 m lambda",
+    "OptionC": "C) X= 2m lambda",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "A) X=m lambda"
+  },
+  
+  {
+    "Question": "4) If i j & k are unit vectors along x y & z axis respectively, then i.j=j.k=k.i= ?",
+    "OptionA": "A) 0",
+    "OptionB": "B) -1",
+    "OptionC": "C) 1",
+    "OptionD": "D) 1/3",
+    "CorrectOption": "A) 0"
+  },
+  
+  {
+    "Question": "3) Intensity Of Sound is measured in",
+    "OptionA": "A) Watt/m",
+    "OptionB": "B) Watt/m^2",
+    "OptionC": "C) Watt.m^2",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "C) Watt.m^2"
+  },
+  
+  {
+    "Question": "2) M.K.S unit of pressure ;",
+    "OptionA": "A) Atm",
+    "OptionB": "B) Pascal",
+    "OptionC": "C) Torr",
+    "OptionD": "D) A.O.T",
+    "CorrectOption": "B) Pascal"
+  },
+  
+  {
+    "Question": "1) S.I unit of energy is;",
+    "OptionA": "A) KWh",
+    "OptionB": "B) Joule",
+    "OptionC": "C) Erg",
+    "OptionD": "D) A.O.T",
+    "CorrectOption": "B) Joule"
+  },
+  
+  {
+    "Question": "MKS unit of pressure is",
+    "OptionA": "A) N/m2",
+    "OptionB": "B) N/mm2",
+    "OptionC": "C) Pascal",
+    "OptionD": "D) Atm",
+    "CorrectOption": "C) Pascal"
+  },
+  
+  {
+    "Question": "2nd law of Newton",
+    "OptionA": "A) a=F/m",
+    "OptionB": "B) F=ma",
+    "OptionC": "C) m=F/a",
+    "OptionD": "D) N۔O.T",
+    "CorrectOption": "B) F=ma"
+  },
+
+  {
+    "Question": "15) The Dimension of force is.......?",
+    "OptionA": "A) MLT-2",
+    "OptionB": "B) ML2T-2",
+    "OptionC": "C) ML2T2",
+    "OptionD": "D) ML-2T-2",
+    "CorrectOption": "A) MLT-2"
+  },
+  
+  {
+    "Question": "14) 3d law of motion explains.....?",
+    "OptionA": "A) Effect of force",
+    "OptionB": "B) Existence of a force",
+    "OptionC": "C) Existence of a two forces",
+    "OptionD": "D) Existence of pair of forces in nature",
+    "CorrectOption": "D) Existence of pair of forces in nature"
+  },
+  
+  {
+    "Question": "13) The branch of physics which deals with highly energetic ions is called?",
+    "OptionA": "A) Elementary articles",
+    "OptionB": "B) Article physics",
+    "OptionC": "C) Ionic physics",
+    "OptionD": "D) Plasma physics",
+    "CorrectOption": "C) Ionic physics"
+  },
+  
+  {
+    "Question": "12) Linear expansion occurs in.......?",
+    "OptionA": "A) Solid",
+    "OptionB": "B) Liquid",
+    "OptionC": "C) Both",
+    "OptionD": "D) None",
+    "CorrectOption": "C) Both"
+  },
+  
+  {
+    "Question": "11) A body is moving with uniform velocity. its.........?",
+    "OptionA": "A) Speed changes",
+    "OptionB": "B) Acceleration changes",
+    "OptionC": "C) Direction of motion changes",
+    "OptionD": "D) Displacement on",
+    "CorrectOption": "C) Direction of motion changes"
+  },
+  
+  {
+    "Question": "10) The first book of physics was written by ?",
+    "OptionA": "A) Kelvin",
+    "OptionB": "B) Newton",
+    "OptionC": "C) Aristotle",
+    "OptionD": "D) Faraday",
+    "CorrectOption": "C) Aristotle"
+  },
+  
+  {
+    "Question": "9) Doppler effect applies to...........?",
+    "OptionA": "A) Sound wave only",
+    "OptionB": "B) Light wave only",
+    "OptionC": "C) Both light and sound waves",
+    "OptionD": "D) N.O.T",
+    "CorrectOption": "C) Both light and sound waves"
+  },
+  
+  {
+    "Question": "8) What is the SI Unit of area? 2",
+    "OptionA": "A) mm",
+    "OptionB": "B) Cm",
+    "OptionC": "C) m",
+    "OptionD": "D) Km",
+    "CorrectOption": "C) m"
+  },
+  
+  {
+    "Question": "7) What is the SI unit of force?",
+    "OptionA": "A) Joule",
+    "OptionB": "B) Newton",
+    "OptionC": "C) Watt",
+    "OptionD": "D) Volt",
+    "CorrectOption": "B) Newton"
+  },
+  
+  {
+    "Question": "3) Unit of intensity of sound?",
+    "OptionA": "A) Watt/m2",
+    "OptionB": "B) Watt/m-2",
+    "OptionC": "C) Decibel",
+    "OptionD": "D) None of these",
+    "CorrectOption": "C) Decibel"
+  },
+  
+  {
+    "Question": "4) If i,j and k are unit vectors along x-axis and y-axis and z-axis then i,j=j,k=i,k=",
+    "OptionA": "A) 0",
+    "OptionB": "B) 1/2",
+    "OptionC": "C) 1/1",
+    "OptionD": "D) None of these",
+    "CorrectOption": "A) 0"
+  },
+  
+  {
+    "Question": "1) What Is the unit of energy?",
+    "OptionA": "A) Joule",
+    "OptionB": "B) Watt",
+    "OptionC": "C) Newton",
+    "OptionD": "D) Joule.Second",
+    "CorrectOption": "A) Joule"
+  },
+  
+  {
+    "Question": "A body is falling freely under gravity. How much distance it falls during an interval of time between 1st and 2nd seconds of its motion, taking g=10 ?",
+    "OptionA": "A. 14 m",
+    "OptionB": "B. 20 m",
+    "OptionC": "C. 5 m",
+    "OptionD": "D. 25 m",
+    "CorrectOption": "A. 14 m"
+  },
+  
+  {
+    "Question": "When a body moves in a straight line then its displacement coincides with",
+    "OptionA": "A. distance",
+    "OptionB": "B. force",
+    "OptionC": "C. acceleration is zero",
+    "OptionD": "D. both A and B",
+    "CorrectOption": "A. distance"
+  },
+  
+  {
+    "Question": "Momentum depends upon",
+    "OptionA": "A. force acts on the body",
+    "OptionB": "B. mass of the body",
+    "OptionC": "C. velocity of the body",
+    "OptionD": "D. both mass and velocity of the body",
+    "CorrectOption": "D. both mass and velocity of the body"
+  },
+  
+  {
+    "Question": "A body is moving with uniform velocity. Its",
+    "OptionA": "A. speed changes",
+    "OptionB": "B. acceleration changes.",
+    "OptionC": "C. direction of motion changes",
+    "OptionD": "D. displacement from origin changes",
+    "CorrectOption": "A. speed changes"
+  },
+  
+  {
+    "Question": "What is the force of attraction between any two bodies by virtue of their masses is called?",
+    "OptionA": "A. Electromagnetic Force",
+    "OptionB": "B. Gravitational Force",
+    "OptionC": "C. Centripetal Force",
+    "OptionD": "D. Nuclear Force",
+    "CorrectOption": "B. Gravitational Force"
+  },
+  
+  {
+    "Question": "By how many times are the Electrostatic forces stronger than the Gravitational Forces for a fixed distance?",
+    "OptionA": "A. 102",
+    "OptionB": "B. 1036",
+    "OptionC": "C. 1012",
+    "OptionD": "D. None of these",
+    "CorrectOption": "C. 1012"
+  },
+  
+  {
+    "Question": "Tick the correct statement?",
+    "OptionA": "A. Moderators slow down the neutrons",
+    "OptionB": "B. Moderators bring the neutrons to rest",
+    "OptionC": "C. Moderators absorb the neutrons",
+    "OptionD": "D. Moderators reflect the neutrons",
+    "CorrectOption": "C. Moderators absorb the neutrons"
+  },
+  
+  {
+    "Question": "Atom is the smallest particle which is",
+    "OptionA": "A. Indivisible",
+    "OptionB": "B. Divisible",
+    "OptionC": "C. Both",
+    "OptionD": "D. Non of these",
+    "CorrectOption": "B. Divisible"
+  },
+  
+  {
+    "Question": "The Capacity of doing work is called___________?",
+    "OptionA": "A. Work",
+    "OptionB": "B. Energy",
+    "OptionC": "C. Power",
+    "OptionD": "D. Momentum",
+    "CorrectOption": "B. Energy"
+  },
+  
+  {
+    "Question": "With the increase of pressure, the boiling point of any substance:",
+    "OptionA": "A. Decreases",
+    "OptionB": "B. Increases",
+    "OptionC": "C. Remains same",
+    "OptionD": "D. Becomes Zero",
+    "CorrectOption": "B. Increases"
+  },
+  
+  {
+    "Question": "Which one of the following has the highest value of specific heat?",
+    "OptionA": "A. Water",
+    "OptionB": "B. Alcohol",
+    "OptionC": "C. Methane",
+    "OptionD": "D. Kerosene",
+    "CorrectOption": "A. Water"
+  },
+  
+  {
+    "Question": "If electrical conductivity increases with the increase of temperature of a substance, then it is a:",
+    "OptionA": "A. Semiconductor",
+    "OptionB": "B. Conductor",
+    "OptionC": "C. Insulator",
+    "OptionD": "D. None of the above",
+    "CorrectOption": "A. Semiconductor"
+  },
+  
+  {
+    "Question": "The branch of Physics which deals with properties of gravitational?",
+    "OptionA": "A. Field theory",
+    "OptionB": "B. Acoustics",
+    "OptionC": "C. Hydro dynamic",
+    "OptionD": "D. Optics",
+    "CorrectOption": "A. Field theory"
+  },
+  
+  {
+    "Question": "The Branch of Physics deals with highly energetic ions is called",
+    "OptionA": "A. Elementary articles",
+    "OptionB": "B. Article physics",
+    "OptionC": "C. Ionic physics",
+    "OptionD": "D. Plasma physics",
+    "CorrectOption": "C. Ionic physics"
+  },
+  
+  {
+    "Question": "The SI unit of Heat is",
+    "OptionA": "A. Watt",
+    "OptionB": "B. Volt",
+    "OptionC": "C. Joule",
+    "OptionD": "D. Newton",
+    "CorrectOption": "C. Joule"
+  },
+  
+  {
+    "Question": "The first book of Physics written by_______",
+    "OptionA": "A. Kelvin",
+    "OptionB": "B. Newton",
+    "OptionC": "C. Aristotle",
+    "OptionD": "D. Faraday",
+    "CorrectOption": "D. Faraday"
+  },
+  
+  {
+    "Question": "Study of living science relates with",
+    "OptionA": "A. Physical science",
+    "OptionB": "B. Biological science",
+    "OptionC": "C. Just living science",
+    "OptionD": "D. Organ science",
+    "CorrectOption": "B. Biological science"
+  },
+  
+  {
+    "Question": "The physics of moving charge particles is known as",
+    "OptionA": "A. Plasma physics",
+    "OptionB": "B. Electro-static's",
+    "OptionC": "C. Electro-magnetic",
+    "OptionD": "D. Electro-dynamics",
+    "CorrectOption": "C. Electro-magnetic"
+  },
+  
+  {
+    "Question": "The co efficient of linear expansion is equal to",
+    "OptionA": "A. AL = αLAT",
+    "OptionB": "B. AL/LAT",
+    "OptionC": "C. LAT/AL",
+    "OptionD": "D. αLAT-AL",
+    "CorrectOption": "A. AL = αLAT"
+  },
+  
+  {
+    "Question": "The formula of inter-conversion of centigrade and Fahrenheit scale is",
+    "OptionA": "A. c-32/9",
+    "OptionB": "B. f-32/9=c/5",
+    "OptionC": "C. f-32/9=c/9",
+    "OptionD": "D. none",
+    "CorrectOption": "B. f-32/9=c/5"
+  },
+  
+  {
+    "Question": "Which one of the following is massless?",
+    "OptionA": "A. Proton",
+    "OptionB": "B. Electron",
+    "OptionC": "C. Neutron",
+    "OptionD": "D. Photon",
+    "CorrectOption": "D. Photon"
+  },
+  
+  {
+    "Question": "Area under velocity time graph represent",
+    "OptionA": "A. force",
+    "OptionB": "B. displacement",
+    "OptionC": "C. distance",
+    "OptionD": "D. acceleration",
+    "CorrectOption": "C. distance"
+  },
+  
+  {
+    "Question": "The collision between two bodies be elastic if bodies are",
+    "OptionA": "A. solid and soft",
+    "OptionB": "B. soft and elastic",
+    "OptionC": "C. solid and hard",
+    "OptionD": "D. hard and elastic",
+    "CorrectOption": "D. hard and elastic"
+  },
+  
+  {
+    "Question": "Which of the following pair has the same direction always?",
+    "OptionA": "A. force, displacement",
+    "OptionB": "B. force, velocity",
+    "OptionC": "C. force, acceleration",
+    "OptionD": "D. force, momentum",
+    "CorrectOption": "C. force, acceleration"
+  },
+  
+  {
+    "Question": "The dimension of force is_________",
+    "OptionA": "A. MLT-2",
+    "OptionB": "B. ML2T-2",
+    "OptionC": "C. ML2T2",
+    "OptionD": "D. ML-2T-2",
+    "CorrectOption": "A. MLT-2"
+  },
+  
+  {
+    "Question": "Taking off rocket can be explained by",
+    "OptionA": "A. 1st law of motion",
+    "OptionB": "B. 2nd law of motion",
+    "OptionC": "C. Law of conservation of momentum",
+    "OptionD": "D. law of conservation of energy",
+    "CorrectOption": "B. 2nd law of motion"
+  },
+  
+  {
+    "Question": "Which shows the correct relation between time of flight T and maximum height H?",
+    "OptionA": "A. H=gT2/8",
+    "OptionB": "B. H=8T2/g",
+    "OptionC": "C. H=8g/T2",
+    "OptionD": "D. H=gT2",
+    "CorrectOption": "B. H=8T2/g"
+  },
+  {
+    "Question": "Mass attached to a spring when performing vibratory motion is known",
+    "OptionA": "(A) Simple harmonic",
+    "OptionB": "(B) Linear motion",
+    "OptionC": "(C) Rotatory motion",
+    "OptionD": "(D) Spin motion",
+    "CorrectOption": "(A) Simple harmonic"
+  },
+  {
+    "Question": "A particle performs simple harmonic motion, its kinetic energy is maximum at the............ and potential energy is maximum at the........",
+    "OptionA": "(A) Mean position, mean position",
+    "OptionB": "(B) Mean position, extreme position",
+    "OptionC": "(C) Extreme position, mean position",
+    "OptionD": "(D) Extreme position, extreme position",
+    "CorrectOption": "(D) Extreme position, extreme position"
+  },
+  {
+    "Question": "A particle performs simple harmonic motion, its acceleration is maximum at the .... position",
+    "OptionA": "(A) Mean",
+    "OptionB": "(B) Extreme",
+    "OptionC": "(C) Before mean",
+    "OptionD": "(D) Before extreme",
+    "CorrectOption": "(B) Extreme"
+  },
+  {
+    "Question": "The S.I unit of force constant is N/m which is identical with the ....",
+    "OptionA": "(A) Surface area tension",
+    "OptionB": "(B) Surface",
+    "OptionC": "(C) Pressure",
+    "OptionD": "(D) None",
+    "CorrectOption": "(A) Surface area tension"
+  },
+  {
+    "Question": "Simple harmonic motion is also known as....",
+    "OptionA": "(A) Vibratory motion",
+    "OptionB": "(B) Linear motion",
+    "OptionC": "(C) Spin motion",
+    "OptionD": "(D) Vibratory motion",
+    "CorrectOption": "(A) Vibratory motion"
+  },
+  {
+    "Question": "Within an elastic limit, the applied force is directly proportional to the displacement is known as...",
+    "OptionA": "(A) Hook's Law",
+    "OptionB": "(B) Weber's Law",
+    "OptionC": "(C) Doppler's Law",
+    "OptionD": "(D) Fechner's Law",
+    "CorrectOption": "(A) Hook's Law"
+  },
+  {
+    "Question": "The S.I unit of force constant is",
+    "OptionA": "(A) N/m",
+    "OptionB": "(B) N.m",
+    "OptionC": "(C) N/m^2",
+    "OptionD": "(D) No unit",
+    "CorrectOption": "(A) N/m"
+  },
+  {
+    "Question": "A mass of 0.2 kg is attached to a spring placed on a horizontal frictionless surface. If it is displaced 40 cm by applying a force of 10 N, the value of force constant is",
+    "OptionA": "(A) 25 N/m",
+    "OptionB": "(B) 50 N/m",
+    "OptionC": "(C) 250 N/m",
+    "OptionD": "(D) 500 N/m",
+    "CorrectOption": "(A) 25 N/m"
+  },
+  {
+    "Question": "The maximum displacement from its mean position to any extreme position is known as",
+    "OptionA": "(A) Amplitude",
+    "OptionB": "(B) Wavelength",
+    "OptionC": "(C) Speed",
+    "OptionD": "(D) Length",
+    "CorrectOption": "(A) Amplitude"
+  },
+  {
+    "Question": "If a spring is cut into three equal parts, the spring constant of each part will be (MDCAT 2022)",
+    "OptionA": "(A) 3K",
+    "OptionB": "(B) K/3",
+    "OptionC": "(C) K",
+    "OptionD": "(D) 3K/2",
+    "CorrectOption": "(B) K/3"
+  },
+  {
+    "Question": "In which term is the volume constant?",
+    "OptionA": "a. Isobaric",
+    "OptionB": "b. Isochoric",
+    "OptionC": "c. Isothermal",
+    "OptionD": "d. None of these",
+    "CorrectOption": "c. Isothermal"
+  },
+
+  {
+    "Question": "In which term the volume is constant",
+    "OptionA": "a. Isobaric",
+    "OptionB": "b. Isochoric",
+    "OptionC": "c. Isothermal (Correct)",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "c. Isothermal"
+  },
+  {
+    "Question": "Dimension of velocity",
+    "OptionA": "LT^-1",
+    "OptionB": "LT^-2",
+    "OptionC": "MLT^-2",
+    "OptionD": "d) None of the above",
+    "CorrectOption": "A.LT^-1 "
+  },
+  {
+    "Question": "Work is maximum when",
+    "OptionA": "a. Force is maximum and displacement is minimum",
+    "OptionB": "b. Force is minimum and displacement is minimum",
+    "OptionC": "c. Force is maximum and displacement is maximum (Correct)",
+    "OptionD": "d. Force is minimum and displacement is maximum",
+    "CorrectOption": "c. Force is maximum and displacement is maximum"
+  },
+  {
+    "Question": "Definition of Torque",
+    "OptionA": "a. Force",
+    "OptionB": "b. Work",
+    "OptionC": "c. Angular momentum",
+    "OptionD": "d. Rotational force (Correct)",
+    "CorrectOption": "d. Rotational force"
+  },
+  {
+    "Question": "1ST law of motion / Inertia",
+    "OptionA": "a. An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted on by an unbalanced external force (Correct)",
+    "OptionB": "b. Force is equal to mass times acceleration",
+    "OptionC": "c. For every action, there is an equal and opposite reaction",
+    "OptionD": "d. None of the above",
+    "CorrectOption": "a. An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted on by an unbalanced external force"
+  },
+  
+  {
+    "Question": "Unit of Partial Pressure =",
+    "OptionA": "a. Pascal",
+    "OptionB": "b. Newton",
+    "OptionC": "c. Joule",
+    "OptionD": "d. Watt",
+    "CorrectOption": "a. Pascal"
+  },
+  {
+    "Question": "Displacement is quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "Electric Field Intensity is quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "Unit of magnetic flux",
+    "OptionA": "a. Weber (Correct)",
+    "OptionB": "b. Tesla",
+    "OptionC": "c. Henry",
+    "OptionD": "d. Pascal",
+    "CorrectOption": "a. Weber"
+  },
+  {
+    "Question": "Formula of power",
+    "OptionA": "a. P = VI",
+    "OptionB": "b. P = V^2/R",
+    "OptionC": "c. P = I^2R",
+    "OptionD": "d. All of the above (Correct)",
+    "CorrectOption": "d. All of the above"
+  },
+  {
+    "Question": "Refraction Index of air",
+    "OptionA": "a. 1.0",
+    "OptionB": "b. 1.3",
+    "OptionC": "c. 1.5",
+    "OptionD": "d. 2.0",
+    "CorrectOption": "a. 1.0"
+  },
+  {
+    "Question": "The power in which temperature remains constant",
+    "OptionA": "a. Isothermal (Correct)",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "a. Isothermal"
+  },
+  {
+    "Question": "Newton's Second Law of motion is also known as",
+    "OptionA": "a. Law of Inertia",
+    "OptionB": "b. Law of Action and Reaction (Correct)",
+    "OptionC": "c. Law of Gravitation",
+    "OptionD": "d. Law of Reflection",
+    "CorrectOption": "b. Law of Action and Reaction"
+  },
+  {
+    "Question": "The refraction Index of Glass",
+    "OptionA": "a. 1.0",
+    "OptionB": "b. 1.3",
+    "OptionC": "c. 1.5",
+    "OptionD": "d. 2.0",
+    "CorrectOption": "c. 1.5"
+  },
+  {
+    "Question": "The dimension of velocity is",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "Displacement is quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "A red cloth will ",
+    "OptionA": "a. Reflect",
+    "OptionB": "b. Refract",
+    "OptionC": "c. Absorb (Correct)",
+    "OptionD": "d. Radiate",
+    "CorrectOption": "c. Absorb"
+  },
+  {
+    "Question": "Volume is constant during",
+    "OptionA": "a. Isothermal",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric (Correct)",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "c. Isochoric"
+  },
+  {
+    "Question": "Hook's Law depends upon",
+    "OptionA": "a. Heat",
+    "OptionB": "b. Mass",
+    "OptionC": "c. Force (Correct)",
+    "OptionD": "d. Time",
+    "CorrectOption": "c. Force"
+  },
+  {
+    "Question": "Work done is maximum when the angle between force and displacement is",
+    "OptionA": "a. 0 degrees",
+    "OptionB": "b. 90 degrees (Correct)",
+    "OptionC": "c. 180 degrees",
+    "OptionD": "d. 360 degrees",
+    "CorrectOption": "b. 90 degrees"
+  },
+  {
+    "Question": "Conductors have electrons",
+    "OptionA": "a. Inside",
+    "OptionB": "b. Outside",
+    "OptionC": "c. Both inside and outside (Correct)",
+    "OptionD": "d. None of the above",
+    "CorrectOption": "c. Both inside and outside"
+  },
+  {
+    "Question": "According to Maxwell light is",
+    "OptionA": "a. Wave",
+    "OptionB": "b. Particle",
+    "OptionC": "c. Both wave and particle (Correct)",
+    "OptionD": "d. None of the above",
+    "CorrectOption": "c. Both wave and particle"
+  },
+  {
+    "Question": "Physical Quantity which needs direction with proper unit and magnitude",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Tensor",
+    "OptionD": "d. Scalar and Tensor",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "How many Fundamentals units in science?",
+    "OptionA": "a. Five",
+    "OptionB": "b. Six",
+    "OptionC": "c. Seven (Correct)",
+    "OptionD": "d. Eight",
+    "CorrectOption": "c. Seven"
+  },
+  {
+    "Question": "If vectors are perpendicular then their dot product is",
+    "OptionA": "a. One",
+    "OptionB": "b. Zero (Correct)",
+    "OptionC": "c. Two",
+    "OptionD": "d. Infinite",
+    "CorrectOption": "b. Zero"
+  },
+  {
+    "Question": "Magnetic Field will be between",
+    "OptionA": "a. Charges",
+    "OptionB": "b. Poles of Magnet (Correct)",
+    "OptionC": "c. Conductors",
+    "OptionD": "d. Insulators",
+    "CorrectOption": "b. Poles of Magnet"
+  },
+  {
+    "Question": "Process in which heat is constant",
+    "OptionA": "a. Isothermal",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric (Correct)",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "c. Isochoric"
+  },
+  {
+    "Question": "Newton 3rd Law also called",
+    "OptionA": "a. Law of Gravitation",
+    "OptionB": "b. Law of Action and Reaction (Correct)",
+    "OptionC": "c. Law of Inertia",
+    "OptionD": "d. Law of Reflection",
+    "CorrectOption": "b. Law of Action and Reaction"
+  },
+  {
+    "Question": "Which rays have high penetrating power",
+    "OptionA": "a. Alpha",
+    "OptionB": "b. Beta (Correct)",
+    "OptionC": "c. Gamma",
+    "OptionD": "d. X-rays",
+    "CorrectOption": "b. Beta"
+  },
+  {
+    "Question": "What happens if light passes from Air to glass?",
+    "OptionA": "a. Away from normal and fast",
+    "OptionB": "b. Towards normal and fast",
+    "OptionC": "c. Away from normal and slow",
+    "OptionD": "d. Towards normal and slow (Correct)",
+    "CorrectOption": "d. Towards normal and slow"
+  },
+  {
+    "Question": "Electric Intensity is quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "In the law of work - Energy",
+    "OptionA": "a. Work is equal to energy",
+    "OptionB": "b. Work is proportional to energy",
+    "OptionC": "c. Work is the derivative of energy",
+    "OptionD": "d. Work is the change in energy (Correct)",
+    "CorrectOption": "d. Work is the change in energy"
+  },
+  {
+    "Question": "If the mass of the earth is doubled",
+    "OptionA": "a. G will decrease",
+    "OptionB": "b. G will increase",
+    "OptionC": "c. G will become zero",
+    "OptionD": "d. G will remain the same (Correct)",
+    "CorrectOption": "d. G will remain the same"
+  },
+
+  {
+    "Question": "Which one of the following is not a unit of length:",
+    "OptionA": "A: Angstrom",
+    "OptionB": "B: Micron",
+    "OptionC": "C: Radian (Correct)",
+    "OptionD": "D: Light Year",
+    "CorrectOption": "C: Radian"
+  },
+  {
+    "Question": "Steradian is the angle which lies in:",
+    "OptionA": "A: One Dimension",
+    "OptionB": "B: Two Dimensions",
+    "OptionC": "C: Three Dimensions (Correct)",
+    "OptionD": "D: None",
+    "CorrectOption": "C: Three Dimensions"
+  },
+  {
+    "Question": "Candela is the SI unit of:",
+    "OptionA": "A: Charge",
+    "OptionB": "B: Luminous Intensity (Correct)",
+    "OptionC": "C: Power",
+    "OptionD": "D: Refractive Index",
+    "CorrectOption": "B: Luminous Intensity"
+  },
+  {
+    "Question": "Which is not a base unit in SI units:",
+    "OptionA": "A: Kilogram",
+    "OptionB": "B: Joule (Correct)",
+    "OptionC": "C: Ampere",
+    "OptionD": "D: Kelvin",
+    "CorrectOption": "B: Joule"
+  },
+  {
+    "Question": "The SI unit of Plane Angle is:",
+    "OptionA": "A: Steradian",
+    "OptionB": "B: Radian (Correct)",
+    "OptionC": "C: Degree",
+    "OptionD": "D: Candela",
+    "CorrectOption": "B: Radian"
+  },
+  {
+    "Question": "The SI unit of the Solid angle is:",
+    "OptionA": "A: Degree",
+    "OptionB": "B: Steradian (Correct)",
+    "OptionC": "C: Revolution",
+    "OptionD": "D: Radian",
+    "CorrectOption": "B: Steradian"
+  },
+  {
+    "Question": "The SI unit of Pressure is:",
+    "OptionA": "A: Nm2",
+    "OptionB": "B: N2m",
+    "OptionC": "C: Nm-2 (Correct)",
+    "OptionD": "D: N-2m",
+    "CorrectOption": "C: Nm-2"
+  },
+  {
+    "Question": "The number of base units are:",
+    "OptionA": "A: 3",
+    "OptionB": "B: 5",
+    "OptionC": "C: 7 (Correct)",
+    "OptionD": "D: 9",
+    "CorrectOption": "C: 7"
+  },
+  {
+    "Question": "If both components of a vector are negative, then the resultant lies in:",
+    "OptionA": "A: 1st Quadrant",
+    "OptionB": "B: 2nd Quadrant",
+    "OptionC": "C: 3rd Quadrant (Correct)",
+    "OptionD": "D: 4th Quadrant",
+    "CorrectOption": "C: 3rd Quadrant"
+  },
+  {
+    "Question": "The direction of a vector in space is specified by:",
+    "OptionA": "A: One Angle",
+    "OptionB": "B: Two Angles",
+    "OptionC": "C: Three Angles (Correct)",
+    "OptionD": "D: No Angle",
+    "CorrectOption": "C: Three Angles"
+  },
+  {
+    "Question": "Rectangular Coordinate system is also called:",
+    "OptionA": "A: Polar Coordinate System",
+    "OptionB": "B: Cartesian Coordinate System (Correct)",
+    "OptionC": "C: Cylinderical Coordinate System",
+    "OptionD": "D: Space Coordinate System",
+    "CorrectOption": "B: Cartesian Coordinate System"
+  },
+  {
+    "Question": "An example of scalar quantity is:",
+    "OptionA": "A: Displacement",
+    "OptionB": "B: Speed (Correct)",
+    "OptionC": "C: Velocity",
+    "OptionD": "D: Torque",
+    "CorrectOption": "B: Speed"
+  },
+  {
+    "Question": "Which one is a vector:",
+    "OptionA": "A: Length",
+    "OptionB": "B: Volume",
+    "OptionC": "C: Velocity (Correct)",
+    "OptionD": "D: Work",
+    "CorrectOption": "C: Velocity"
+  },
+  {
+    "Question": "A light year is a unit of:",
+    "OptionA": "A: Time",
+    "OptionB": "B: Distance (Correct)",
+    "OptionC": "C: Velocity",
+    "OptionD": "D: Time Period",
+    "CorrectOption": "B: Distance"
+  },
+  {
+    "Question": "When two vectors are anti-parallel, the angle between them is:",
+    "OptionA": "A: Zero",
+    "OptionB": "B: 180° (Correct)",
+    "OptionC": "C: 90°",
+    "OptionD": "D: 270°",
+    "CorrectOption": "B: 180°"
+  },
+  {
+    "Question": "If A+B = B+A, this shows that addition of vector is:",
+    "OptionA": "A: Associative",
+    "OptionB": "B: Commutative (Correct)",
+    "OptionC": "C: Additive",
+    "OptionD": "D: Additive Inverse",
+    "CorrectOption": "B: Commutative"
+  },
+
+  {
+    "Question": "The average Velocity gained by the electron in a conductor placed in an electric field is called",
+    "OptionA": "A. Variable Velocity",
+    "OptionB": "B. Phase Velocity",
+    "OptionC": "C. Drift Velocity (Correct)",
+    "OptionD": "D. Instantaneous Velocity",
+    "CorrectOption": "C. Drift Velocity"
+  },
+  {
+    "Question": "A transformer is used to:",
+    "OptionA": "A. Transform alternating current to voltage alternating",
+    "OptionB": "B. Convert Direct Current into Alternating Current",
+    "OptionC": "C. Convert Alternating Current into Direct Current",
+    "OptionD": "D. Convert Mechanical energy (Correct)",
+    "CorrectOption": "D. Convert Mechanical energy"
+  },
+  {
+    "Question": "The ratio arm is equal to:",
+    "OptionA": "A. One",
+    "OptionB": "B. Ten",
+    "OptionC": "C. Any value (Correct)",
+    "OptionD": "D. None",
+    "CorrectOption": "C. Any value"
+  },
+  {
+    "Question": "The electromagnetic waves travel in free space with a speed of?",
+    "OptionA": "A. Light",
+    "OptionB": "B. Sound",
+    "OptionC": "C. Jet",
+    "OptionD": "D. Light (Correct)",
+    "CorrectOption": "D. Light"
+  },
+  {
+    "Question": "The distance between the two consecutive nodes or anti-nodes is the same or equal to:",
+    "OptionA": "A. Half of the wavelength",
+    "OptionB": "B. Double of the wavelength",
+    "OptionC": "C. Full the wavelength",
+    "OptionD": "D. Three times the wavelength (Correct)",
+    "CorrectOption": "D. Three times the wavelength"
+  },
+  {
+    "Question": "The body is said to be in Equilibrium, if all the forces and torques will become equal to",
+    "OptionA": "A. One",
+    "OptionB": "B. Zero (Correct)",
+    "OptionC": "C. Four",
+    "OptionD": "D. Six",
+    "CorrectOption": "B. Zero"
+  },
+  {
+    "Question": "A satellite remains in an orbit around the earth due to the centripetal force provided by",
+    "OptionA": "A. Gravitational Pull of the sun on the satellite",
+    "OptionB": "B. Gravitational Pull of the earth on the satellite (Correct)",
+    "OptionC": "C. The rocket engine is attached to the satellite",
+    "OptionD": "D. None",
+    "CorrectOption": "B. Gravitational Pull of the earth on the satellite"
+  },
+  {
+    "Question": "Elastic Collision is that collision during which",
+    "OptionA": "A. Momentum is conserved",
+    "OptionB": "B. Kinetic Energy is conserved",
+    "OptionC": "C. Both A and B (Correct)",
+    "OptionD": "D. None of the above",
+    "CorrectOption": "C. Both A and B"
+  },
+  {
+    "Question": "The unit vector of a vector A of magnitude 2 is",
+    "OptionA": "A. 2A",
+    "OptionB": "B. A2",
+    "OptionC": "C. A/2",
+    "OptionD": "D. A2/2 (Correct)",
+    "CorrectOption": "D. A2/2"
+  },
+
+  {
+    "Question": "Work done is maximum when the angle between force and displacement is?",
+    "OptionA": "A: 0 degrees",
+    "OptionB": "B: 45 degrees",
+    "OptionC": "C: 90 degrees (Correct)",
+    "OptionD": "D: 180 degrees",
+    "CorrectOption": "C: 90 degrees"
+  },
+  {
+    "Question": "A red cloth will?",
+    "OptionA": "A: Reflect",
+    "OptionB": "B: Absorb (Correct)",
+    "OptionC": "C: ",
+    "OptionD": "D: ",
+    "CorrectOption": "B: Absorb"
+  },
+  {
+    "Question": "1 horsepower is equal to",
+    "OptionA": "A: 0.746 Kwatts",
+    "OptionB": "B: 550 watts (Correct)",
+    "OptionC": "C: 74.6 lb.ft/sec",
+    "OptionD": "D: 476 watts",
+    "CorrectOption": "B: 550 watts"
+  },
+  {
+    "Question": "Modern physics came because of:",
+    "OptionA": "A: Classical Physics",
+    "OptionB": "B: Theory of Relativity",
+    "OptionC": "C: Modernization",
+    "OptionD": "D: Nuclear Physics (Correct)",
+    "CorrectOption": "D: Nuclear Physics"
+  },
+  {
+    "Question": "A galvanometer can be converted into voltmeter by connecting a high resistance in to the galvanometer.",
+    "OptionA": "A: Series",
+    "OptionB": "B: Parallel (Correct)",
+    "OptionC": "C: Perpendicular",
+    "OptionD": "D: Diagonal",
+    "CorrectOption": "B: Parallel"
+  },
+  {
+    "Question": "Rate of flow of electric charge is:",
+    "OptionA": "A: Field Intensity",
+    "OptionB": "B: Coulomb Force",
+    "OptionC": "C: Electric Current (Correct)",
+    "OptionD": "D: ",
+    "CorrectOption": "C: Electric Current"
+  },
+  {
+    "Question": "The volume of gas is directly proportional to no. of moles. Which law states that:",
+    "OptionA": "A: Avagadro's law (Correct)",
+    "OptionB": "B: Boyles Law",
+    "OptionC": "C: Charles Law",
+    "OptionD": "D: Gay-Lussac Law",
+    "CorrectOption": "A: Avagadro's law"
+  },
+  {
+    "Question": "Diffraction of light shows",
+    "OptionA": "A: Particle",
+    "OptionB": "B: Wave (Correct)",
+    "OptionC": "C: Corpuscular nature of light.",
+    "OptionD": "D: N.O.T.",
+    "CorrectOption": "B: Wave"
+  },
+  {
+    "Question": "If a body is moving with constant velocity, it will have:",
+    "OptionA": "A: Variable acceleration",
+    "OptionB": "B: Constant Acceleration",
+    "OptionC": "C: Zero Acceleration (Correct)",
+    "OptionD": "D: Average Acceleration",
+    "CorrectOption": "C: Zero Acceleration"
+  },
+  {
+    "Question": "Gauss (G) is smaller unit of magnetic flux density which is superseded by Tesla whose value is:",
+    "OptionA": "A: G = 10^-1 T",
+    "OptionB": "B: G = 10^-2 T",
+    "OptionC": "C: G = 10^-3 T",
+    "OptionD": "D: G = 10^-4 T (Correct)",
+    "CorrectOption": "D: G = 10^-4 T"
+  },
+  {
+    "Question": "The electromagnetic waves travel in free with the speed of:",
+    "OptionA": "A: Sound",
+    "OptionB": "B: Light (Correct)",
+    "OptionC": "C: a-rays",
+    "OptionD": "D: N.O.T",
+    "CorrectOption": "B: Light"
+  },
+  {
+    "Question": "Unlike charges",
+    "OptionA": "A: Contract each other.",
+    "OptionB": "B: Directly to",
+    "OptionC": "C: ",
+    "OptionD": "D: Repel (Correct)",
+    "CorrectOption": "D: Repel"
+  },
+  {
+    "Question": "The SI unit of heat energy is:",
+    "OptionA": "A: Calorie",
+    "OptionB": "B: Joule (Correct)",
+    "OptionC": "C: BTU",
+    "OptionD": "D: N.O.T",
+    "CorrectOption": "B: Joule"
+  },
+  {
+    "Question": "The degree of hotness and coldness of an object in terms of:",
+    "OptionA": "A: Heat",
+    "OptionB": "B: Temperature (Correct)",
+    "OptionC": "C: Heat capacity",
+    "OptionD": "D: Heat energy",
+    "CorrectOption": "B: Temperature"
+  },
+
+  {
+    "Question": "The refractive index is:",
+    "OptionA": "A: Directly proportional to the wavelength of light",
+    "OptionB": "B: Inversely proportional to the wavelength of light (Correct)",
+    "OptionC": "C: Directly proportional to the square of the wavelength of light",
+    "OptionD": "D: Inversely proportional to the square of the wavelength of light",
+    "CorrectOption": "B: Inversely proportional to the wavelength of light"
+  },
+
+  {
+    "Question": "The SI unit of electric charge is:",
+    "OptionA": "A: Coulomb (Correct)",
+    "OptionB": "B: Ampere",
+    "OptionC": "C: Volt",
+    "OptionD": "D: Ohm",
+    "CorrectOption": "A: Coulomb"
+  },
+  {
+    "Question": "Which of the following is a scalar quantity?",
+    "OptionA": "A: Force",
+    "OptionB": "B: Velocity",
+    "OptionC": "C: Mass (Correct)",
+    "OptionD": "D: Acceleration",
+    "CorrectOption": "C: Mass"
+  },
+  {
+    "Question": "The phenomenon of a change in the frequency of a wave in relation to an observer's motion is known as:",
+    "OptionA": "A: Diffraction",
+    "OptionB": "B: Doppler Effect (Correct)",
+    "OptionC": "C: Refraction",
+    "OptionD": "D: Reflection",
+    "CorrectOption": "B: Doppler Effect"
+  },
+  {
+    "Question": "Which of the following is a renewable source of energy?",
+    "OptionA": "A: Natural Gas",
+    "OptionB": "B: Coal",
+    "OptionC": "C: Solar (Correct)",
+    "OptionD": "D: Nuclear",
+    "CorrectOption": "C: Solar"
+  },
+  {
+    "Question": "The process of converting a solid directly into vapor (gas) is known as:",
+    "OptionA": "A: Condensation",
+    "OptionB": "B: Sublimation (Correct)",
+    "OptionC": "C: Evaporation",
+    "OptionD": "D: Melting",
+    "CorrectOption": "B: Sublimation"
+  },
+  {
+    "Question": "Which law states that the total energy in an isolated system remains constant over time?",
+    "OptionA": "A: Law of Conservation of Mass",
+    "OptionB": "B: Law of Conservation of Energy (Correct)",
+    "OptionC": "C: Newton's Third Law of Motion",
+    "OptionD": "D: Ohm's Law",
+    "CorrectOption": "B: Law of Conservation of Energy"
+  },
+  {
+    "Question": "The wavelength of visible light is in the range of approximately:",
+    "OptionA": "A: 1 nanometer",
+    "OptionB": "B: 500 nanometers (Correct)",
+    "OptionC": "C: 1 millimeter",
+    "OptionD": "D: 1 kilometer",
+    "CorrectOption": "B: 500 nanometers"
+  },
+  {
+    "Question": "Which of the following is a vector quantity?",
+    "OptionA": "A: Speed",
+    "OptionB": "B: Distance",
+    "OptionC": "C: Displacement (Correct)",
+    "OptionD": "D: Time",
+    "CorrectOption": "C: Displacement"
+  },
+  {
+    "Question": "The phenomenon of bending of light when it passes from one medium to another is known as:",
+    "OptionA": "A: Diffraction",
+    "OptionB": "B: Dispersion",
+    "OptionC": "C: Refraction (Correct)",
+    "OptionD": "D: Reflection",
+    "CorrectOption": "C: Refraction"
+  },
+  {
+    "Question": "The atomic number of an element is determined by the number of:",
+    "OptionA": "A: Protons (Correct)",
+    "OptionB": "B: Neutrons",
+    "OptionC": "C: Electrons",
+    "OptionD": "D: Nucleons",
+    "CorrectOption": "A: Protons"
+  },
+  {
+    "Question": "What is the unit of measurement for electric resistance?",
+    "OptionA": "A: Ampere",
+    "OptionB": "B: Volt",
+    "OptionC": "C: Ohm (Correct)",
+    "OptionD": "D: Coulomb",
+    "CorrectOption": "C: Ohm"
+  },
+
+    {
+      "Question": "The SI unit of electric current is:",
+      "OptionA": "A: Ampere (Correct)",
+      "OptionB": "B: Volt",
+      "OptionC": "C: Ohm",
+      "OptionD": "D: Coulomb",
+      "CorrectOption": "A: Ampere"
+    },
+    {
+      "Question": "Which of the following quantities is a scalar?",
+      "OptionA": "A: Force",
+      "OptionB": "B: Velocity",
+      "OptionC": "C: Mass (Correct)",
+      "OptionD": "D: Acceleration",
+      "CorrectOption": "C: Mass"
+    },
+    {
+      "Question": "The magnetic field is strongest around:",
+      "OptionA": "A: Charges",
+      "OptionB": "B: Poles of Magnet (Correct)",
+      "OptionC": "C: Conductors",
+      "OptionD": "D: Insulators",
+      "CorrectOption": "B: Poles of Magnet"
+    },
+    {
+      "Question": "A process in which heat remains constant is called:",
+      "OptionA": "A: Isothermal",
+      "OptionB": "B: Isobaric",
+      "OptionC": "C: Isochoric (Correct)",
+      "OptionD": "D: Adiabatic",
+      "CorrectOption": "C: Isochoric"
+    },
+    {
+      "Question": "Newton's 3rd Law is also known as:",
+      "OptionA": "A: Law of Gravitation",
+      "OptionB": "B: Law of Action and Reaction (Correct)",
+      "OptionC": "C: Law of Inertia",
+      "OptionD": "D: Law of Reflection",
+      "CorrectOption": "B: Law of Action and Reaction"
+    },
+    {
+      "Question": "Which type of rays have high penetrating power?",
+      "OptionA": "A: Alpha",
+      "OptionB": "B: Beta (Correct)",
+      "OptionC": "C: Gamma",
+      "OptionD": "D: X-rays",
+      "CorrectOption": "B: Beta"
+    },
+    {
+      "Question": "What happens if light passes from air to glass?",
+      "OptionA": "A: Away from normal and fast",
+      "OptionB": "B: Towards normal and fast",
+      "OptionC": "C: Away from normal and slow",
+      "OptionD": "D: Towards normal and slow (Correct)",
+      "CorrectOption": "D: Towards normal and slow"
+    },
+    {
+      "Question": "Electric intensity is a:",
+      "OptionA": "A: Scalar",
+      "OptionB": "B: Vector (Correct)",
+      "OptionC": "C: Linear",
+      "OptionD": "D: Angular",
+      "CorrectOption": "B: Vector"
+    },
+    {
+      "Question": "In the law of work-energy, work is the change in:",
+      "OptionA": "A: Work is equal to energy",
+      "OptionB": "B: Work is proportional to energy",
+      "OptionC": "C: Work is the derivative of energy",
+      "OptionD": "D: Work is the change in energy (Correct)",
+      "CorrectOption": "D: Work is the change in energy"
+    },
+    {
+      "Question": "If the mass of the Earth is doubled, the gravitational constant (G):",
+      "OptionA": "A: Will decrease",
+      "OptionB": "B: Will increase",
+      "OptionC": "C: Will become zero",
+      "OptionD": "D: Will remain the same (Correct)",
+      "CorrectOption": "D: Will remain the same"
+    },
+    {
+      "Question": "Which one is not a unit of length?",
+      "OptionA": "A: Angstrom",
+      "OptionB": "B: Micron",
+      "OptionC": "C: Radian (Correct)",
+      "OptionD": "D: Light Year",
+      "CorrectOption": "C: Radian"
+    },
+    {
+      "Question": "The unit of luminous intensity in the SI system is called:",
+      "OptionA": "A: Angstrom",
+      "OptionB": "B: Micron",
+      "OptionC": "C: Candela (Correct)",
+      "OptionD": "D: Light Year",
+      "CorrectOption": "C: Candela"
+    },
+    {
+      "Question": "Which is not a base unit in SI units?",
+      "OptionA": "A: Kilogram",
+      "OptionB": "B: Joule (Correct)",
+      "OptionC": "C: Ampere",
+      "OptionD": "D: Kelvin",
+      "CorrectOption": "B: Joule"
+    },
+    {
+      "Question": "The SI unit of plane angle is:",
+      "OptionA": "A: Steradian",
+      "OptionB": "B: Radian (Correct)",
+      "OptionC": "C: Degree",
+      "OptionD": "D: Candela",
+      "CorrectOption": "B: Radian"
+    },
+    {
+      "Question": "The SI unit of the solid angle is:",
+      "OptionA": "A: Degree",
+      "OptionB": "B: Steradian (Correct)",
+      "OptionC": "C: Revolution",
+      "OptionD": "D: Radian",
+      "CorrectOption": "B: Steradian"
+    },
+    {
+      "Question": "The SI unit of pressure is:",
+      "OptionA": "A: Nm²",
+      "OptionB": "B: N²m",
+      "OptionC": "C: Nm⁻² (Correct)",
+      "OptionD": "D: N⁻²m",
+      "CorrectOption": "C: Nm⁻²"
+    },
+    {
+      "Question": "The number of base units in the SI system is:",
+      "OptionA": "A: 3",
+      "OptionB": "B: 5",
+      "OptionC": "C: 7 (Correct)",
+      "OptionD": "D: 9",
+      "CorrectOption": "C: 7"
+    },
+    {
+      "Question": "If both components of a vector are negative, then the resultant lies in:",
+      "OptionA": "A: 1st Quadrant",
+      "OptionB": "B: 2nd Quadrant",
+      "OptionC": "C: 3rd Quadrant (Correct)",
+      "OptionD": "D: 4th Quadrant",
+      "CorrectOption": "C: 3rd Quadrant"
+    },
+    {
+      "Question": "The direction of a vector in space is specified by:",
+      "OptionA": "A: One Angle",
+      "OptionB": "B: Two Angles",
+      "OptionC": "C: Three Angles (Correct)",
+      "OptionD": "D: No Angle",
+      "CorrectOption": "C: Three Angles"
+    },
+    {
+      "Question": "The rectangular coordinate system is also called:",
+      "OptionA": "A: Polar Coordinate System",
+      "OptionB": "B: Cartesian Coordinate System (Correct)",
+      "OptionC": "C: Cylindrical Coordinate System",
+      "OptionD": "D: Space Coordinate System",
+      "CorrectOption": "B: Cartesian Coordinate System"
+    },
+    {
+      "Question": "An example of a scalar quantity is:",
+      "OptionA": "A: Displacement",
+      "OptionB": "B: Speed (Correct)",
+      "OptionC": "C: Velocity",
+      "OptionD": "D: Torque",
+      "CorrectOption": "B: Speed"
+    },
+    {
+      "Question": "Which one is a vector:",
+      "OptionA": "A: Length",
+      "OptionB": "B: Volume",
+      "OptionC": "C: Velocity (Correct)",
+      "OptionD": "D: Work",
+      "CorrectOption": "C: Velocity"
+    },
+    {
+      "Question": "A light year is a unit of:",
+      "OptionA": "A: Time",
+      "OptionB": "B: Distance (Correct)",
+      "OptionC": "C: Velocity",
+      "OptionD": "D: Time Period",
+      "CorrectOption": "B: Distance"
+    },
+    {
+      "Question": "When two vectors are anti-parallel, the angle between them is:",
+      "OptionA": "A: Zero",
+      "OptionB": "B: 180° (Correct)",
+      "OptionC": "C: 90°",
+      "OptionD": "D: 270°",
+      "CorrectOption": "B: 180°"
+    },
+    {
+      "Question": "If A + B = B + A, this shows that the addition of vectors is:",
+      "OptionA": "A: Associative",
+      "OptionB": "B: Commutative (Correct)",
+      "OptionC": "C: Additive",
+      "OptionD": "D: Additive Inverse",
+      "CorrectOption": "B: Commutative"
+    },
+
+    {
+      "Question": "16) The frequency of a wave is inversely proportional to its...",
+      "OptionA": "Amplitude",
+      "OptionB": "Wavelength",
+      "OptionC": "Velocity",
+      "OptionD": "Period",
+      "CorrectOption": "Period"
+      },
+      
+      {
+      "Question": "17) According to the law of conservation of energy, energy cannot be...",
+      "OptionA": "Created",
+      "OptionB": "Destroyed",
+      "OptionC": "Converted",
+      "OptionD": "Transferred",
+      "CorrectOption": "Destroyed"
+      },
+      
+      {
+      "Question": "18) The SI unit of electric charge is...",
+      "OptionA": "Coulomb",
+      "OptionB": "Ampere",
+      "OptionC": "Volt",
+      "OptionD": "Ohm",
+      "CorrectOption": "Coulomb"
+      },
+      
+      {
+      "Question": "19) Which of the following is a scalar quantity?",
+      "OptionA": "Force",
+      "OptionB": "Velocity",
+      "OptionC": "Acceleration",
+      "OptionD": "Distance",
+      "CorrectOption": "Distance"
+      },
+      
+      {
+      "Question": "20) The principle of conservation of momentum is applicable in...",
+      "OptionA": "Isolated systems",
+      "OptionB": "Open systems",
+      "OptionC": "Closed systems",
+      "OptionD": "None of the above",
+      "CorrectOption": "Isolated systems"
+      },
+      
+      {
+      "Question": "21) The resistance of a conductor is directly proportional to its...",
+      "OptionA": "Temperature",
+      "OptionB": "Length",
+      "OptionC": "Cross-sectional area",
+      "OptionD": "Electric field",
+      "CorrectOption": "Length"
+      },
+      
+      {
+      "Question": "22) In a concave mirror, the focal point is...",
+      "OptionA": "In front of the mirror",
+      "OptionB": "Behind the mirror",
+      "OptionC": "At the center of the mirror",
+      "OptionD": "At infinity",
+      "CorrectOption": "Behind the mirror"
+      },
+      
+      {
+      "Question": "23) The unit of power in the International System of Units (SI) is...",
+      "OptionA": "Joule",
+      "OptionB": "Watt",
+      "OptionC": "Newton",
+      "OptionD": "Ohm",
+      "CorrectOption": "Watt"
+      },
+      
+      {
+      "Question": "24) The phenomenon of total internal reflection is used in the working of...",
+      "OptionA": "Microscopes",
+      "OptionB": "Telescopes",
+      "OptionC": "Fiber optics",
+      "OptionD": "Cameras",
+      "CorrectOption": "Fiber optics"
+      },
+      
+      {
+      "Question": "25) The acceleration due to gravity on the surface of the moon is approximately...",
+      "OptionA": "Equal to Earth",
+      "OptionB": "Greater than Earth",
+      "OptionC": "Less than Earth",
+      "OptionD": "Zero",
+      "CorrectOption": "Less than Earth"
+      },
+      
+      {
+      "Question": "26) The law that states that the rate of change of momentum is directly proportional to the applied force is...",
+      "OptionA": "Newton's First Law",
+      "OptionB": "Newton's Second Law",
+      "OptionC": "Newton's Third Law",
+      "OptionD": "Law of Conservation of Momentum",
+      "CorrectOption": "Newton's Second Law"
+      },
+      
+      {
+      "Question": "27) The process in which a substance changes directly from a solid to a gas without passing through the liquid state is called...",
+      "OptionA": "Evaporation",
+      "OptionB": "Condensation",
+      "OptionC": "Sublimation",
+      "OptionD": "Boiling",
+      "CorrectOption": "Sublimation"
+      },
+      
+      {
+      "Question": "28) The SI unit of magnetic flux is...",
+      "OptionA": "Weber",
+      "OptionB": "Tesla",
+      "OptionC": "Ampere",
+      "OptionD": "Henry",
+      "CorrectOption": "Weber"
+      },
+      
+      {
+      "Question": "29) The phenomenon of bending of light when it passes from one medium to another is called...",
+      "OptionA": "Reflection",
+      "OptionB": "Refraction",
+      "OptionC": "Diffraction",
+      "OptionD": "Interference",
+      "CorrectOption": "Refraction"
+      },
+      
+      {
+      "Question": "30) The property of a material to regain its original shape after deformation is known as...",
+      "OptionA": "Elasticity",
+      "OptionB": "Plasticity",
+      "OptionC": "Brittleness",
+      "OptionD": "Ductility",
+      "CorrectOption": "Elasticity"
+      },
+
+      {
+        "Question": "16) The frequency of a wave is inversely proportional to its...",
+        "OptionA": "Amplitude",
+        "OptionB": "Wavelength",
+        "OptionC": "Velocity",
+        "OptionD": "Period",
+        "CorrectOption": "Period"
+        },
+        
+        {
+        "Question": "17) According to the law of conservation of energy, energy cannot be...",
+        "OptionA": "Created",
+        "OptionB": "Destroyed",
+        "OptionC": "Converted",
+        "OptionD": "Transferred",
+        "CorrectOption": "Destroyed"
+        },
+        
+        {
+        "Question": "18) The SI unit of electric charge is...",
+        "OptionA": "Coulomb",
+        "OptionB": "Ampere",
+        "OptionC": "Volt",
+        "OptionD": "Ohm",
+        "CorrectOption": "Coulomb"
+        },
+        
+        {
+        "Question": "19) Which of the following is a scalar quantity?",
+        "OptionA": "Force",
+        "OptionB": "Velocity",
+        "OptionC": "Acceleration",
+        "OptionD": "Distance",
+        "CorrectOption": "Distance"
+        },
+        
+        {
+        "Question": "20) The principle of conservation of momentum is applicable in...",
+        "OptionA": "Isolated systems",
+        "OptionB": "Open systems",
+        "OptionC": "Closed systems",
+        "OptionD": "None of the above",
+        "CorrectOption": "Isolated systems"
+        },
+        
+        {
+        "Question": "21) The resistance of a conductor is directly proportional to its...",
+        "OptionA": "Temperature",
+        "OptionB": "Length",
+        "OptionC": "Cross-sectional area",
+        "OptionD": "Electric field",
+        "CorrectOption": "Length"
+        },
+        
+        {
+        "Question": "22) In a concave mirror, the focal point is...",
+        "OptionA": "In front of the mirror",
+        "OptionB": "Behind the mirror",
+        "OptionC": "At the center of the mirror",
+        "OptionD": "At infinity",
+        "CorrectOption": "Behind the mirror"
+        },
+        
+        {
+        "Question": "23) The unit of power in the International System of Units (SI) is...",
+        "OptionA": "Joule",
+        "OptionB": "Watt",
+        "OptionC": "Newton",
+        "OptionD": "Ohm",
+        "CorrectOption": "Watt"
+        },
+        
+        {
+        "Question": "24) The phenomenon of total internal reflection is used in the working of...",
+        "OptionA": "Microscopes",
+        "OptionB": "Telescopes",
+        "OptionC": "Fiber optics",
+        "OptionD": "Cameras",
+        "CorrectOption": "Fiber optics"
+        },
+        
+        {
+        "Question": "25) The acceleration due to gravity on the surface of the moon is approximately...",
+        "OptionA": "Equal to Earth",
+        "OptionB": "Greater than Earth",
+        "OptionC": "Less than Earth",
+        "OptionD": "Zero",
+        "CorrectOption": "Less than Earth"
+        },
+        
+        {
+        "Question": "26) The law that states that the rate of change of momentum is directly proportional to the applied force is...",
+        "OptionA": "Newton's First Law",
+        "OptionB": "Newton's Second Law",
+        "OptionC": "Newton's Third Law",
+        "OptionD": "Law of Conservation of Momentum",
+        "CorrectOption": "Newton's Second Law"
+        },
+        
+        {
+        "Question": "27) The process in which a substance changes directly from a solid to a gas without passing through the liquid state is called...",
+        "OptionA": "Evaporation",
+        "OptionB": "Condensation",
+        "OptionC": "Sublimation",
+        "OptionD": "Boiling",
+        "CorrectOption": "Sublimation"
+        },
+        
+        {
+        "Question": "28) The SI unit of magnetic flux is...",
+        "OptionA": "Weber",
+        "OptionB": "Tesla",
+        "OptionC": "Ampere",
+        "OptionD": "Henry",
+        "CorrectOption": "Weber"
+        },
+        
+        {
+        "Question": "29) The phenomenon of bending of light when it passes from one medium to another is called...",
+        "OptionA": "Reflection",
+        "OptionB": "Refraction",
+        "OptionC": "Diffraction",
+        "OptionD": "Interference",
+        "CorrectOption": "Refraction"
+        },
+        
+        {
+        "Question": "30) The property of a material to regain its original shape after deformation is known as...",
+        "OptionA": "Elasticity",
+        "OptionB": "Plasticity",
+        "OptionC": "Brittleness",
+        "OptionD": "Ductility",
+        "CorrectOption": "Elasticity"
+        },
+ 
+        {
+          "Question": "Momentum depends upon",
+          "OptionA": "A. force acts on the body",
+          "OptionB": "B. mass of the body",
+          "OptionC": "C. velocity of the body",
+          "OptionD": "D. both mass and velocity of the body",
+          "CorrectOption": "D. both mass and velocity of the body"
+        },
+        
+        {
+          "Question": "A body is moving with uniform velocity. Its",
+          "OptionA": "A. speed changes",
+          "OptionB": "B. acceleration changes.",
+          "OptionC": "C. direction of motion changes",
+          "OptionD": "D. displacement from origin changes",
+          "CorrectOption": "A. speed changes"
+        },
+        
+        {
+          "Question": "What is the force of attraction between any two bodies by virtue of their masses is called?",
+          "OptionA": "A. Electromagnetic Force",
+          "OptionB": "B. Gravitational Force",
+          "OptionC": "C. Centripetal Force",
+          "OptionD": "D. Nuclear Force",
+          "CorrectOption": "B. Gravitational Force"
+        },
+        
+        {
+          "Question": "By how many times are the Electrostatic forces stronger than the Gravitational Forces for a fixed distance?",
+          "OptionA": "A. 102",
+          "OptionB": "B. 1036",
+          "OptionC": "C. 1012",
+          "OptionD": "D. None of these",
+          "CorrectOption": "C. 1012"
+        },
+        
+        {
+          "Question": "Tick the correct statement?",
+          "OptionA": "A. Moderators slow down the neutrons",
+          "OptionB": "B. Moderators bring the neutrons to rest",
+          "OptionC": "C. Moderators absorb the neutrons",
+          "OptionD": "D. Moderators reflect the neutrons",
+          "CorrectOption": "C. Moderators absorb the neutrons"
+        },
+        
+        {
+          "Question": "Atom is the smallest particle which is",
+          "OptionA": "A. Indivisible",
+          "OptionB": "B. Divisible",
+          "OptionC": "C. Both",
+          "OptionD": "D. Non of these",
+          "CorrectOption": "B. Divisible"
+        },
+        
+        {
+          "Question": "The Capacity of doing work is called___________?",
+          "OptionA": "A. Work",
+          "OptionB": "B. Energy",
+          "OptionC": "C. Power",
+          "OptionD": "D. Momentum",
+          "CorrectOption": "B. Energy"
+        },
+        
+        {
+          "Question": "With the increase of pressure, the boiling point of any substance:",
+          "OptionA": "A. Decreases",
+          "OptionB": "B. Increases",
+          "OptionC": "C. Remains same",
+          "OptionD": "D. Becomes Zero",
+          "CorrectOption": "B. Increases"
+        },
+        
+        {
+          "Question": "Which one of the following has the highest value of specific heat?",
+          "OptionA": "A. Water",
+          "OptionB": "B. Alcohol",
+          "OptionC": "C. Methane",
+          "OptionD": "D. Kerosene",
+          "CorrectOption": "A. Water"
+        },
+        
+        {
+          "Question": "If electrical conductivity increases with the increase of temperature of a substance, then it is a:",
+          "OptionA": "A. Semiconductor",
+          "OptionB": "B. Conductor",
+          "OptionC": "C. Insulator",
+          "OptionD": "D. None of the above",
+          "CorrectOption": "A. Semiconductor"
+        },
+        
+        {
+          "Question": "The branch of Physics which deals with properties of gravitational?",
+          "OptionA": "A. Field theory",
+          "OptionB": "B. Acoustics",
+          "OptionC": "C. Hydro dynamic",
+          "OptionD": "D. Optics",
+          "CorrectOption": "A. Field theory"
+        },
+        
+        {
+          "Question": "The Branch of Physics deals with highly energetic ions is called",
+          "OptionA": "A. Elementary articles",
+          "OptionB": "B. Article physics",
+          "OptionC": "C. Ionic physics",
+          "OptionD": "D. Plasma physics",
+          "CorrectOption": "C. Ionic physics"
+        },
+        
+        {
+          "Question": "The SI unit of Heat is",
+          "OptionA": "A. Watt",
+          "OptionB": "B. Volt",
+          "OptionC": "C. Joule",
+          "OptionD": "D. Newton",
+          "CorrectOption": "C. Joule"
+        },
+        
+        {
+          "Question": "The first book of Physics written by_______",
+          "OptionA": "A. Kelvin",
+          "OptionB": "B. Newton",
+          "OptionC": "C. Aristotle",
+          "OptionD": "D. Faraday",
+          "CorrectOption": "D. Faraday"
+        },
+        
+        {
+          "Question": "Study of living science relates with",
+          "OptionA": "A. Physical science",
+          "OptionB": "B. Biological science",
+          "OptionC": "C. Just living science",
+          "OptionD": "D. Organ science",
+          "CorrectOption": "B. Biological science"
+        },
+        
+        {
+          "Question": "The physics of moving charge particles is known as",
+          "OptionA": "A. Plasma physics",
+          "OptionB": "B. Electro-static's",
+          "OptionC": "C. Electro-magnetic",
+          "OptionD": "D. Electro-dynamics",
+          "CorrectOption": "C. Electro-magnetic"
+        },
+        
+        {
+          "Question": "The co efficient of linear expansion is equal to",
+          "OptionA": "A. AL = αLAT",
+          "OptionB": "B. AL/LAT",
+          "OptionC": "C. LAT/AL",
+          "OptionD": "D. αLAT-AL",
+          "CorrectOption": "A. AL = αLAT"
+        },
+        
+        {
+          "Question": "The formula of inter-conversion of centigrade and Fahrenheit scale is",
+          "OptionA": "A. c-32/9",
+          "OptionB": "B. f-32/9=c/5",
+          "OptionC": "C. f-32/9=c/9",
+          "OptionD": "D. none",
+          "CorrectOption": "B. f-32/9=c/5"
+        },
+        
+        {
+          "Question": "Which one of the following is massless?",
+          "OptionA": "A. Proton",
+          "OptionB": "B. Electron",
+          "OptionC": "C. Neutron",
+          "OptionD": "D. Photon",
+          "CorrectOption": "D. Photon"
+        },
+        
+        {
+          "Question": "Area under velocity time graph represent",
+          "OptionA": "A. force",
+          "OptionB": "B. displacement",
+          "OptionC": "C. distance",
+          "OptionD": "D. acceleration",
+          "CorrectOption": "C. distance"
+        },
+        
+        {
+          "Question": "The collision between two bodies be elastic if bodies are",
+          "OptionA": "A. solid and soft",
+          "OptionB": "B. soft and elastic",
+          "OptionC": "C. solid and hard",
+          "OptionD": "D. hard and elastic",
+          "CorrectOption": "D. hard and elastic"
+        },
+        
+        {
+          "Question": "Which of the following pair has the same direction always?",
+          "OptionA": "A. force, displacement",
+          "OptionB": "B. force, velocity",
+          "OptionC": "C. force, acceleration",
+          "OptionD": "D. force, momentum",
+          "CorrectOption": "C. force, acceleration"
+        },
+        
+        {
+          "Question": "The dimension of force is_________",
+          "OptionA": "A. MLT-2",
+          "OptionB": "B. ML2T-2",
+          "OptionC": "C. ML2T2",
+          "OptionD": "D. ML-2T-2",
+          "CorrectOption": "A. MLT-2"
+        },
+        
+        {
+          "Question": "Taking off rocket can be explained by",
+          "OptionA": "A. 1st law of motion",
+          "OptionB": "B. 2nd law of motion",
+          "OptionC": "C. Law of conservation of momentum",
+          "OptionD": "D. law of conservation of energy",
+          "CorrectOption": "B. 2nd law of motion"
+        },
+        
+        {
+          "Question": "Which shows the correct relation between time of flight T and maximum height H?",
+          "OptionA": "A. H=gT2/8",
+          "OptionB": "B. H=8T2/g",
+          "OptionC": "C. H=8g/T2",
+          "OptionD": "D. H=gT2",
+          "CorrectOption": "B. H=8T2/g"
+        },
+        
+        {
+          "Question": "Mass attached to a spring when performing vibratory motion is known",
+          "OptionA": "(A) Simple harmonic",
+          "OptionB": "(B) Linear motion",
+          "OptionC": "(C) Rotatory motion",
+          "OptionD": "(D) Spin motion",
+          "CorrectOption": "(A) Simple harmonic"
+        },
+        {
+          "Question": "A particle performs simple harmonic motion, its kinetic energy is maximum at the............ and potential energy is maximum at the........",
+          "OptionA": "(A) Mean position, mean position",
+          "OptionB": "(B) Mean position, extreme position",
+          "OptionC": "(C) Extreme position, mean position",
+          "OptionD": "(D) Extreme position, extreme position",
+          "CorrectOption": "(D) Extreme position, extreme position"
+        },
+        {
+          "Question": "A particle performs simple harmonic motion, its acceleration is maximum at the .... position",
+          "OptionA": "(A) Mean",
+          "OptionB": "(B) Extreme",
+          "OptionC": "(C) Before mean",
+          "OptionD": "(D) Before extreme",
+          "CorrectOption": "(B) Extreme"
+        },
+        {
+          "Question": "The S.I unit of force constant is N/m which is identical with the ....",
+          "OptionA": "(A) Surface area tension",
+          "OptionB": "(B) Surface",
+          "OptionC": "(C) Pressure",
+          "OptionD": "(D) None",
+          "CorrectOption": "(A) Surface area tension"
+        },
+        {
+          "Question": "Simple harmonic motion is also known as....",
+          "OptionA": "(A) Vibratory motion",
+          "OptionB": "(B) Linear motion",
+          "OptionC": "(C) Spin motion",
+          "OptionD": "(D) Vibratory motion",
+          "CorrectOption": "(A) Vibratory motion"
+        },
+        {
+          "Question": "Within an elastic limit, the applied force is directly proportional to the displacement is known as...",
+          "OptionA": "(A) Hook's Law",
+          "OptionB": "(B) Weber's Law",
+          "OptionC": "(C) Doppler's Law",
+          "OptionD": "(D) Fechner's Law",
+          "CorrectOption": "(A) Hook's Law"
+        },
+        {
+          "Question": "The S.I unit of force constant is",
+          "OptionA": "(A) N/m",
+          "OptionB": "(B) N.m",
+          "OptionC": "(C) N/m^2",
+          "OptionD": "(D) No unit",
+          "CorrectOption": "(A) N/m"
+        },
+        {
+          "Question": "A mass of 0.2 kg is attached to a spring placed on a horizontal frictionless surface. If it is displaced 40 cm by applying a force of 10 N, the value of force constant is",
+          "OptionA": "(A) 25 N/m",
+          "OptionB": "(B) 50 N/m",
+          "OptionC": "(C) 250 N/m",
+          "OptionD": "(D) 500 N/m",
+          "CorrectOption": "(A) 25 N/m"
+        },
+        {
+          "Question": "The maximum displacement from its mean position to any extreme position is known as",
+          "OptionA": "(A) Amplitude",
+          "OptionB": "(B) Wavelength",
+          "OptionC": "(C) Speed",
+          "OptionD": "(D) Length",
+          "CorrectOption": "(A) Amplitude"
+        },
+        {
+          "Question": "If a spring is cut into three equal parts, the spring constant of each part will be (MDCAT 2022)",
+          "OptionA": "(A) 3K",
+          "OptionB": "(B) K/3",
+          "OptionC": "(C) K",
+          "OptionD": "(D) 3K/2",
+          "CorrectOption": "(B) K/3"
+        },
+        
+        {
+          "Question": "In which term is the volume constant?",
+          "OptionA": "a. Isobaric",
+          "OptionB": "b. Isochoric",
+          "OptionC": "c. Isothermal",
+          "OptionD": "d. None of these",
+          "CorrectOption": "c. Isothermal"
+        },
+
+  {
+    "Question": "Unit of Partial Pressure =",
+    "OptionA": "a. Pascal",
+    "OptionB": "b. Newton",
+    "OptionC": "c. Joule",
+    "OptionD": "d. Watt",
+    "CorrectOption": "a. Pascal"
+  },
+  {
+    "Question": "Displacement is a quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "Electric Field Intensity is a quantity",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "Unit of magnetic flux",
+    "OptionA": "a. Weber (Correct)",
+    "OptionB": "b. Tesla",
+    "OptionC": "c. Henry",
+    "OptionD": "d. Pascal",
+    "CorrectOption": "a. Weber"
+  },
+  {
+    "Question": "Formula of power",
+    "OptionA": "a. P = VI",
+    "OptionB": "b. P = V^2/R",
+    "OptionC": "c. P = I^2R",
+    "OptionD": "d. All of the above (Correct)",
+    "CorrectOption": "d. All of the above"
+  },
+  {
+    "Question": "Refraction Index of air",
+    "OptionA": "a. 1.0",
+    "OptionB": "b. 1.3",
+    "OptionC": "c. 1.5",
+    "OptionD": "d. 2.0",
+    "CorrectOption": "a. 1.0"
+  },
+  {
+    "Question": "The power in which temperature remains constant",
+    "OptionA": "a. Isothermal (Correct)",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "a. Isothermal"
+  },
+  {
+    "Question": "Newton's Second Law of motion is also known as",
+    "OptionA": "a. Law of Inertia",
+    "OptionB": "b. Law of Action and Reaction (Correct)",
+    "OptionC": "c. Law of Gravitation",
+    "OptionD": "d. Law of Reflection",
+    "CorrectOption": "b. Law of Action and Reaction"
+  },
+  {
+    "Question": "The refraction Index of Glass",
+    "OptionA": "a. 1.0",
+    "OptionB": "b. 1.3",
+    "OptionC": "c. 1.5",
+    "OptionD": "d. 2.0",
+    "CorrectOption": "c. 1.5"
+  },
+  {
+    "Question": "The dimension of velocity is",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Linear",
+    "OptionD": "d. Angular",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "A red cloth will cloth",
+    "OptionA": "a. Reflect",
+    "OptionB": "b. Refract",
+    "OptionC": "c. Absorb (Correct)",
+    "OptionD": "d. Radiate",
+    "CorrectOption": "c. Absorb"
+  },
+  {
+    "Question": "Volume is constant during",
+    "OptionA": "a. Isothermal",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric (Correct)",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "c. Isochoric"
+  },
+  {
+    "Question": "Hook's Law depends upon",
+    "OptionA": "a. Heat",
+    "OptionB": "b. Mass",
+    "OptionC": "c. Force (Correct)",
+    "OptionD": "d. Time",
+    "CorrectOption": "c. Force"
+  },
+  {
+    "Question": "Work done is maximum when the angle between force and displacement is",
+    "OptionA": "a. 0 degrees",
+    "OptionB": "b. 90 degrees (Correct)",
+    "OptionC": "c. 180 degrees",
+    "OptionD": "d. 360 degrees",
+    "CorrectOption": "b. 90 degrees"
+  },
+  {
+    "Question": "Conductors have electrons",
+    "OptionA": "a. Inside",
+    "OptionB": "b. Outside",
+    "OptionC": "c. Both inside and outside (Correct)",
+    "OptionD": "d. None of the above",
+    "CorrectOption": "c. Both inside and outside"
+  },
+  {
+    "Question": "According to Maxwell light is",
+    "OptionA": "a. Wave",
+    "OptionB": "b. Particle",
+    "OptionC": "c. Both wave and particle (Correct)",
+    "OptionD": "d. None of the above",
+    "CorrectOption": "c. Both wave and particle"
+  },
+  {
+    "Question": "Physical Quantity which needs direction with proper unit and magnitude",
+    "OptionA": "a. Scalar",
+    "OptionB": "b. Vector (Correct)",
+    "OptionC": "c. Tensor",
+    "OptionD": "d. Scalar and Tensor",
+    "CorrectOption": "b. Vector"
+  },
+  {
+    "Question": "How many Fundamentals units in science?",
+    "OptionA": "a. Five",
+    "OptionB": "b. Six",
+    "OptionC": "c. Seven (Correct)",
+    "OptionD": "d. Eight",
+    "CorrectOption": "c. Seven"
+  },
+  {
+    "Question": "If vectors are perpendicular then their dot product is",
+    "OptionA": "a. One",
+    "OptionB": "b. Zero (Correct)",
+    "OptionC": "c. Two",
+    "OptionD": "d. Infinite",
+    "CorrectOption": "b. Zero"
+  },
+  {
+    "Question": "Magnetic Field will be between",
+    "OptionA": "a. Charges",
+    "OptionB": "b. Poles of Magnet (Correct)",
+    "OptionC": "c. Conductors",
+    "OptionD": "d. Insulators",
+    "CorrectOption": "b. Poles of Magnet"
+  },
+  {
+    "Question": "Process in which heat is constant",
+    "OptionA": "a. Isothermal",
+    "OptionB": "b. Isobaric",
+    "OptionC": "c. Isochoric (Correct)",
+    "OptionD": "d. Adiabatic",
+    "CorrectOption": "c. Isochoric"
+  },
+  {
+    "Question": "Newton 3rd Law also called",
+    "OptionA": "a. Law of Gravitation",
+    "OptionB": "b. Law of Action and Reaction (Correct)",
+    "OptionC": "c. Law of Inertia",
+    "OptionD": "d. Law of Reflection",
+    "CorrectOption": "b. Law of Action and Reaction"
+  },
+  {
+    "Question": "Which one of the following is not a unit of length:",
+    "OptionA": "A: Angstrom",
+    "OptionB": "B: Micron",
+    "OptionC": "C: Radian (Correct)",
+    "OptionD": "D: Light Year",
+    "CorrectOption": "C: Radian"
+  },
+  {
+    "Question": "Steradian is the angle which lies in:",
+    "OptionA": "A: One Dimension",
+    "OptionB": "B: Two Dimensions",
+    "OptionC": "C: Three Dimensions (Correct)",
+    "OptionD": "D: None",
+    "CorrectOption": "C: Three Dimensions"
+  },
+  {
+    "Question": "Candela is the SI unit of:",
+    "OptionA": "A: Charge",
+    "OptionB": "B: Luminous Intensity (Correct)",
+    "OptionC": "C: Power",
+    "OptionD": "D: Refractive Index",
+    "CorrectOption": "B: Luminous Intensity"
+  },
+  {
+    "Question": "The SI unit of capacitance is:",
+    "OptionA": "A: Ohm",
+    "OptionB": "B: Farad (Correct)",
+    "OptionC": "C: Henry",
+    "OptionD": "D: Volt",
+    "CorrectOption": "B: Farad"
+  },
+  {
+    "Question": "The phenomenon of change of light direction when it passes through a medium causing a change in its speed is known as:",
+    "OptionA": "A: Diffraction",
+    "OptionB": "B: Dispersion",
+    "OptionC": "C: Refraction (Correct)",
+    "OptionD": "D: Reflection",
+    "CorrectOption": "C: Refraction"
+  },
+  {
+    "Question": "The law that states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided the temperature remains constant, is known as:",
+    "OptionA": "A: Ohm's Law (Correct)",
+    "OptionB": "B: Joule's Law",
+    "OptionC": "C: Coulomb's Law",
+    "OptionD": "D: Hooke's Law",
+    "CorrectOption": "A: Ohm's Law"
+  },
+  {
+    "Question": "Which of the following is NOT a unit of energy?",
+    "OptionA": "A: Joule",
+    "OptionB": "B: Watt",
+    "OptionC": "C: Ampere",
+    "OptionD": "D: Electronvolt (Correct)",
+    "CorrectOption": "D: Electronvolt"
+  },
+
+  {
+    "Question": "The force of attraction between two masses is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. This statement defines:",
+    "OptionA": "A: Newton's First Law",
+    "OptionB": "B: Newton's Second Law",
+    "OptionC": "C: Newton's Third Law",
+    "OptionD": "D: Law of Universal Gravitation (Correct)",
+    "CorrectOption": "D: Law of Universal Gravitation"
+  },
+  {
+    "Question": "The device used for measuring electric current is called:",
+    "OptionA": "A: Voltmeter",
+    "OptionB": "B: Ammeter (Correct)",
+    "OptionC": "C: Barometer",
+    "OptionD": "D: Thermometer",
+    "CorrectOption": "B: Ammeter"
+  },
+  {
+    "Question": "The property of a body to remain at rest or in uniform motion unless acted upon by an external force is described by:",
+    "OptionA": "A: Newton's First Law (Correct)",
+    "OptionB": "B: Newton's Second Law",
+    "OptionC": "C: Newton's Third Law",
+    "OptionD": "D: Law of Universal Gravitation",
+    "CorrectOption": "A: Newton's First Law"
+  }
+
+  ]
