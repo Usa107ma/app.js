@@ -23,7 +23,7 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <ImageBackground
-      source={require('./Background3.jpg')}
+    source={require('./assets/Background3.jpg')}
       style={styles.container}
     >
       <View style={styles.blockContainer}>

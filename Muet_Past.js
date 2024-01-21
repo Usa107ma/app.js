@@ -8,7 +8,7 @@ const MuetPast = () => {
     const fetchData = () => {
       try {
         // Import JSON data directly
-        const jsonData = require('./muet_physics.json'); // Adjust the import path based on your project structure
+        const jsonData = require('./assets/muet_physics.json'); // Adjust the import path based on your project structure
 
         console.log('JSON Data:', jsonData);
 
@@ -41,21 +41,47 @@ const MuetPast = () => {
     </ScrollView>
   );
 };
-
 const styles = StyleSheet.create({
   scrollViewContent: {
     flexGrow: 1,
-    alignItems: 'flex-start', // Align content to the left
+    alignItems: 'center',
     padding: 20,
+    backgroundColor: 'black',
   },
   heading: {
-    fontSize: 20,
+    fontSize: 28,
     fontWeight: 'bold',
-    marginBottom: 10,
+    marginBottom: 20,
+    color: 'blue',
   },
   questionContainer: {
+    backgroundColor: 'white',
+    padding: 20,
+    borderRadius: 10,
     marginBottom: 20,
+    width: '80%', // Adjust the width as needed
+  },
+  questionText: {
+    fontSize: 30,
+    fontWeight: 'bold',
+    marginBottom: 10,
+    color: 'black',
+    width: '100%', // Ensure the text takes up the full width
+  },
+  optionText: {
+    fontSize: 24,
+    marginBottom: 5,
+    color: 'black',
+    width: '100%', // Ensure the text takes up the full width
+  },
+  correctOptionText: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginTop: 10,
+    color: 'green',
+    width: '100%', // Ensure the text takes up the full width
   },
 });
+
 
 export default MuetPast;
